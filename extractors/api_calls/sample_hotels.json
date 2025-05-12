@@ -1,0 +1,1884 @@
+[
+  {
+    "name": "Crystal Suites",
+    "formatted_address": "1 Crystal Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 88.36801,
+        "lng": 32.355944
+      }
+    },
+    "amenities": [
+      "parking",
+      "gym"
+    ],
+    "rating": 1.0
+  },
+  {
+    "name": "Radiant Gallery",
+    "formatted_address": "2 Radiant Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": 5.107824,
+        "lng": 48.515257
+      }
+    },
+    "amenities": [
+      "gym",
+      "parking"
+    ],
+    "rating": 3.5
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "3 Serene Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -20.867862,
+        "lng": -16.262053
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "breakfast included",
+      "spa",
+      "free wifi"
+    ],
+    "rating": 4.8
+  },
+  {
+    "name": "Golden Suites",
+    "formatted_address": "4 Golden Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -19.916446,
+        "lng": -176.738605
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "parking",
+      "pet friendly",
+      "airport shuttle",
+      "bar"
+    ],
+    "rating": 2.8
+  },
+  {
+    "name": "Oceanview Haven",
+    "formatted_address": "5 Oceanview Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -31.399171,
+        "lng": -34.584257
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "gym"
+    ],
+    "rating": 2.1
+  },
+  {
+    "name": "Harmony Gallery",
+    "formatted_address": "6 Harmony Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": 78.815818,
+        "lng": -79.201662
+      }
+    },
+    "amenities": [
+      "spa",
+      "restaurant",
+      "bar"
+    ],
+    "rating": 4.4
+  },
+  {
+    "name": "Radiant Point",
+    "formatted_address": "7 Radiant Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -76.618598,
+        "lng": 154.670311
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "bar",
+      "gym",
+      "airport shuttle"
+    ],
+    "rating": 1.5
+  },
+  {
+    "name": "Regal Resort",
+    "formatted_address": "8 Regal Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": -38.48493,
+        "lng": 164.183522
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "restaurant"
+    ],
+    "rating": 2.8
+  },
+  {
+    "name": "Emerald Vista",
+    "formatted_address": "9 Emerald Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": 66.321876,
+        "lng": -43.320265
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 4.0
+  },
+  {
+    "name": "Grand Oasis",
+    "formatted_address": "10 Grand Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -54.548405,
+        "lng": 3.170205
+      }
+    },
+    "amenities": [
+      "bar"
+    ],
+    "rating": 2.2
+  },
+  {
+    "name": "Starlight Vista",
+    "formatted_address": "11 Starlight Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 75.436619,
+        "lng": -34.092795
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "restaurant",
+      "pet friendly",
+      "parking"
+    ],
+    "rating": 2.5
+  },
+  {
+    "name": "Serene Palace",
+    "formatted_address": "12 Serene Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": -58.494751,
+        "lng": -1.689627
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "bar",
+      "spa"
+    ],
+    "rating": 2.4
+  },
+  {
+    "name": "Azure Gallery",
+    "formatted_address": "13 Azure Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": 52.980959,
+        "lng": 38.782277
+      }
+    },
+    "amenities": [
+      "bar"
+    ],
+    "rating": 5.0
+  },
+  {
+    "name": "Harmony Vista",
+    "formatted_address": "14 Harmony Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": 52.545826,
+        "lng": 124.46876
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "pet friendly",
+      "gym"
+    ],
+    "rating": 4.9
+  },
+  {
+    "name": "Sunset Villa",
+    "formatted_address": "15 Sunset Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": 11.202655,
+        "lng": 165.740838
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "free wifi",
+      "airport shuttle"
+    ],
+    "rating": 1.5
+  },
+  {
+    "name": "Mountain Vista",
+    "formatted_address": "16 Mountain Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": 51.627607,
+        "lng": 67.133363
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "spa",
+      "pet friendly",
+      "bar"
+    ],
+    "rating": 4.4
+  },
+  {
+    "name": "Harmony Point",
+    "formatted_address": "17 Harmony Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -45.276178,
+        "lng": 130.020213
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "spa",
+      "pet friendly"
+    ],
+    "rating": 2.7
+  },
+  {
+    "name": "Starlight Manor",
+    "formatted_address": "18 Starlight Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 76.178216,
+        "lng": -29.778318
+      }
+    },
+    "amenities": [
+      "pool"
+    ],
+    "rating": 2.3
+  },
+  {
+    "name": "Sunset Manor",
+    "formatted_address": "19 Sunset Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -38.538085,
+        "lng": 7.147917
+      }
+    },
+    "amenities": [
+      "restaurant"
+    ],
+    "rating": 1.8
+  },
+  {
+    "name": "Harmony Heights",
+    "formatted_address": "20 Harmony Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": 39.888068,
+        "lng": -139.229076
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "spa",
+      "parking",
+      "pool"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Evergreen Gardens",
+    "formatted_address": "21 Evergreen Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 44.548609,
+        "lng": -55.546483
+      }
+    },
+    "amenities": [
+      "pool"
+    ],
+    "rating": 2.0
+  },
+  {
+    "name": "Golden Suites",
+    "formatted_address": "22 Golden Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": 22.444407,
+        "lng": 150.265708
+      }
+    },
+    "amenities": [
+      "restaurant"
+    ],
+    "rating": 2.7
+  },
+  {
+    "name": "Emerald Vista",
+    "formatted_address": "23 Emerald Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -10.450791,
+        "lng": 99.673826
+      }
+    },
+    "amenities": [
+      "breakfast included"
+    ],
+    "rating": 2.6
+  },
+  {
+    "name": "Regal Oasis",
+    "formatted_address": "24 Regal Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": 60.669814,
+        "lng": 133.397526
+      }
+    },
+    "amenities": [
+      "bar",
+      "airport shuttle",
+      "restaurant",
+      "spa",
+      "parking"
+    ],
+    "rating": 3.9
+  },
+  {
+    "name": "Mountain Terrace",
+    "formatted_address": "25 Mountain Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": 27.445148,
+        "lng": 84.208724
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Serene Vista",
+    "formatted_address": "26 Serene Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": 63.672919,
+        "lng": -141.345072
+      }
+    },
+    "amenities": [
+      "bar",
+      "pool"
+    ],
+    "rating": 2.0
+  },
+  {
+    "name": "Majestic Lodge",
+    "formatted_address": "27 Majestic Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -34.202838,
+        "lng": 55.879372
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "breakfast included",
+      "gym"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Golden Palace",
+    "formatted_address": "28 Golden Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 20.436643,
+        "lng": -177.744372
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pet friendly",
+      "pool"
+    ],
+    "rating": 3.7
+  },
+  {
+    "name": "Silver Bay",
+    "formatted_address": "29 Silver Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -8.976982,
+        "lng": -18.978974
+      }
+    },
+    "amenities": [
+      "gym",
+      "airport shuttle",
+      "pet friendly",
+      "breakfast included",
+      "bar"
+    ],
+    "rating": 1.8
+  },
+  {
+    "name": "Golden Palace",
+    "formatted_address": "30 Golden Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -64.672312,
+        "lng": 15.179366
+      }
+    },
+    "amenities": [
+      "spa",
+      "breakfast included",
+      "pet friendly"
+    ],
+    "rating": 4.3
+  },
+  {
+    "name": "Starlight Lodge",
+    "formatted_address": "31 Starlight Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": -14.273032,
+        "lng": 55.251643
+      }
+    },
+    "amenities": [
+      "gym",
+      "spa",
+      "parking"
+    ],
+    "rating": 1.9
+  },
+  {
+    "name": "Azure Inn",
+    "formatted_address": "32 Azure Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": -14.07823,
+        "lng": 96.262967
+      }
+    },
+    "amenities": [
+      "bar",
+      "pool",
+      "parking"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Crystal Villa",
+    "formatted_address": "33 Crystal Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -55.062961,
+        "lng": 8.550393
+      }
+    },
+    "amenities": [
+      "gym"
+    ],
+    "rating": 3.1
+  },
+  {
+    "name": "Evergreen Harbor",
+    "formatted_address": "34 Evergreen Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -42.804777,
+        "lng": 119.830184
+      }
+    },
+    "amenities": [
+      "gym",
+      "spa",
+      "bar",
+      "parking"
+    ],
+    "rating": 3.2
+  },
+  {
+    "name": "Mountain Harbor",
+    "formatted_address": "35 Mountain Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -34.93868,
+        "lng": -43.012465
+      }
+    },
+    "amenities": [
+      "bar",
+      "pet friendly"
+    ],
+    "rating": 3.0
+  },
+  {
+    "name": "Crystal Meadows",
+    "formatted_address": "36 Crystal Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": -42.403393,
+        "lng": 176.858459
+      }
+    },
+    "amenities": [
+      "pool",
+      "spa",
+      "free wifi",
+      "gym"
+    ],
+    "rating": 4.9
+  },
+  {
+    "name": "Grand Gardens",
+    "formatted_address": "37 Grand Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": 72.076382,
+        "lng": 9.391066
+      }
+    },
+    "amenities": [
+      "free wifi"
+    ],
+    "rating": 2.5
+  },
+  {
+    "name": "Grand Vista",
+    "formatted_address": "38 Grand Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 13.2253,
+        "lng": 131.043956
+      }
+    },
+    "amenities": [
+      "parking",
+      "bar",
+      "breakfast included",
+      "restaurant"
+    ],
+    "rating": 1.5
+  },
+  {
+    "name": "Oceanview Suites",
+    "formatted_address": "39 Oceanview Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": 37.10009,
+        "lng": -165.972518
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pool",
+      "spa",
+      "pet friendly"
+    ],
+    "rating": 2.2
+  },
+  {
+    "name": "Radiant Retreat",
+    "formatted_address": "40 Radiant Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -29.039464,
+        "lng": -115.08588
+      }
+    },
+    "amenities": [
+      "gym",
+      "restaurant",
+      "free wifi",
+      "spa",
+      "pet friendly"
+    ],
+    "rating": 1.4
+  },
+  {
+    "name": "Radiant Terrace",
+    "formatted_address": "41 Radiant Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 54.142685,
+        "lng": -92.693506
+      }
+    },
+    "amenities": [
+      "bar",
+      "free wifi",
+      "pet friendly",
+      "airport shuttle",
+      "pool"
+    ],
+    "rating": 3.5
+  },
+  {
+    "name": "Crystal Point",
+    "formatted_address": "42 Crystal Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": -52.867064,
+        "lng": 74.372514
+      }
+    },
+    "amenities": [
+      "bar",
+      "airport shuttle",
+      "free wifi",
+      "gym"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Majestic Gallery",
+    "formatted_address": "43 Majestic Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -5.462743,
+        "lng": 101.642947
+      }
+    },
+    "amenities": [
+      "parking",
+      "free wifi"
+    ],
+    "rating": 1.4
+  },
+  {
+    "name": "Starlight Retreat",
+    "formatted_address": "44 Starlight Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -12.904738,
+        "lng": 57.2272
+      }
+    },
+    "amenities": [
+      "pool"
+    ],
+    "rating": 3.7
+  },
+  {
+    "name": "Imperial Point",
+    "formatted_address": "45 Imperial Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": 83.9795,
+        "lng": 124.469275
+      }
+    },
+    "amenities": [
+      "bar",
+      "breakfast included"
+    ],
+    "rating": 3.1
+  },
+  {
+    "name": "Crystal Terrace",
+    "formatted_address": "46 Crystal Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": 75.203864,
+        "lng": 159.512629
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "airport shuttle"
+    ],
+    "rating": 3.9
+  },
+  {
+    "name": "Majestic Suites",
+    "formatted_address": "47 Majestic Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": 39.432533,
+        "lng": 34.189041
+      }
+    },
+    "amenities": [
+      "restaurant"
+    ],
+    "rating": 3.0
+  },
+  {
+    "name": "Regal Courtyard",
+    "formatted_address": "48 Regal Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 66.798013,
+        "lng": 123.736032
+      }
+    },
+    "amenities": [
+      "parking",
+      "breakfast included"
+    ],
+    "rating": 2.3
+  },
+  {
+    "name": "Tranquil Bay",
+    "formatted_address": "49 Tranquil Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": 87.32508,
+        "lng": -86.202531
+      }
+    },
+    "amenities": [
+      "bar",
+      "breakfast included",
+      "pet friendly"
+    ],
+    "rating": 4.7
+  },
+  {
+    "name": "Crystal Haven",
+    "formatted_address": "50 Crystal Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -33.861188,
+        "lng": -157.260086
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "free wifi"
+    ],
+    "rating": 4.8
+  },
+  {
+    "name": "Tranquil Inn",
+    "formatted_address": "51 Tranquil Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": -19.997074,
+        "lng": 69.776056
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "pool",
+      "bar"
+    ],
+    "rating": 1.4
+  },
+  {
+    "name": "Tranquil Lodge",
+    "formatted_address": "52 Tranquil Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": -29.899279,
+        "lng": -169.58164
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "free wifi"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Starlight Meadows",
+    "formatted_address": "53 Starlight Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": 54.953265,
+        "lng": -34.717598
+      }
+    },
+    "amenities": [
+      "spa"
+    ],
+    "rating": 3.5
+  },
+  {
+    "name": "Harmony Terrace",
+    "formatted_address": "54 Harmony Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -77.155245,
+        "lng": 24.366526
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 1.0
+  },
+  {
+    "name": "Royal Harbor",
+    "formatted_address": "55 Royal Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -0.887085,
+        "lng": -46.534375
+      }
+    },
+    "amenities": [
+      "bar",
+      "breakfast included",
+      "pet friendly"
+    ],
+    "rating": 2.8
+  },
+  {
+    "name": "Grand Villa",
+    "formatted_address": "56 Grand Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": -82.961874,
+        "lng": 43.884766
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "pool",
+      "spa"
+    ],
+    "rating": 3.8
+  },
+  {
+    "name": "Majestic Inn",
+    "formatted_address": "57 Majestic Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -51.50097,
+        "lng": -79.036627
+      }
+    },
+    "amenities": [
+      "pool",
+      "airport shuttle",
+      "restaurant"
+    ],
+    "rating": 3.0
+  },
+  {
+    "name": "Imperial Lodge",
+    "formatted_address": "58 Imperial Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 6.822427,
+        "lng": -59.081983
+      }
+    },
+    "amenities": [
+      "gym",
+      "breakfast included"
+    ],
+    "rating": 1.3
+  },
+  {
+    "name": "Emerald Suites",
+    "formatted_address": "59 Emerald Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -33.384721,
+        "lng": 165.609294
+      }
+    },
+    "amenities": [
+      "gym",
+      "spa",
+      "airport shuttle",
+      "bar",
+      "parking"
+    ],
+    "rating": 3.9
+  },
+  {
+    "name": "Sunset Oasis",
+    "formatted_address": "60 Sunset Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -28.65926,
+        "lng": -22.938678
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pool",
+      "restaurant",
+      "free wifi",
+      "pet friendly"
+    ],
+    "rating": 4.6
+  },
+  {
+    "name": "Silver Vista",
+    "formatted_address": "61 Silver Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 34.562449,
+        "lng": -103.303959
+      }
+    },
+    "amenities": [
+      "free wifi"
+    ],
+    "rating": 2.3
+  },
+  {
+    "name": "Starlight Lodge",
+    "formatted_address": "62 Starlight Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": 60.324194,
+        "lng": -150.095212
+      }
+    },
+    "amenities": [
+      "gym",
+      "airport shuttle"
+    ],
+    "rating": 2.4
+  },
+  {
+    "name": "Regal Villa",
+    "formatted_address": "63 Regal Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": 69.473263,
+        "lng": -45.337839
+      }
+    },
+    "amenities": [
+      "pool",
+      "restaurant",
+      "pet friendly",
+      "airport shuttle",
+      "spa"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Royal Gallery",
+    "formatted_address": "64 Royal Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -82.621654,
+        "lng": -69.594391
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "bar",
+      "free wifi",
+      "parking",
+      "restaurant"
+    ],
+    "rating": 2.9
+  },
+  {
+    "name": "Tranquil Meadows",
+    "formatted_address": "65 Tranquil Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -57.451626,
+        "lng": 92.3526
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "restaurant",
+      "airport shuttle"
+    ],
+    "rating": 3.8
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "66 Serene Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": -11.84593,
+        "lng": 146.762842
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 3.4
+  },
+  {
+    "name": "Golden Bay",
+    "formatted_address": "67 Golden Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -37.644752,
+        "lng": -170.360382
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "gym",
+      "pool",
+      "bar",
+      "pet friendly"
+    ],
+    "rating": 2.5
+  },
+  {
+    "name": "Imperial Retreat",
+    "formatted_address": "68 Imperial Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 85.618371,
+        "lng": -93.593818
+      }
+    },
+    "amenities": [
+      "bar"
+    ],
+    "rating": 4.9
+  },
+  {
+    "name": "Serene Suites",
+    "formatted_address": "69 Serene Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": 24.785973,
+        "lng": -141.200025
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "free wifi",
+      "bar",
+      "gym"
+    ],
+    "rating": 3.6
+  },
+  {
+    "name": "Crystal Inn",
+    "formatted_address": "70 Crystal Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -71.776054,
+        "lng": 133.613661
+      }
+    },
+    "amenities": [
+      "spa",
+      "airport shuttle"
+    ],
+    "rating": 4.4
+  },
+  {
+    "name": "Mountain Inn",
+    "formatted_address": "71 Mountain Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 52.659923,
+        "lng": 176.713536
+      }
+    },
+    "amenities": [
+      "bar",
+      "spa"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Regal Vista",
+    "formatted_address": "72 Regal Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": 48.60252,
+        "lng": -82.100226
+      }
+    },
+    "amenities": [
+      "bar",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 3.5
+  },
+  {
+    "name": "Oceanview Gardens",
+    "formatted_address": "73 Oceanview Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -87.713049,
+        "lng": -178.458492
+      }
+    },
+    "amenities": [
+      "airport shuttle"
+    ],
+    "rating": 2.5
+  },
+  {
+    "name": "Silver Point",
+    "formatted_address": "74 Silver Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": 26.011343,
+        "lng": -111.268307
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 3.3
+  },
+  {
+    "name": "Emerald Gallery",
+    "formatted_address": "75 Emerald Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -39.084769,
+        "lng": 162.391286
+      }
+    },
+    "amenities": [
+      "airport shuttle"
+    ],
+    "rating": 3.4
+  },
+  {
+    "name": "Regal Gallery",
+    "formatted_address": "76 Regal Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": 67.420142,
+        "lng": -134.243808
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "airport shuttle",
+      "breakfast included"
+    ],
+    "rating": 2.9
+  },
+  {
+    "name": "Evergreen Terrace",
+    "formatted_address": "77 Evergreen Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -51.413526,
+        "lng": 16.648306
+      }
+    },
+    "amenities": [
+      "bar",
+      "parking"
+    ],
+    "rating": 2.4
+  },
+  {
+    "name": "Crystal Gallery",
+    "formatted_address": "78 Crystal Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": -46.772119,
+        "lng": -141.234683
+      }
+    },
+    "amenities": [
+      "gym",
+      "spa"
+    ],
+    "rating": 4.6
+  },
+  {
+    "name": "Oceanview Villa",
+    "formatted_address": "79 Oceanview Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": 12.397263,
+        "lng": 7.613714
+      }
+    },
+    "amenities": [
+      "pet friendly"
+    ],
+    "rating": 3.5
+  },
+  {
+    "name": "Legacy Bay",
+    "formatted_address": "80 Legacy Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -83.767552,
+        "lng": -27.998413
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "restaurant",
+      "parking"
+    ],
+    "rating": 3.6
+  },
+  {
+    "name": "Evergreen Haven",
+    "formatted_address": "81 Evergreen Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 26.938611,
+        "lng": 155.229461
+      }
+    },
+    "amenities": [
+      "pool",
+      "gym",
+      "spa"
+    ],
+    "rating": 1.8
+  },
+  {
+    "name": "Sunset Lodge",
+    "formatted_address": "82 Sunset Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": -38.507726,
+        "lng": 125.88783
+      }
+    },
+    "amenities": [
+      "bar",
+      "airport shuttle"
+    ],
+    "rating": 2.6
+  },
+  {
+    "name": "Azure Point",
+    "formatted_address": "83 Azure Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -1.591297,
+        "lng": -142.559392
+      }
+    },
+    "amenities": [
+      "parking",
+      "airport shuttle",
+      "breakfast included",
+      "gym",
+      "pool"
+    ],
+    "rating": 4.2
+  },
+  {
+    "name": "Grand Courtyard",
+    "formatted_address": "84 Grand Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": 8.70855,
+        "lng": -167.606486
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "gym",
+      "airport shuttle"
+    ],
+    "rating": 3.8
+  },
+  {
+    "name": "Sunset Harbor",
+    "formatted_address": "85 Sunset Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -35.070015,
+        "lng": 75.626227
+      }
+    },
+    "amenities": [
+      "pool"
+    ],
+    "rating": 1.3
+  },
+  {
+    "name": "Radiant Terrace",
+    "formatted_address": "86 Radiant Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": 7.281787,
+        "lng": -137.257472
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pet friendly",
+      "spa",
+      "gym",
+      "bar"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Harmony Bay",
+    "formatted_address": "87 Harmony Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -52.787454,
+        "lng": 7.58182
+      }
+    },
+    "amenities": [
+      "parking",
+      "gym",
+      "bar",
+      "spa"
+    ],
+    "rating": 2.3
+  },
+  {
+    "name": "Imperial Inn",
+    "formatted_address": "88 Imperial Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 25.115672,
+        "lng": -179.16969
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "bar",
+      "breakfast included",
+      "spa"
+    ],
+    "rating": 1.4
+  },
+  {
+    "name": "Mountain Inn",
+    "formatted_address": "89 Mountain Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -66.045642,
+        "lng": 136.986335
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "spa"
+    ],
+    "rating": 1.1
+  },
+  {
+    "name": "Crystal Retreat",
+    "formatted_address": "90 Crystal Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -48.492674,
+        "lng": -82.881517
+      }
+    },
+    "amenities": [
+      "bar",
+      "pet friendly"
+    ],
+    "rating": 1.3
+  },
+  {
+    "name": "Legacy Manor",
+    "formatted_address": "91 Legacy Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 72.304483,
+        "lng": 19.481142
+      }
+    },
+    "amenities": [
+      "bar",
+      "gym",
+      "parking",
+      "restaurant",
+      "breakfast included"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Mountain Inn",
+    "formatted_address": "92 Mountain Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": 55.59449,
+        "lng": 116.316679
+      }
+    },
+    "amenities": [
+      "free wifi"
+    ],
+    "rating": 2.2
+  },
+  {
+    "name": "Emerald Retreat",
+    "formatted_address": "93 Emerald Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": 82.335589,
+        "lng": 104.021107
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 1.0
+  },
+  {
+    "name": "Crystal Palace",
+    "formatted_address": "94 Crystal Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -50.297806,
+        "lng": -115.386965
+      }
+    },
+    "amenities": [
+      "bar",
+      "pool",
+      "parking",
+      "spa"
+    ],
+    "rating": 1.3
+  },
+  {
+    "name": "Legacy Bay",
+    "formatted_address": "95 Legacy Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": 4.559348,
+        "lng": 20.171294
+      }
+    },
+    "amenities": [
+      "pool"
+    ],
+    "rating": 2.9
+  },
+  {
+    "name": "Emerald Terrace",
+    "formatted_address": "96 Emerald Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": -41.377043,
+        "lng": 148.719368
+      }
+    },
+    "amenities": [
+      "spa",
+      "bar",
+      "pet friendly",
+      "free wifi"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Azure Bay",
+    "formatted_address": "97 Azure Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": -16.633204,
+        "lng": -23.206446
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "spa"
+    ],
+    "rating": 2.6
+  },
+  {
+    "name": "Golden Haven",
+    "formatted_address": "98 Golden Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": 51.502511,
+        "lng": 139.46876
+      }
+    },
+    "amenities": [
+      "pool"
+    ],
+    "rating": 1.8
+  },
+  {
+    "name": "Crystal Villa",
+    "formatted_address": "99 Crystal Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -19.324919,
+        "lng": 172.779964
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "parking",
+      "airport shuttle",
+      "pool",
+      "bar"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Oceanview Point",
+    "formatted_address": "100 Oceanview Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": -45.791229,
+        "lng": -4.193637
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "free wifi",
+      "parking",
+      "bar"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Starlight Gallery",
+    "formatted_address": "101 Starlight Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": 62.659921,
+        "lng": 130.280484
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "spa",
+      "gym"
+    ],
+    "rating": 4.6
+  },
+  {
+    "name": "Radiant Resort",
+    "formatted_address": "102 Radiant Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": 61.352991,
+        "lng": 77.057623
+      }
+    },
+    "amenities": [
+      "pet friendly"
+    ],
+    "rating": 2.7
+  },
+  {
+    "name": "Crystal Harbor",
+    "formatted_address": "103 Crystal Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": -67.425839,
+        "lng": 86.597583
+      }
+    },
+    "amenities": [
+      "spa"
+    ],
+    "rating": 4.6
+  },
+  {
+    "name": "Crystal Terrace",
+    "formatted_address": "104 Crystal Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": -83.110183,
+        "lng": -84.136656
+      }
+    },
+    "amenities": [
+      "parking",
+      "pet friendly",
+      "gym"
+    ],
+    "rating": 1.8
+  },
+  {
+    "name": "Tranquil Heights",
+    "formatted_address": "105 Tranquil Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -7.770096,
+        "lng": 117.54154
+      }
+    },
+    "amenities": [
+      "pet friendly"
+    ],
+    "rating": 4.1
+  },
+  {
+    "name": "Radiant Bay",
+    "formatted_address": "106 Radiant Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": -4.073371,
+        "lng": -1.674894
+      }
+    },
+    "amenities": [
+      "pool",
+      "breakfast included",
+      "spa"
+    ],
+    "rating": 2.0
+  },
+  {
+    "name": "Emerald Haven",
+    "formatted_address": "107 Emerald Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": 4.551569,
+        "lng": -92.965328
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 4.8
+  },
+  {
+    "name": "Serene Manor",
+    "formatted_address": "108 Serene Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": -27.065424,
+        "lng": -33.286786
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "restaurant",
+      "bar",
+      "free wifi"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Regal Heights",
+    "formatted_address": "109 Regal Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -71.709277,
+        "lng": 118.687174
+      }
+    },
+    "amenities": [
+      "gym",
+      "parking"
+    ],
+    "rating": 1.4
+  },
+  {
+    "name": "Radiant Palace",
+    "formatted_address": "110 Radiant Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": 76.169258,
+        "lng": 160.04597
+      }
+    },
+    "amenities": [
+      "parking",
+      "breakfast included",
+      "pet friendly"
+    ],
+    "rating": 2.5
+  },
+  {
+    "name": "Serene Meadows",
+    "formatted_address": "111 Serene Street, City 1, Country",
+    "geometry": {
+      "location": {
+        "lat": -74.409515,
+        "lng": -126.010219
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "airport shuttle",
+      "pool"
+    ],
+    "rating": 3.6
+  },
+  {
+    "name": "Harmony Inn",
+    "formatted_address": "112 Harmony Street, City 2, Country",
+    "geometry": {
+      "location": {
+        "lat": -1.76335,
+        "lng": 8.762239
+      }
+    },
+    "amenities": [
+      "parking"
+    ],
+    "rating": 3.8
+  },
+  {
+    "name": "Mountain Heights",
+    "formatted_address": "113 Mountain Street, City 3, Country",
+    "geometry": {
+      "location": {
+        "lat": 22.556782,
+        "lng": 74.72241
+      }
+    },
+    "amenities": [
+      "spa"
+    ],
+    "rating": 2.6
+  },
+  {
+    "name": "Regal Manor",
+    "formatted_address": "114 Regal Street, City 4, Country",
+    "geometry": {
+      "location": {
+        "lat": 6.144546,
+        "lng": -32.711355
+      }
+    },
+    "amenities": [
+      "restaurant"
+    ],
+    "rating": 2.4
+  },
+  {
+    "name": "Serene Resort",
+    "formatted_address": "115 Serene Street, City 5, Country",
+    "geometry": {
+      "location": {
+        "lat": -63.856429,
+        "lng": -132.896298
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "bar",
+      "pool"
+    ],
+    "rating": 2.7
+  },
+  {
+    "name": "Azure Heights",
+    "formatted_address": "116 Azure Street, City 6, Country",
+    "geometry": {
+      "location": {
+        "lat": -70.237687,
+        "lng": -176.041371
+      }
+    },
+    "amenities": [
+      "spa",
+      "pool",
+      "gym",
+      "pet friendly"
+    ],
+    "rating": 3.5
+  },
+  {
+    "name": "Grand Resort",
+    "formatted_address": "117 Grand Street, City 7, Country",
+    "geometry": {
+      "location": {
+        "lat": 51.027071,
+        "lng": -9.078181
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "free wifi",
+      "spa"
+    ],
+    "rating": 2.4
+  },
+  {
+    "name": "Regal Meadows",
+    "formatted_address": "118 Regal Street, City 8, Country",
+    "geometry": {
+      "location": {
+        "lat": -78.557605,
+        "lng": 19.684871
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pool",
+      "pet friendly",
+      "gym"
+    ],
+    "rating": 1.2
+  },
+  {
+    "name": "Mountain Bay",
+    "formatted_address": "119 Mountain Street, City 9, Country",
+    "geometry": {
+      "location": {
+        "lat": -79.694671,
+        "lng": -165.538569
+      }
+    },
+    "amenities": [
+      "spa",
+      "pet friendly"
+    ],
+    "rating": 1.1
+  },
+  {
+    "name": "Regal Heights",
+    "formatted_address": "120 Regal Street, City 0, Country",
+    "geometry": {
+      "location": {
+        "lat": 3.747752,
+        "lng": 78.616842
+      }
+    },
+    "amenities": [
+      "parking",
+      "breakfast included",
+      "restaurant",
+      "airport shuttle"
+    ],
+    "rating": 4.3
+  }
+]

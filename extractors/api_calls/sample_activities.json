@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Ocean Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -66.761372,
+        "lng": 122.577588
+      }
+    }
+  },
+  {
+    "name": "Peaceful Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -50.760099,
+        "lng": -170.474396
+      }
+    }
+  },
+  {
+    "name": "Modern Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 30.728593,
+        "lng": 90.974264
+      }
+    }
+  },
+  {
+    "name": "Royal Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": 69.447321,
+        "lng": -128.734562
+      }
+    }
+  },
+  {
+    "name": "Grand Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": -22.202667,
+        "lng": -62.346646
+      }
+    }
+  },
+  {
+    "name": "Central Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": -69.40521,
+        "lng": -6.110349
+      }
+    }
+  },
+  {
+    "name": "Green Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -8.563722,
+        "lng": -139.338177
+      }
+    }
+  },
+  {
+    "name": "Royal Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 60.824974,
+        "lng": 179.119825
+      }
+    }
+  },
+  {
+    "name": "Ocean Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -5.129647,
+        "lng": 111.21044
+      }
+    }
+  },
+  {
+    "name": "Peaceful Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 41.81738,
+        "lng": 1.932172
+      }
+    }
+  },
+  {
+    "name": "Ocean Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 9.334756,
+        "lng": 93.656119
+      }
+    }
+  },
+  {
+    "name": "Grand Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": 76.741937,
+        "lng": -36.445212
+      }
+    }
+  },
+  {
+    "name": "New Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": 71.039775,
+        "lng": 39.360609
+      }
+    }
+  },
+  {
+    "name": "Emerald Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -26.615058,
+        "lng": 141.414999
+      }
+    }
+  },
+  {
+    "name": "New Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": 74.831171,
+        "lng": 123.477354
+      }
+    }
+  },
+  {
+    "name": "Ocean Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -26.095861,
+        "lng": -29.145869
+      }
+    }
+  },
+  {
+    "name": "Central Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": 25.213098,
+        "lng": 82.975457
+      }
+    }
+  },
+  {
+    "name": "Green Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 13.306378,
+        "lng": 66.145292
+      }
+    }
+  },
+  {
+    "name": "Majestic Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -53.117166,
+        "lng": -93.552996
+      }
+    }
+  },
+  {
+    "name": "Crystal Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": 59.877654,
+        "lng": 75.473173
+      }
+    }
+  },
+  {
+    "name": "Emerald Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": -38.258275,
+        "lng": -64.970387
+      }
+    }
+  },
+  {
+    "name": "Sunset Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": 2.036393,
+        "lng": 88.343686
+      }
+    }
+  },
+  {
+    "name": "Grand Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 68.956476,
+        "lng": 59.891121
+      }
+    }
+  },
+  {
+    "name": "Majestic Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": 5.251222,
+        "lng": 130.437692
+      }
+    }
+  },
+  {
+    "name": "Grand Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 36.49473,
+        "lng": -150.267027
+      }
+    }
+  },
+  {
+    "name": "Historic Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": -43.798692,
+        "lng": -99.232269
+      }
+    }
+  },
+  {
+    "name": "Grand Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 55.708668,
+        "lng": -18.376114
+      }
+    }
+  },
+  {
+    "name": "Ancient Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -75.147767,
+        "lng": -8.846357
+      }
+    }
+  },
+  {
+    "name": "Modern Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -64.341988,
+        "lng": -134.509432
+      }
+    }
+  },
+  {
+    "name": "Majestic Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -41.907722,
+        "lng": -50.928426
+      }
+    }
+  },
+  {
+    "name": "Sunset Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 74.126772,
+        "lng": 12.797424
+      }
+    }
+  },
+  {
+    "name": "Hidden Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -35.968029,
+        "lng": -149.732744
+      }
+    }
+  },
+  {
+    "name": "Silver Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": 15.688114,
+        "lng": -80.598614
+      }
+    }
+  },
+  {
+    "name": "Peaceful Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -67.210852,
+        "lng": 132.551083
+      }
+    }
+  },
+  {
+    "name": "River Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 5.423485,
+        "lng": 132.707958
+      }
+    }
+  },
+  {
+    "name": "Old Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": -55.95191,
+        "lng": 35.797869
+      }
+    }
+  },
+  {
+    "name": "Emerald Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 0.720718,
+        "lng": 43.669454
+      }
+    }
+  },
+  {
+    "name": "Modern Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 28.935649,
+        "lng": 170.449558
+      }
+    }
+  },
+  {
+    "name": "New Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": 67.279721,
+        "lng": -99.223663
+      }
+    }
+  },
+  {
+    "name": "Central Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": 19.986917,
+        "lng": -51.068522
+      }
+    }
+  },
+  {
+    "name": "Emerald Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": -52.882231,
+        "lng": -9.411134
+      }
+    }
+  },
+  {
+    "name": "Sunset Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": 3.469313,
+        "lng": 29.927886
+      }
+    }
+  },
+  {
+    "name": "Grand Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 85.012496,
+        "lng": 60.120554
+      }
+    }
+  },
+  {
+    "name": "Peaceful Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -19.855321,
+        "lng": 152.090624
+      }
+    }
+  },
+  {
+    "name": "Emerald Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": 66.964205,
+        "lng": 9.08322
+      }
+    }
+  },
+  {
+    "name": "Ocean Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": -60.57086,
+        "lng": -164.134125
+      }
+    }
+  },
+  {
+    "name": "Peaceful Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -32.842499,
+        "lng": 133.314736
+      }
+    }
+  },
+  {
+    "name": "Majestic Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": -27.556515,
+        "lng": -141.277716
+      }
+    }
+  },
+  {
+    "name": "Grand Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 28.960199,
+        "lng": 118.874155
+      }
+    }
+  },
+  {
+    "name": "Crystal Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": 42.544064,
+        "lng": -48.897674
+      }
+    }
+  },
+  {
+    "name": "Peaceful Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": 38.883278,
+        "lng": 146.267304
+      }
+    }
+  },
+  {
+    "name": "Royal Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 16.47069,
+        "lng": 1.964065
+      }
+    }
+  },
+  {
+    "name": "Royal Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": 37.027574,
+        "lng": 87.54161
+      }
+    }
+  },
+  {
+    "name": "Hidden Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 14.403955,
+        "lng": 15.352866
+      }
+    }
+  },
+  {
+    "name": "Central Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -34.507037,
+        "lng": 115.165402
+      }
+    }
+  },
+  {
+    "name": "Historic Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 66.783393,
+        "lng": 43.670776
+      }
+    }
+  },
+  {
+    "name": "New Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -48.543892,
+        "lng": -0.607923
+      }
+    }
+  },
+  {
+    "name": "Ocean Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": -77.032133,
+        "lng": -68.560565
+      }
+    }
+  },
+  {
+    "name": "Historic Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": 45.916437,
+        "lng": 10.183945
+      }
+    }
+  },
+  {
+    "name": "Grand Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -82.209997,
+        "lng": -143.976557
+      }
+    }
+  },
+  {
+    "name": "Hidden Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 9.934586,
+        "lng": -121.489338
+      }
+    }
+  },
+  {
+    "name": "Ocean Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -65.23227,
+        "lng": 172.182259
+      }
+    }
+  },
+  {
+    "name": "Central Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": -2.332788,
+        "lng": -113.836868
+      }
+    }
+  },
+  {
+    "name": "Sunset Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": -20.635943,
+        "lng": -81.458959
+      }
+    }
+  },
+  {
+    "name": "Mountain Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -13.875097,
+        "lng": 140.902591
+      }
+    }
+  },
+  {
+    "name": "River Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -23.525625,
+        "lng": -89.885372
+      }
+    }
+  },
+  {
+    "name": "Green Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": 83.195767,
+        "lng": -166.674485
+      }
+    }
+  },
+  {
+    "name": "Royal Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": -53.563621,
+        "lng": -121.267357
+      }
+    }
+  },
+  {
+    "name": "Green Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": -42.164279,
+        "lng": -79.317711
+      }
+    }
+  },
+  {
+    "name": "Ocean Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": 64.352681,
+        "lng": 76.198927
+      }
+    }
+  },
+  {
+    "name": "Ocean Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": -10.346062,
+        "lng": -72.092946
+      }
+    }
+  },
+  {
+    "name": "Old Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -13.007635,
+        "lng": -152.828291
+      }
+    }
+  },
+  {
+    "name": "Historic Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 27.488764,
+        "lng": -52.701877
+      }
+    }
+  },
+  {
+    "name": "Historic Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": 85.949678,
+        "lng": -95.697401
+      }
+    }
+  },
+  {
+    "name": "Modern Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": 0.495758,
+        "lng": -73.740555
+      }
+    }
+  },
+  {
+    "name": "Peaceful Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": -61.037995,
+        "lng": -126.775019
+      }
+    }
+  },
+  {
+    "name": "Modern Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": 56.843813,
+        "lng": -65.280361
+      }
+    }
+  },
+  {
+    "name": "Sunset Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": 79.875563,
+        "lng": -157.088147
+      }
+    }
+  },
+  {
+    "name": "Old Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 82.363265,
+        "lng": -97.504532
+      }
+    }
+  },
+  {
+    "name": "River Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -2.751829,
+        "lng": 71.262471
+      }
+    }
+  },
+  {
+    "name": "Central Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": 69.729939,
+        "lng": -96.101396
+      }
+    }
+  },
+  {
+    "name": "Historic Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": 78.287329,
+        "lng": -77.543865
+      }
+    }
+  },
+  {
+    "name": "Sunset Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": -69.547713,
+        "lng": -178.517209
+      }
+    }
+  },
+  {
+    "name": "River Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": 63.248257,
+        "lng": -159.235039
+      }
+    }
+  },
+  {
+    "name": "Historic Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": 53.779179,
+        "lng": -7.061242
+      }
+    }
+  },
+  {
+    "name": "Hidden Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": 32.367618,
+        "lng": 97.496404
+      }
+    }
+  },
+  {
+    "name": "Hidden Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 17.215989,
+        "lng": 178.836287
+      }
+    }
+  },
+  {
+    "name": "New Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -69.129118,
+        "lng": -23.933626
+      }
+    }
+  },
+  {
+    "name": "Mountain Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": 71.264853,
+        "lng": 147.033217
+      }
+    }
+  },
+  {
+    "name": "Hidden Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -7.003994,
+        "lng": -22.480523
+      }
+    }
+  },
+  {
+    "name": "Green Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 67.124561,
+        "lng": -95.970002
+      }
+    }
+  },
+  {
+    "name": "Mountain Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": -18.342869,
+        "lng": -154.100152
+      }
+    }
+  },
+  {
+    "name": "Green Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": -59.666951,
+        "lng": 67.469461
+      }
+    }
+  },
+  {
+    "name": "Green Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -75.780536,
+        "lng": -87.274056
+      }
+    }
+  },
+  {
+    "name": "Silver Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -0.661028,
+        "lng": 63.871646
+      }
+    }
+  },
+  {
+    "name": "Ancient Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -66.130398,
+        "lng": -95.291638
+      }
+    }
+  },
+  {
+    "name": "Sunset Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": 14.136735,
+        "lng": -161.075286
+      }
+    }
+  },
+  {
+    "name": "New Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 9.753119,
+        "lng": 33.217049
+      }
+    }
+  },
+  {
+    "name": "Ancient Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": 31.109382,
+        "lng": 20.10087
+      }
+    }
+  },
+  {
+    "name": "Majestic Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": 77.751036,
+        "lng": 6.757302
+      }
+    }
+  },
+  {
+    "name": "Royal Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": -9.603078,
+        "lng": 143.185806
+      }
+    }
+  },
+  {
+    "name": "Emerald Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 41.189343,
+        "lng": -95.359206
+      }
+    }
+  },
+  {
+    "name": "New Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": 62.590829,
+        "lng": 165.469018
+      }
+    }
+  },
+  {
+    "name": "Old Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": 14.316807,
+        "lng": 49.19556
+      }
+    }
+  },
+  {
+    "name": "Emerald Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": 38.279714,
+        "lng": -45.278098
+      }
+    }
+  },
+  {
+    "name": "Peaceful Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": 36.877414,
+        "lng": -26.017271
+      }
+    }
+  },
+  {
+    "name": "Green Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": 49.588132,
+        "lng": 156.579164
+      }
+    }
+  },
+  {
+    "name": "River Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -5.133162,
+        "lng": -55.612923
+      }
+    }
+  },
+  {
+    "name": "Green Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": 15.279856,
+        "lng": -82.411426
+      }
+    }
+  },
+  {
+    "name": "River Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": -52.629102,
+        "lng": -133.76002
+      }
+    }
+  },
+  {
+    "name": "Sunset Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": 10.083768,
+        "lng": 46.251402
+      }
+    }
+  },
+  {
+    "name": "Hidden Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 44.272974,
+        "lng": -122.665571
+      }
+    }
+  },
+  {
+    "name": "New Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": 47.18173,
+        "lng": -156.417561
+      }
+    }
+  },
+  {
+    "name": "River Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": 65.64407,
+        "lng": 124.789863
+      }
+    }
+  },
+  {
+    "name": "Golden Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 79.080968,
+        "lng": 59.580437
+      }
+    }
+  },
+  {
+    "name": "New Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": -57.861384,
+        "lng": 33.223644
+      }
+    }
+  },
+  {
+    "name": "Golden Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": 52.806671,
+        "lng": -175.318989
+      }
+    }
+  },
+  {
+    "name": "Ocean Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 78.089305,
+        "lng": -20.497072
+      }
+    }
+  },
+  {
+    "name": "Old Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -50.997437,
+        "lng": -53.903209
+      }
+    }
+  },
+  {
+    "name": "River Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": -65.263454,
+        "lng": 32.038872
+      }
+    }
+  },
+  {
+    "name": "Old Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 16.805777,
+        "lng": -27.886843
+      }
+    }
+  },
+  {
+    "name": "Ancient Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -18.66978,
+        "lng": 20.780596
+      }
+    }
+  },
+  {
+    "name": "Majestic Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": 67.542889,
+        "lng": -137.007705
+      }
+    }
+  },
+  {
+    "name": "Hidden Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": 72.895815,
+        "lng": -111.537262
+      }
+    }
+  },
+  {
+    "name": "Golden Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -63.365494,
+        "lng": 36.154084
+      }
+    }
+  },
+  {
+    "name": "Royal Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": -73.280918,
+        "lng": 23.894822
+      }
+    }
+  },
+  {
+    "name": "Peaceful Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -31.811473,
+        "lng": 170.973906
+      }
+    }
+  },
+  {
+    "name": "Sunset Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": 1.135679,
+        "lng": -61.506301
+      }
+    }
+  },
+  {
+    "name": "Green Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": 84.518023,
+        "lng": -72.230612
+      }
+    }
+  },
+  {
+    "name": "Crystal Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 46.93425,
+        "lng": 29.114906
+      }
+    }
+  },
+  {
+    "name": "Peaceful Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": -12.151811,
+        "lng": 129.835485
+      }
+    }
+  },
+  {
+    "name": "Royal Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": 72.586122,
+        "lng": 120.842243
+      }
+    }
+  },
+  {
+    "name": "Old Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": 36.712402,
+        "lng": 90.561479
+      }
+    }
+  },
+  {
+    "name": "Golden Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -45.721094,
+        "lng": -123.636883
+      }
+    }
+  },
+  {
+    "name": "Historic Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -83.22507,
+        "lng": 49.508074
+      }
+    }
+  },
+  {
+    "name": "Silver Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": 40.631055,
+        "lng": 67.386516
+      }
+    }
+  },
+  {
+    "name": "New Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": -3.031971,
+        "lng": 17.410791
+      }
+    }
+  },
+  {
+    "name": "Modern Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": 63.578381,
+        "lng": 79.327171
+      }
+    }
+  },
+  {
+    "name": "Royal Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -70.375637,
+        "lng": -25.551782
+      }
+    }
+  },
+  {
+    "name": "Sunset Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -35.475457,
+        "lng": 31.87475
+      }
+    }
+  },
+  {
+    "name": "Majestic Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": -89.005932,
+        "lng": 151.926242
+      }
+    }
+  },
+  {
+    "name": "Modern Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": 48.805026,
+        "lng": -141.101789
+      }
+    }
+  },
+  {
+    "name": "Old Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": 53.668164,
+        "lng": -154.527514
+      }
+    }
+  },
+  {
+    "name": "Crystal Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -85.489806,
+        "lng": -35.854236
+      }
+    }
+  },
+  {
+    "name": "Silver Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": 36.380118,
+        "lng": -112.228524
+      }
+    }
+  },
+  {
+    "name": "Peaceful Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": 20.894851,
+        "lng": -31.814289
+      }
+    }
+  },
+  {
+    "name": "Sunset Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -33.639601,
+        "lng": -82.649582
+      }
+    }
+  },
+  {
+    "name": "New Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": 41.868092,
+        "lng": 42.124478
+      }
+    }
+  },
+  {
+    "name": "Ancient Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -10.198213,
+        "lng": 42.230903
+      }
+    }
+  },
+  {
+    "name": "Green Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": 54.604945,
+        "lng": 18.080118
+      }
+    }
+  },
+  {
+    "name": "Green Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -67.197332,
+        "lng": 66.842178
+      }
+    }
+  },
+  {
+    "name": "Mountain Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": -60.667295,
+        "lng": -158.361535
+      }
+    }
+  },
+  {
+    "name": "Golden Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -26.64122,
+        "lng": 1.023139
+      }
+    }
+  },
+  {
+    "name": "Central Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -44.158055,
+        "lng": -173.180698
+      }
+    }
+  },
+  {
+    "name": "Historic Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": 72.645013,
+        "lng": 61.69598
+      }
+    }
+  },
+  {
+    "name": "Majestic Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -48.073852,
+        "lng": 145.966996
+      }
+    }
+  },
+  {
+    "name": "Central Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 30.723242,
+        "lng": 2.610985
+      }
+    }
+  },
+  {
+    "name": "Historic Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 32.461045,
+        "lng": 72.193326
+      }
+    }
+  },
+  {
+    "name": "Grand Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": 25.627315,
+        "lng": 10.640936
+      }
+    }
+  },
+  {
+    "name": "Golden Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -46.281391,
+        "lng": -56.56254
+      }
+    }
+  },
+  {
+    "name": "Silver Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -35.887887,
+        "lng": 136.984479
+      }
+    }
+  },
+  {
+    "name": "New Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": 20.370928,
+        "lng": -53.864723
+      }
+    }
+  },
+  {
+    "name": "Historic Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": -77.827074,
+        "lng": 89.791871
+      }
+    }
+  },
+  {
+    "name": "Mountain Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -54.783414,
+        "lng": -173.032569
+      }
+    }
+  },
+  {
+    "name": "Ancient Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 57.982232,
+        "lng": 128.598804
+      }
+    }
+  },
+  {
+    "name": "New Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 38.857599,
+        "lng": -30.446552
+      }
+    }
+  },
+  {
+    "name": "Emerald Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -51.813452,
+        "lng": -98.421767
+      }
+    }
+  },
+  {
+    "name": "Mountain Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -65.602952,
+        "lng": -70.692396
+      }
+    }
+  },
+  {
+    "name": "Modern Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": -77.260648,
+        "lng": 92.834351
+      }
+    }
+  },
+  {
+    "name": "Mountain Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": -42.408397,
+        "lng": -173.487651
+      }
+    }
+  },
+  {
+    "name": "Old Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 56.373874,
+        "lng": -156.818472
+      }
+    }
+  },
+  {
+    "name": "Old Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": 74.526214,
+        "lng": -3.846461
+      }
+    }
+  },
+  {
+    "name": "Royal Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": 57.918781,
+        "lng": -8.016789
+      }
+    }
+  },
+  {
+    "name": "Sunset Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": 74.838571,
+        "lng": 132.468487
+      }
+    }
+  },
+  {
+    "name": "Old Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": 19.807985,
+        "lng": -107.525951
+      }
+    }
+  },
+  {
+    "name": "Majestic Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": 60.28547,
+        "lng": -67.70606
+      }
+    }
+  },
+  {
+    "name": "Mountain Beach",
+    "category": "beach",
+    "geometry": {
+      "location": {
+        "lat": 64.093872,
+        "lng": -88.421276
+      }
+    }
+  },
+  {
+    "name": "Ancient Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": -64.893372,
+        "lng": 103.396267
+      }
+    }
+  },
+  {
+    "name": "Majestic Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": -54.363061,
+        "lng": -106.963979
+      }
+    }
+  },
+  {
+    "name": "Central Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": 8.866432,
+        "lng": 104.913059
+      }
+    }
+  },
+  {
+    "name": "Emerald Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": 52.829986,
+        "lng": -138.59825
+      }
+    }
+  },
+  {
+    "name": "Ocean Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -72.481932,
+        "lng": 121.499486
+      }
+    }
+  },
+  {
+    "name": "Crystal Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 33.545872,
+        "lng": 90.715729
+      }
+    }
+  },
+  {
+    "name": "Central Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": -8.137754,
+        "lng": -73.4996
+      }
+    }
+  },
+  {
+    "name": "Modern Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -57.610375,
+        "lng": 53.388312
+      }
+    }
+  },
+  {
+    "name": "Grand Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": -10.835222,
+        "lng": 61.015814
+      }
+    }
+  },
+  {
+    "name": "Ocean Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": 35.33311,
+        "lng": 143.38907
+      }
+    }
+  },
+  {
+    "name": "Modern Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -81.823255,
+        "lng": -162.675547
+      }
+    }
+  },
+  {
+    "name": "Historic Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -87.54526,
+        "lng": 103.396804
+      }
+    }
+  },
+  {
+    "name": "Golden Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -15.318011,
+        "lng": 91.221831
+      }
+    }
+  },
+  {
+    "name": "Hidden Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -70.99207,
+        "lng": 28.582531
+      }
+    }
+  },
+  {
+    "name": "Majestic Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": -13.569728,
+        "lng": 142.392748
+      }
+    }
+  },
+  {
+    "name": "Peaceful Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": 14.710999,
+        "lng": 60.060053
+      }
+    }
+  },
+  {
+    "name": "Silver Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -59.860014,
+        "lng": -138.771253
+      }
+    }
+  },
+  {
+    "name": "Golden Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 43.063558,
+        "lng": 24.503994
+      }
+    }
+  },
+  {
+    "name": "Hidden Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 10.441973,
+        "lng": 16.738349
+      }
+    }
+  },
+  {
+    "name": "Central Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": -46.457374,
+        "lng": 104.795183
+      }
+    }
+  },
+  {
+    "name": "Modern Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": -80.583005,
+        "lng": -123.725519
+      }
+    }
+  },
+  {
+    "name": "Ocean Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -36.578422,
+        "lng": 27.063557
+      }
+    }
+  },
+  {
+    "name": "New Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": 86.941935,
+        "lng": -154.086203
+      }
+    }
+  },
+  {
+    "name": "Emerald Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": -40.608976,
+        "lng": 120.419284
+      }
+    }
+  },
+  {
+    "name": "Grand Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -59.074487,
+        "lng": -7.253455
+      }
+    }
+  },
+  {
+    "name": "Green Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": -3.861764,
+        "lng": 74.327252
+      }
+    }
+  },
+  {
+    "name": "Ancient Library",
+    "category": "library",
+    "geometry": {
+      "location": {
+        "lat": 35.530728,
+        "lng": -158.89805
+      }
+    }
+  },
+  {
+    "name": "Royal Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": 1.948841,
+        "lng": 178.379936
+      }
+    }
+  },
+  {
+    "name": "Old Monument",
+    "category": "monument",
+    "geometry": {
+      "location": {
+        "lat": 30.259175,
+        "lng": 61.781435
+      }
+    }
+  },
+  {
+    "name": "Old Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -33.922081,
+        "lng": -16.783625
+      }
+    }
+  },
+  {
+    "name": "Mountain Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -64.95577,
+        "lng": 129.319864
+      }
+    }
+  },
+  {
+    "name": "New Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": -41.329343,
+        "lng": 111.852967
+      }
+    }
+  },
+  {
+    "name": "Hidden Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -13.284849,
+        "lng": -78.185863
+      }
+    }
+  },
+  {
+    "name": "Peaceful Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": 35.948678,
+        "lng": -92.345267
+      }
+    }
+  },
+  {
+    "name": "River Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": -14.346367,
+        "lng": -119.614904
+      }
+    }
+  },
+  {
+    "name": "River Park",
+    "category": "park",
+    "geometry": {
+      "location": {
+        "lat": 51.337907,
+        "lng": -30.404375
+      }
+    }
+  },
+  {
+    "name": "Sunset Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -18.618368,
+        "lng": -34.588402
+      }
+    }
+  },
+  {
+    "name": "Emerald Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": 31.336775,
+        "lng": 26.360993
+      }
+    }
+  },
+  {
+    "name": "Grand Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": -52.57625,
+        "lng": 34.604069
+      }
+    }
+  },
+  {
+    "name": "Silver Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": 26.466188,
+        "lng": -70.757973
+      }
+    }
+  },
+  {
+    "name": "Mountain Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -75.177947,
+        "lng": -38.634679
+      }
+    }
+  },
+  {
+    "name": "Royal Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -43.426249,
+        "lng": -122.728563
+      }
+    }
+  },
+  {
+    "name": "Central Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 79.562667,
+        "lng": 154.839931
+      }
+    }
+  },
+  {
+    "name": "Emerald Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": 53.386912,
+        "lng": 160.505323
+      }
+    }
+  },
+  {
+    "name": "New Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": 68.857981,
+        "lng": 0.235904
+      }
+    }
+  },
+  {
+    "name": "Central Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -83.260002,
+        "lng": -17.593462
+      }
+    }
+  },
+  {
+    "name": "Grand Tourist Attraction",
+    "category": "tourist_attraction",
+    "geometry": {
+      "location": {
+        "lat": -61.109233,
+        "lng": -126.594046
+      }
+    }
+  },
+  {
+    "name": "Sunset Stadium",
+    "category": "stadium",
+    "geometry": {
+      "location": {
+        "lat": 2.625696,
+        "lng": 90.667439
+      }
+    }
+  },
+  {
+    "name": "Modern Museum",
+    "category": "museum",
+    "geometry": {
+      "location": {
+        "lat": -25.457024,
+        "lng": -158.23551
+      }
+    }
+  },
+  {
+    "name": "Central Cafe",
+    "category": "cafe",
+    "geometry": {
+      "location": {
+        "lat": -40.80695,
+        "lng": -86.724022
+      }
+    }
+  },
+  {
+    "name": "Grand Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -15.181212,
+        "lng": 141.491638
+      }
+    }
+  },
+  {
+    "name": "Modern Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": 43.075481,
+        "lng": -33.184086
+      }
+    }
+  },
+  {
+    "name": "Historic Spa",
+    "category": "spa",
+    "geometry": {
+      "location": {
+        "lat": 86.9249,
+        "lng": -93.041883
+      }
+    }
+  },
+  {
+    "name": "Ancient Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -56.62499,
+        "lng": -87.027571
+      }
+    }
+  },
+  {
+    "name": "Crystal Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": 11.346482,
+        "lng": 20.149186
+      }
+    }
+  },
+  {
+    "name": "Green Zoo",
+    "category": "zoo",
+    "geometry": {
+      "location": {
+        "lat": 0.636981,
+        "lng": 140.825598
+      }
+    }
+  },
+  {
+    "name": "Peaceful Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 35.675318,
+        "lng": 80.615644
+      }
+    }
+  },
+  {
+    "name": "Old Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": -78.119405,
+        "lng": -89.896558
+      }
+    }
+  },
+  {
+    "name": "Crystal Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -7.72794,
+        "lng": -82.242971
+      }
+    }
+  },
+  {
+    "name": "Crystal Night Club",
+    "category": "night_club",
+    "geometry": {
+      "location": {
+        "lat": -0.256345,
+        "lng": 41.405845
+      }
+    }
+  },
+  {
+    "name": "Grand Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": -29.893456,
+        "lng": 94.650492
+      }
+    }
+  },
+  {
+    "name": "Peaceful Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": -31.547683,
+        "lng": 153.630775
+      }
+    }
+  },
+  {
+    "name": "Grand Aquarium",
+    "category": "aquarium",
+    "geometry": {
+      "location": {
+        "lat": 86.410892,
+        "lng": -15.869723
+      }
+    }
+  },
+  {
+    "name": "Ancient Shopping Mall",
+    "category": "shopping_mall",
+    "geometry": {
+      "location": {
+        "lat": 82.148703,
+        "lng": -174.799211
+      }
+    }
+  },
+  {
+    "name": "Crystal Hiking",
+    "category": "hiking",
+    "geometry": {
+      "location": {
+        "lat": 13.16266,
+        "lng": 145.848879
+      }
+    }
+  },
+  {
+    "name": "Crystal Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -89.855615,
+        "lng": -168.586969
+      }
+    }
+  },
+  {
+    "name": "Peaceful Gym",
+    "category": "gym",
+    "geometry": {
+      "location": {
+        "lat": 53.858247,
+        "lng": -168.823279
+      }
+    }
+  },
+  {
+    "name": "River Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -69.36533,
+        "lng": 15.319723
+      }
+    }
+  },
+  {
+    "name": "Ancient Restaurant",
+    "category": "restaurant",
+    "geometry": {
+      "location": {
+        "lat": -35.575373,
+        "lng": -137.596971
+      }
+    }
+  },
+  {
+    "name": "Hidden Bar",
+    "category": "bar",
+    "geometry": {
+      "location": {
+        "lat": -59.606062,
+        "lng": -114.302072
+      }
+    }
+  },
+  {
+    "name": "Ocean Amusement Park",
+    "category": "amusement_park",
+    "geometry": {
+      "location": {
+        "lat": -30.474392,
+        "lng": 159.979052
+      }
+    }
+  },
+  {
+    "name": "Old Art Gallery",
+    "category": "art_gallery",
+    "geometry": {
+      "location": {
+        "lat": -33.139509,
+        "lng": -86.886453
+      }
+    }
+  },
+  {
+    "name": "Royal Movie Theater",
+    "category": "movie_theater",
+    "geometry": {
+      "location": {
+        "lat": -86.315114,
+        "lng": -167.156314
+      }
+    }
+  }
+]
