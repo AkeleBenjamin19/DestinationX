@@ -1,12 +1,21 @@
-class User:
-    def __init__(self, id, name, email, password):
-        self.id = id
-        self.name = name
+from  app import db
+class User(db.Model):
+    __tablename__ = 'users'
+    id = db.Column(db.Integer, primary_key=True)
+    email = db.Column(db.String(80))
+    username = db.Column(db.String(80))
+    def __init__(self, name, email):
+        self.username = name
         self.email = email
-        self.password = password
+       
 
     def _getEmail(self):
         return self.email
     
-    def _getPassword(self):
-        return self.password
+    def _getUsername(self):
+        return self.username
+    
+    def _getId(self):
+        return self.id
+    
+    

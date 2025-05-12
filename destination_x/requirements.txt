@@ -1,2 +1,7 @@
 SQLAlchemy
 psycopg2
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+faker
+dotenv
