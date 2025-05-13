@@ -1,41 +1,25 @@
-from app import db
+# Author: Akele Benjamin
+from .. import db
 class Activity(db.Model):
     __tablename__ = 'activities'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(80))
-    cost = db.Column(db.Integer)
-    weight = db.Column(db.Integer)
-    f_cost = db.Column(db.Integer)
-    h_cost = db.Column(db.Integer)
-    city_id = db.Column(db.Integer, db.ForeignKey('cities.id'))
-    city = db.relationship('City', backref='activities')
+    id         = db.Column(db.Integer, primary_key=True)
+    name       = db.Column(db.String(128), nullable=False)
+    category   = db.Column(db.String(64))
+    city_id    = db.Column(db.Integer, db.ForeignKey('cities.id'), nullable=False)
+    latitude   = db.Column(db.Numeric(9,6))
+    longitude  = db.Column(db.Numeric(9,6))
+    price      = db.Column(db.Float)
 
-    def __init__(self, name, weight_value, cost, flight_cost, hotel_cost, city_id):
+    city            = db.relationship('City', back_populates='activities')
+    destinations    = db.relationship('Destination', back_populates='activity')
+    recommendations = db.relationship('Recommendation', back_populates='activity')
+    user_activities = db.relationship('UserActivityPreference', back_populates='activity')
+
+    def __init__(self, name:str, category:str, city_id:int,  latitude, longitude, price:float):
         self.name = name
-        self.cost = cost
-        self.weight = weight_value
-        self.f_cost = flight_cost
-        self.h_cost = hotel_cost
+        self.category = category
         self.city_id = city_id
-
-    def _getName(self):
-        return self.name
-    
-    def _getWeight(self):
-        return self.weight
-    
-    def _getCost(self):
-        return self.cost
-    
-    def _getFlightCost(self):
-        return self.f_cost
-    
-    def _getHotelCost(self):
-        return self.h_cost
-    
-    def _getId(self):
-        return self.id
-    
-
+        self.latitude = latitude
+        self.longitude = longitude
+        self.price = price
         
-

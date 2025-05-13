@@ -2,60 +2,69 @@ import faker
 
 # from .connectDB import connect_db
 from app import app,db 
-from app.models.user import User
-from app.models.activity import Activity
+from app.models.activity import Activity 
 from app.models.country import Country
 from app.models.city import City
-from app.models.visa import Visa_policies
+from app.models.flight_price import FlightPrice
+from app.models.hotel import Hotel
 import random
 
 
-fake = faker.Faker()
+class GenerateFakeData:
+    def __init__(self):
+        pass
+    def generate_fake_data(self):
+        fake = faker.Faker()
+        continents = {
+        "Africa": "AF",
+        "Antarctica": "AN",
+        "Asia": "AS",
+        "Europe": "EU",
+        "North America": "NA",
+        "Oceania": "OC",
+        "South America": "SA",
+        }
+        with app.app_context():
+            for i in range(10):
+                continent, code = random.choice(list(continents.items()))
+                while True:
+                    iso_code = fake.country_code()
+                    if not Country.query.filter_by(iso_code=iso_code).first():
+                        break
 
-def generate_fake_data():
-    with app.app_context():
-        for i in range(10):
-            user = User(fake.name(), fake.email())
-            #add user to database using not alchemy but commit
-            db.session.add(user)
-            db.session.commit()
+                while True:
+                    name = fake.country()
+                    if not Country.query.filter_by(name=name).first():
+                        break
+                country = Country(name, iso_code, continent, code)
+                db.session.add(country)
+                db.session.commit()
 
-            # cursor = connect_db()
-            # cursor.execute("INSERT INTO users (username, email) VALUES (%s, %s)", (user._getUsername(), user._getEmail()))
-            # cursor.commit()
+                city =  City(fake.name(), country.id, fake.latitude(), fake.longitude(), fake.image_url())
+                db.session.add(city)
+                db.session.commit()
 
-            country = Country(fake.country())
-            # cursor.execute("INSERT INTO countries (name) VALUES (%s)", (country._getName()))
-            # cursor.commit()
-            db.session.add(country)
-            db.session.commit()
+                activity = Activity(fake.name(),city.id, fake.latitude(), fake.longitude(), random.randint(2000, 5000))
+                db.session.add(activity)
+                db.session.commit()
 
+                city_ids = db.session.execute(db.select(City.id).order_by(City.id)).scalars().all()
             
-            
+                origin_city_id = random.choice(city_ids)
 
-            
-            city = City(fake.city(), country.id)
-            # cursor.execute("INSERT INTO cities (name, country_id) VALUES (%s, %s)", (city._getName(), city._getCountryId()))
-            # cursor.commit()
-            db.session.add(city)
-            db.session.commit()
+                flight_price = FlightPrice(origin_city_id,city.id , fake.date(), fake.date(), random.randint(20, 50), random.choice([200.23, 500.24, 1000.242, 34204.13]),\
+                                fake.currency_code(), random.choice([342.2, 102.232, 493.234, 493.21, 453, 932.12]), random.randint(100, 200), fake.date_time())
+                db.session.add(flight_price)
+                db.session.commit()
 
-            cities = City.query.all()
-            city_id = [city.id for city in cities]
-            activity_city = random.choice(city_id)
-        
+                while True:
+                    external_hotel_id = str(random.randint(10000, 20000))
 
-            activity = Activity(fake.sentence(), fake.random_int(min=1, max=10), fake.random_int(), fake.random_int(), fake.random_int(), activity_city)
-            # cursor.execute("INSERT INTO activities (name, weight, cost, f_cost, h_cost) VALUES (%s, %s, %s, %s, %s)", (activity._getName(), activity._getWeight(), activity._getCost(), activity._getFlightCost(), activity._getHotelCost()))
-            # cursor.commit()
-            db.session.add(activity)
-            db.session.commit()
-
-            visa = Visa_policies(fake.boolean(), country.id, fake.boolean(), fake.boolean())
-            # cursor.execute("INSERT INTO visa_policies (visa_free, destination_id, e_visa, visa_required) VALUES (%s, %s, %s, %s)", (visa._getVisaFree(), visa._getDestinationId(), visa._getEVisa(), visa._getVisaRequired()))
-            # cursor.commit()
-
-            # cursor.close()
-            db.session.add(visa)
-            db.session.commit()
-    return
+                    if not Hotel.query.filter_by(external_hotel_id=external_hotel_id).first():
+                        break
+                
+                hotel = Hotel(external_hotel_id, fake.name(), fake.address(), city.id, fake.latitude(), fake.longitude(), random.randint(200, 1000), random.randint(1, 5), random.randint(10000, 20000))
+                #add user to database using not alchemy but commit
+                db.session.add(hotel)
+                db.session.commit()
+        return
