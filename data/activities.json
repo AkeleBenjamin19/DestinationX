@@ -1,0 +1,3002 @@
+[
+  {
+    "name": "Peaceful Science Center",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 49.18768730934387,
+        "lng": -123.18727257685057
+      }
+    },
+    "cost": 107.79,
+    "city": "Vancouver"
+  },
+  {
+    "name": "Vibrant Snowboarding Park",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 49.19501893690071,
+        "lng": -123.18650870385319
+      }
+    },
+    "cost": 74.82,
+    "city": "Vancouver"
+  },
+  {
+    "name": "Delightful Nightclub",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 43.67684043974702,
+        "lng": -79.62919420914227
+      }
+    },
+    "cost": 78.37,
+    "city": "Toronto"
+  },
+  {
+    "name": "Historic Mountain Pass Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 43.674989411585585,
+        "lng": -79.63842719697406
+      }
+    },
+    "cost": 134.57,
+    "city": "Toronto"
+  },
+  {
+    "name": "Exciting Playground",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 52.35890369049342,
+        "lng": 13.502109311135621
+      }
+    },
+    "cost": 49.2,
+    "city": "Berlin"
+  },
+  {
+    "name": "Historic Winery Tour",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 52.36207383730656,
+        "lng": 13.500383609427914
+      }
+    },
+    "cost": 95.72,
+    "city": "Berlin"
+  },
+  {
+    "name": "Vibrant Ski Resort",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 50.030326903972835,
+        "lng": 8.562298524238424
+      }
+    },
+    "cost": 69.99,
+    "city": "Frankfurt"
+  },
+  {
+    "name": "Peaceful Hot Air Balloon Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 50.03029620401601,
+        "lng": 8.554527412496038
+      }
+    },
+    "cost": 150.05,
+    "city": "Frankfurt"
+  },
+  {
+    "name": "Vibrant Yoga Retreat",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 48.35234428965839,
+        "lng": 11.788282657916163
+      }
+    },
+    "cost": 29.23,
+    "city": "Munich"
+  },
+  {
+    "name": "Majestic Local Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 48.35201567679928,
+        "lng": 11.788594336180854
+      }
+    },
+    "cost": 98.61,
+    "city": "Munich"
+  },
+  {
+    "name": "Historic Helicopter Tour",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 51.151675872501244,
+        "lng": -0.19094824248985837
+      }
+    },
+    "cost": 120.71,
+    "city": "London"
+  },
+  {
+    "name": "Thrilling Snowshoeing Tour",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 51.153871391041115,
+        "lng": -0.1942503552272932
+      }
+    },
+    "cost": 152.25,
+    "city": "London"
+  },
+  {
+    "name": "Serene Landmark",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 51.47315648886253,
+        "lng": -0.456153690209214
+      }
+    },
+    "cost": 84.45,
+    "city": "London"
+  },
+  {
+    "name": "Scenic Music Festival",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 51.47104562553687,
+        "lng": -0.4646693627411645
+      }
+    },
+    "cost": 12.86,
+    "city": "London"
+  },
+  {
+    "name": "Majestic Scenic Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 51.88193913796997,
+        "lng": 0.2370742680947528
+      }
+    },
+    "cost": 42.5,
+    "city": "London"
+  },
+  {
+    "name": "Peaceful Heritage Site",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 51.89165403262687,
+        "lng": 0.2324790114380786
+      }
+    },
+    "cost": 195.05,
+    "city": "London"
+  },
+  {
+    "name": "Delightful Language Class",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 52.309668454074696,
+        "lng": 4.766353393481657
+      }
+    },
+    "cost": 15.44,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Serene Theater Performance",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 52.30994580717694,
+        "lng": 4.769199883175627
+      }
+    },
+    "cost": 59.51,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Majestic Temple Tour",
+    "category": "Religious & Spiritual Sites",
+    "geometry": {
+      "location": {
+        "lat": 53.424221331760776,
+        "lng": -6.26248347088758
+      }
+    },
+    "cost": 102.08,
+    "city": "Dublin"
+  },
+  {
+    "name": "Majestic Artisan Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 53.431634544862234,
+        "lng": -6.2630293285565966
+      }
+    },
+    "cost": 163.29,
+    "city": "Dublin"
+  },
+  {
+    "name": "Thrilling Concert",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 55.61603003346116,
+        "lng": 12.656800032110834
+      }
+    },
+    "cost": 26.7,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Majestic Winery Tour",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 55.616427129261055,
+        "lng": 12.650682512787089
+      }
+    },
+    "cost": 13.84,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Peaceful Shopping District",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 52.15673579866797,
+        "lng": 20.975822840357154
+      }
+    },
+    "cost": 52.4,
+    "city": "Warsaw"
+  },
+  {
+    "name": "Serene Food Festival",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 52.16421475007792,
+        "lng": 20.9583408553406
+      }
+    },
+    "cost": 159.41,
+    "city": "Warsaw"
+  },
+  {
+    "name": "Serene Theater Performance",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 59.644640183203876,
+        "lng": 17.92679134838692
+      }
+    },
+    "cost": 196.13,
+    "city": "Stockholm"
+  },
+  {
+    "name": "Thrilling Jazz Lounge",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 59.65448818162598,
+        "lng": 17.93311147460638
+      }
+    },
+    "cost": 83.5,
+    "city": "Stockholm"
+  },
+  {
+    "name": "Serene Concert",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": -26.145044900914815,
+        "lng": 28.255377039845026
+      }
+    },
+    "cost": 120.18,
+    "city": "Johannesburg"
+  },
+  {
+    "name": "Majestic Landmark",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": -26.132576096666064,
+        "lng": 28.24635110080022
+      }
+    },
+    "cost": 144.38,
+    "city": "Johannesburg"
+  },
+  {
+    "name": "Delightful Road Trip Route",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 27.173878547286595,
+        "lng": 33.79976251044154
+      }
+    },
+    "cost": 26.82,
+    "city": "Hurghada"
+  },
+  {
+    "name": "Thrilling Zoo",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 27.180084834977382,
+        "lng": 33.795895720780614
+      }
+    },
+    "cost": 99.88,
+    "city": "Hurghada"
+  },
+  {
+    "name": "Vibrant Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 36.08505329128421,
+        "lng": -115.148494192826
+      }
+    },
+    "cost": 34.36,
+    "city": "Las Vegas"
+  },
+  {
+    "name": "Exciting Spa Day",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 36.08152127745257,
+        "lng": -115.15673118267867
+      }
+    },
+    "cost": 146.92,
+    "city": "Las Vegas"
+  },
+  {
+    "name": "Hidden Live Music Venue",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 33.947952752232105,
+        "lng": -118.40794151971512
+      }
+    },
+    "cost": 20.23,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Thrilling Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 33.9396060562632,
+        "lng": -118.41469883834657
+      }
+    },
+    "cost": 156.55,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Majestic Beach Volleyball",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 28.424398375294473,
+        "lng": -81.31271510516916
+      }
+    },
+    "cost": 164.74,
+    "city": "Orlando"
+  },
+  {
+    "name": "Peaceful Brewery Visit",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 28.42861629139787,
+        "lng": -81.30497880650154
+      }
+    },
+    "cost": 94.58,
+    "city": "Orlando"
+  },
+  {
+    "name": "Delightful Snorkeling",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 25.79619177068632,
+        "lng": -80.2945432947738
+      }
+    },
+    "cost": 155.36,
+    "city": "Miami"
+  },
+  {
+    "name": "Hidden Winery Tour",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 25.792031681972716,
+        "lng": -80.29059448937414
+      }
+    },
+    "cost": 49.29,
+    "city": "Miami"
+  },
+  {
+    "name": "Majestic Children's Museum",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 28.777841249842094,
+        "lng": -81.23657183018591
+      }
+    },
+    "cost": 30.22,
+    "city": "Orlando"
+  },
+  {
+    "name": "Serene Landmark",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 28.781399980403883,
+        "lng": -81.24096992341194
+      }
+    },
+    "cost": 194.99,
+    "city": "Orlando"
+  },
+  {
+    "name": "Delightful Ancient Ruins",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 37.62489033811012,
+        "lng": -122.37066631232187
+      }
+    },
+    "cost": 96.61,
+    "city": "San Francisco"
+  },
+  {
+    "name": "Serene Ice Skating Rink",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 37.61797193295413,
+        "lng": -122.38341029539683
+      }
+    },
+    "cost": 118.27,
+    "city": "San Francisco"
+  },
+  {
+    "name": "Hidden Amusement Park",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 41.29220687897611,
+        "lng": 2.081551244515109
+      }
+    },
+    "cost": 144.46,
+    "city": "Barcelona"
+  },
+  {
+    "name": "Peaceful Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 41.299742013314784,
+        "lng": 2.072627450092368
+      }
+    },
+    "cost": 40.12,
+    "city": "Barcelona"
+  },
+  {
+    "name": "Serene Eco Lodge",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 40.4752737545132,
+        "lng": -3.5586259926635444
+      }
+    },
+    "cost": 145.32,
+    "city": "Madrid"
+  },
+  {
+    "name": "Serene Cultural Fair",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 40.47541893626258,
+        "lng": -3.564386884091211
+      }
+    },
+    "cost": 174.64,
+    "city": "Madrid"
+  },
+  {
+    "name": "Hidden Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 39.55034507948382,
+        "lng": 2.736942647620623
+      }
+    },
+    "cost": 117.94,
+    "city": "Palma de Mallorca"
+  },
+  {
+    "name": "Thrilling Ancient Ruins",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 39.548328072441414,
+        "lng": 2.736804094294685
+      }
+    },
+    "cost": 60.98,
+    "city": "Palma de Mallorca"
+  },
+  {
+    "name": "Delightful Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 35.335630153997485,
+        "lng": 25.179959385959354
+      }
+    },
+    "cost": 114.3,
+    "city": "Heraklion"
+  },
+  {
+    "name": "Hidden Cultural Center",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 35.3392751416582,
+        "lng": 25.177975214971564
+      }
+    },
+    "cost": 123.55,
+    "city": "Heraklion"
+  },
+  {
+    "name": "Thrilling Monastery Visit",
+    "category": "Religious & Spiritual Sites",
+    "geometry": {
+      "location": {
+        "lat": 47.430533551663636,
+        "lng": 19.259264269171254
+      }
+    },
+    "cost": 97.38,
+    "city": "Budapest"
+  },
+  {
+    "name": "Thrilling Viewpoint",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 47.42835640088405,
+        "lng": 19.263055497331507
+      }
+    },
+    "cost": 170.48,
+    "city": "Budapest"
+  },
+  {
+    "name": "Scenic Hot Air Balloon Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 41.805510503672444,
+        "lng": 12.247145716424402
+      }
+    },
+    "cost": 171.52,
+    "city": "Rome"
+  },
+  {
+    "name": "Scenic Yoga Retreat",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 41.804218134088615,
+        "lng": 12.249100246893194
+      }
+    },
+    "cost": 117.07,
+    "city": "Rome"
+  },
+  {
+    "name": "Historic Nightclub",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 50.10334478701736,
+        "lng": 14.265270459372632
+      }
+    },
+    "cost": 69.34,
+    "city": "Prague"
+  },
+  {
+    "name": "Peaceful Zoo",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 50.103988824318854,
+        "lng": 14.263782681420741
+      }
+    },
+    "cost": 65.34,
+    "city": "Prague"
+  },
+  {
+    "name": "Scenic Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 32.008717312279025,
+        "lng": 34.88809189852336
+      }
+    },
+    "cost": 32.16,
+    "city": "Tel Aviv"
+  },
+  {
+    "name": "Historic National Park",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 32.013053585657346,
+        "lng": 34.88917563755742
+      }
+    },
+    "cost": 177.31,
+    "city": "Tel Aviv"
+  },
+  {
+    "name": "Vibrant Safari",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 48.11620895776327,
+        "lng": 16.57629166749804
+      }
+    },
+    "cost": 109.53,
+    "city": "Vienna"
+  },
+  {
+    "name": "Vibrant Scenic Overlook",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 48.114712507938876,
+        "lng": 16.566368993370386
+      }
+    },
+    "cost": 199.54,
+    "city": "Vienna"
+  },
+  {
+    "name": "Peaceful Live Music Venue",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 41.25064258006737,
+        "lng": -8.688548212991815
+      }
+    },
+    "cost": 92.55,
+    "city": "Porto"
+  },
+  {
+    "name": "Peaceful Spa Day",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 41.244121402437806,
+        "lng": -8.677032179427831
+      }
+    },
+    "cost": 123.13,
+    "city": "Porto"
+  },
+  {
+    "name": "Majestic Wine Tasting",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 38.782727058860914,
+        "lng": -9.130100283586374
+      }
+    },
+    "cost": 82.29,
+    "city": "Lisbon"
+  },
+  {
+    "name": "Hidden Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 38.784416140601856,
+        "lng": -9.137466478271655
+      }
+    },
+    "cost": 142.05,
+    "city": "Lisbon"
+  },
+  {
+    "name": "Peaceful Science Center",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 36.89811386889507,
+        "lng": 30.799590438274745
+      }
+    },
+    "cost": 171.21,
+    "city": "Antalya"
+  },
+  {
+    "name": "Majestic Hot Air Balloon Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 36.903133768291774,
+        "lng": 30.803277667218072
+      }
+    },
+    "cost": 102.99,
+    "city": "Antalya"
+  },
+  {
+    "name": "Thrilling Art Exhibition",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": -37.010555586836915,
+        "lng": 174.7804643438326
+      }
+    },
+    "cost": 49.88,
+    "city": "Auckland"
+  },
+  {
+    "name": "Vibrant Karaoke Bar",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": -37.009520098397765,
+        "lng": 174.7880903726129
+      }
+    },
+    "cost": 162.14,
+    "city": "Auckland"
+  },
+  {
+    "name": "Historic Nature Trail",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 24.555863310936417,
+        "lng": 39.703737369086504
+      }
+    },
+    "cost": 52.01,
+    "city": "Medina"
+  },
+  {
+    "name": "Vibrant Street Parade",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 24.550693100475097,
+        "lng": 39.703284357530755
+      }
+    },
+    "cost": 39.21,
+    "city": "Medina"
+  },
+  {
+    "name": "Historic Artisan Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 24.959069785024386,
+        "lng": 46.70369450499625
+      }
+    },
+    "cost": 127.15,
+    "city": "Riyadh"
+  },
+  {
+    "name": "Hidden Street Parade",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 24.94863965222869,
+        "lng": 46.69701863937476
+      }
+    },
+    "cost": 141.61,
+    "city": "Riyadh"
+  },
+  {
+    "name": "Scenic Art Exhibition",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 24.442434514769797,
+        "lng": 54.648741101918894
+      }
+    },
+    "cost": 36.71,
+    "city": "Abu Dhabi"
+  },
+  {
+    "name": "Scenic Landmark",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 24.44277226990431,
+        "lng": 54.6462938844324
+      }
+    },
+    "cost": 99.71,
+    "city": "Abu Dhabi"
+  },
+  {
+    "name": "Scenic Rafting",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 25.253657821394803,
+        "lng": 55.35974405481112
+      }
+    },
+    "cost": 111.44,
+    "city": "Dubai"
+  },
+  {
+    "name": "Scenic Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 25.25306774884726,
+        "lng": 55.35512691772561
+      }
+    },
+    "cost": 57.31,
+    "city": "Dubai"
+  },
+  {
+    "name": "Peaceful Yoga Retreat",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 34.420158676992116,
+        "lng": 135.2419089685984
+      }
+    },
+    "cost": 102.41,
+    "city": "Osaka"
+  },
+  {
+    "name": "Delightful Nature Trail",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 34.430556895749255,
+        "lng": 135.24627526706186
+      }
+    },
+    "cost": 99.64,
+    "city": "Osaka"
+  },
+  {
+    "name": "Serene Temple Tour",
+    "category": "Religious & Spiritual Sites",
+    "geometry": {
+      "location": {
+        "lat": 33.58435991512575,
+        "lng": 130.4517469100388
+      }
+    },
+    "cost": 178.22,
+    "city": "Fukuoka"
+  },
+  {
+    "name": "Hidden Ski Resort",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 33.59083172379036,
+        "lng": 130.45571597030462
+      }
+    },
+    "cost": 152.46,
+    "city": "Fukuoka"
+  },
+  {
+    "name": "Hidden Artisan Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 34.794310285067525,
+        "lng": 135.44154649793288
+      }
+    },
+    "cost": 134.74,
+    "city": "Osaka"
+  },
+  {
+    "name": "Scenic Road Trip Route",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 34.78502818026126,
+        "lng": 135.43112364211072
+      }
+    },
+    "cost": 48.36,
+    "city": "Osaka"
+  },
+  {
+    "name": "Thrilling Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 35.55121908801015,
+        "lng": 139.77910884478712
+      }
+    },
+    "cost": 6.53,
+    "city": "Tokyo"
+  },
+  {
+    "name": "Exciting Rafting",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 35.551230406421745,
+        "lng": 139.7783874775019
+      }
+    },
+    "cost": 54.59,
+    "city": "Tokyo"
+  },
+  {
+    "name": "Scenic Safari",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 37.469669903283055,
+        "lng": 126.44898000682412
+      }
+    },
+    "cost": 129.01,
+    "city": "Korea"
+  },
+  {
+    "name": "Delightful Food Festival",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 37.46310920352343,
+        "lng": 126.45796563857861
+      }
+    },
+    "cost": 153.47,
+    "city": "Korea"
+  },
+  {
+    "name": "Exciting Street Food Crawl",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 37.56361645306637,
+        "lng": 126.79624977910464
+      }
+    },
+    "cost": 192.06,
+    "city": "Korea"
+  },
+  {
+    "name": "Vibrant Wine Tasting",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 37.559165031399,
+        "lng": 126.78749967916974
+      }
+    },
+    "cost": 49.93,
+    "city": "Korea"
+  },
+  {
+    "name": "Majestic Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": -34.55421454241692,
+        "lng": -58.42224077807743
+      }
+    },
+    "cost": 29.62,
+    "city": "Buenos Aires"
+  },
+  {
+    "name": "Hidden Artisan Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": -34.552575190885975,
+        "lng": -58.41655637633683
+      }
+    },
+    "cost": 175.72,
+    "city": "Buenos Aires"
+  },
+  {
+    "name": "Peaceful Karaoke Bar",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": -12.019063337910094,
+        "lng": -77.11663048339184
+      }
+    },
+    "cost": 137.82,
+    "city": "Lima"
+  },
+  {
+    "name": "Delightful Street Parade",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": -12.017754158592798,
+        "lng": -77.11633833665032
+      }
+    },
+    "cost": 24.48,
+    "city": "Lima"
+  },
+  {
+    "name": "Hidden Snorkeling",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 10.106636054807995,
+        "lng": -64.69233983504398
+      }
+    },
+    "cost": 38.5,
+    "city": "Venezuela"
+  },
+  {
+    "name": "Peaceful Ancient Ruins",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 10.113107785589587,
+        "lng": -64.69272197941702
+      }
+    },
+    "cost": 91.48,
+    "city": "Venezuela"
+  },
+  {
+    "name": "Thrilling Food Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 55.54492621708628,
+        "lng": 38.155477518491416
+      }
+    },
+    "cost": 122.85,
+    "city": "Moscow"
+  },
+  {
+    "name": "Delightful Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 55.552994259009374,
+        "lng": 38.147384260148726
+      }
+    },
+    "cost": 160.97,
+    "city": "Moscow"
+  },
+  {
+    "name": "Thrilling Nightclub",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 55.41163209728703,
+        "lng": 37.90326445064148
+      }
+    },
+    "cost": 164.06,
+    "city": "Moscow"
+  },
+  {
+    "name": "Majestic Playground",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 55.403943484582854,
+        "lng": 37.90872995147135
+      }
+    },
+    "cost": 24.49,
+    "city": "Moscow"
+  },
+  {
+    "name": "Historic Snorkeling",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 55.97697546842191,
+        "lng": 37.41005441390162
+      }
+    },
+    "cost": 168.96,
+    "city": "Moscow"
+  },
+  {
+    "name": "Delightful Artisans Village",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 55.9736638863824,
+        "lng": 37.410619371934054
+      }
+    },
+    "cost": 108.2,
+    "city": "Moscow"
+  },
+  {
+    "name": "Vibrant Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 55.596094683592376,
+        "lng": 37.26826072361414
+      }
+    },
+    "cost": 65.8,
+    "city": "Moscow"
+  },
+  {
+    "name": "Scenic Archaeological Site",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 55.59157775039836,
+        "lng": 37.263667965542886
+      }
+    },
+    "cost": 188.35,
+    "city": "Moscow"
+  },
+  {
+    "name": "Historic Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 19.093378703728714,
+        "lng": 72.86454040856772
+      }
+    },
+    "cost": 98.96,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Vibrant Mountain Pass Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 19.091124350647842,
+        "lng": 72.86821633307945
+      }
+    },
+    "cost": 55.64,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Hidden Beach Volleyball",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 22.66007167346632,
+        "lng": 88.4523841333622
+      }
+    },
+    "cost": 36.94,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Delightful Karaoke Bar",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 22.65380139878464,
+        "lng": 88.44504781426726
+      }
+    },
+    "cost": 7.06,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Thrilling Hot Air Balloon Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 22.310171400153546,
+        "lng": 113.9202750632604
+      }
+    },
+    "cost": 54.45,
+    "city": "Hong Kong"
+  },
+  {
+    "name": "Peaceful Boat Cruise",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 22.30980116368248,
+        "lng": 113.91589038939634
+      }
+    },
+    "cost": 183.83,
+    "city": "Hong Kong"
+  },
+  {
+    "name": "Thrilling Theater Performance",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 12.990958683988923,
+        "lng": 80.1730395665541
+      }
+    },
+    "cost": 149.83,
+    "city": "Chennai"
+  },
+  {
+    "name": "Historic Hot Air Balloon Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 12.997007380490743,
+        "lng": 80.16325140629331
+      }
+    },
+    "cost": 172.27,
+    "city": "Chennai"
+  },
+  {
+    "name": "Historic Street Food Crawl",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 13.91055220364612,
+        "lng": 100.6104023716759
+      }
+    },
+    "cost": 159.52,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Scenic Beach Volleyball",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 13.918114785884507,
+        "lng": 100.6067665716232
+      }
+    },
+    "cost": 23.82,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Scenic Rock Climbing",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 13.690380316162674,
+        "lng": 100.75170797997643
+      }
+    },
+    "cost": 168.31,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Vibrant Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 13.674074195095418,
+        "lng": 100.74676371177003
+      }
+    },
+    "cost": 188.47,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Hidden Shopping District",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 18.75945726448775,
+        "lng": 98.9631077551485
+      }
+    },
+    "cost": 30.16,
+    "city": "Chiang Mai"
+  },
+  {
+    "name": "Hidden Dance Show",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 18.764521555547507,
+        "lng": 98.95612380233197
+      }
+    },
+    "cost": 35.95,
+    "city": "Chiang Mai"
+  },
+  {
+    "name": "Delightful Sanctuary",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 8.114876655539915,
+        "lng": 98.31805333916284
+      }
+    },
+    "cost": 70.71,
+    "city": "Phuket"
+  },
+  {
+    "name": "Thrilling Cultural Center",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 8.113694578817121,
+        "lng": 98.31459949937626
+      }
+    },
+    "cost": 46.91,
+    "city": "Phuket"
+  },
+  {
+    "name": "Vibrant Mountain Pass Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 10.82207923469046,
+        "lng": 106.64363963309852
+      }
+    },
+    "cost": 177.4,
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "name": "Delightful Botanical Garden",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 10.81666423405818,
+        "lng": 106.6464669796665
+      }
+    },
+    "cost": 165.05,
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "name": "Exciting Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": -6.129309027995875,
+        "lng": 106.65654382922753
+      }
+    },
+    "cost": 60.13,
+    "city": "Jakarta"
+  },
+  {
+    "name": "Majestic Scenic Overlook",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": -6.1249989110802465,
+        "lng": 106.65889364454276
+      }
+    },
+    "cost": 194.53,
+    "city": "Jakarta"
+  },
+  {
+    "name": "Serene Science Center",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 1.351106387144083,
+        "lng": 103.99559918423772
+      }
+    },
+    "cost": 120.19,
+    "city": "Singapore"
+  },
+  {
+    "name": "Majestic Boutique Tour",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 1.3485864321586514,
+        "lng": 103.98847421301828
+      }
+    },
+    "cost": 109.14,
+    "city": "Singapore"
+  },
+  {
+    "name": "Historic Shopping District",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": -37.664836987819136,
+        "lng": 144.8349358540013
+      }
+    },
+    "cost": 167.73,
+    "city": "Melbourne"
+  },
+  {
+    "name": "Delightful Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": -37.659421618760476,
+        "lng": 144.83499800229512
+      }
+    },
+    "cost": 35.46,
+    "city": "Melbourne"
+  },
+  {
+    "name": "Peaceful Artisans Village",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 40.07308034516156,
+        "lng": 116.58165262164069
+      }
+    },
+    "cost": 70.49,
+    "city": "Beijing"
+  },
+  {
+    "name": "Majestic Beer Sampling",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 40.07925417492521,
+        "lng": 116.58608934621049
+      }
+    },
+    "cost": 147.7,
+    "city": "Beijing"
+  },
+  {
+    "name": "Hidden Bird Watching Tour",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 39.508666795067874,
+        "lng": 116.40921997237817
+      }
+    },
+    "cost": 39.51,
+    "city": "Beijing"
+  },
+  {
+    "name": "Majestic Theater Performance",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 39.508753244407984,
+        "lng": 116.41290548340464
+      }
+    },
+    "cost": 177.01,
+    "city": "Beijing"
+  },
+  {
+    "name": "Delightful City Panorama",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 49.19304663833625,
+        "lng": -123.18463480701926
+      }
+    },
+    "cost": 71.23,
+    "city": "Vancouver"
+  },
+  {
+    "name": "Historic Scenic Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 49.193320575569835,
+        "lng": -123.19267383305547
+      }
+    },
+    "cost": 119.91,
+    "city": "Vancouver"
+  },
+  {
+    "name": "Historic Jet Skiing",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 43.675264006753665,
+        "lng": -79.62817508718389
+      }
+    },
+    "cost": 78.72,
+    "city": "Toronto"
+  },
+  {
+    "name": "Vibrant Amusement Park",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 43.679114594148935,
+        "lng": -79.63683102154845
+      }
+    },
+    "cost": 77.58,
+    "city": "Toronto"
+  },
+  {
+    "name": "Hidden Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 52.36069235584619,
+        "lng": 13.498612115513462
+      }
+    },
+    "cost": 42.2,
+    "city": "Berlin"
+  },
+  {
+    "name": "Thrilling Road Trip Route",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 52.35901738003462,
+        "lng": 13.503188046558938
+      }
+    },
+    "cost": 105.07,
+    "city": "Berlin"
+  },
+  {
+    "name": "Peaceful Winery Tour",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 50.03334095812283,
+        "lng": 8.55997172901213
+      }
+    },
+    "cost": 164.19,
+    "city": "Frankfurt"
+  },
+  {
+    "name": "Delightful Food Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 50.03193395988982,
+        "lng": 8.555973641779321
+      }
+    },
+    "cost": 112.4,
+    "city": "Frankfurt"
+  },
+  {
+    "name": "Majestic Spa Day",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 48.359697819823886,
+        "lng": 11.789722010916632
+      }
+    },
+    "cost": 91.14,
+    "city": "Munich"
+  },
+  {
+    "name": "Historic National Park",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 48.3577066271153,
+        "lng": 11.79038561338554
+      }
+    },
+    "cost": 62.88,
+    "city": "Munich"
+  },
+  {
+    "name": "Delightful Rafting",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 51.15302572307616,
+        "lng": -0.19711022964514807
+      }
+    },
+    "cost": 33.04,
+    "city": "London"
+  },
+  {
+    "name": "Majestic Art Workshop",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 51.14570226083354,
+        "lng": -0.2000473014990813
+      }
+    },
+    "cost": 136.16,
+    "city": "London"
+  },
+  {
+    "name": "Delightful Beer Sampling",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 51.47134769627781,
+        "lng": -0.464157162179606
+      }
+    },
+    "cost": 117.44,
+    "city": "London"
+  },
+  {
+    "name": "Vibrant Pilgrimage Site",
+    "category": "Religious & Spiritual Sites",
+    "geometry": {
+      "location": {
+        "lat": 51.47107527056984,
+        "lng": -0.46104091222730514
+      }
+    },
+    "cost": 31.2,
+    "city": "London"
+  },
+  {
+    "name": "Scenic Music Festival",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 51.88537544297893,
+        "lng": 0.23544794168859257
+      }
+    },
+    "cost": 184.38,
+    "city": "London"
+  },
+  {
+    "name": "Exciting Cultural Fair",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 51.88840503485779,
+        "lng": 0.2344908725241489
+      }
+    },
+    "cost": 76.31,
+    "city": "London"
+  },
+  {
+    "name": "Peaceful Cultural Center",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 52.3144114608976,
+        "lng": 4.764537011755322
+      }
+    },
+    "cost": 151.35,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Majestic Science Center",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 52.308944996054436,
+        "lng": 4.763316573860708
+      }
+    },
+    "cost": 64.59,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Peaceful Ice Skating Rink",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 53.42531352956962,
+        "lng": -6.2634215309644485
+      }
+    },
+    "cost": 135.59,
+    "city": "Dublin"
+  },
+  {
+    "name": "Delightful Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 53.427040814894596,
+        "lng": -6.2611516323061664
+      }
+    },
+    "cost": 72.61,
+    "city": "Dublin"
+  },
+  {
+    "name": "Scenic Coastal Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 55.61560488803423,
+        "lng": 12.660117389094994
+      }
+    },
+    "cost": 67.8,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Serene Pilgrimage Site",
+    "category": "Religious & Spiritual Sites",
+    "geometry": {
+      "location": {
+        "lat": 55.621500584974974,
+        "lng": 12.656818512795029
+      }
+    },
+    "cost": 78.36,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Scenic Scenic Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 52.164068425357044,
+        "lng": 20.973464490839856
+      }
+    },
+    "cost": 78.23,
+    "city": "Warsaw"
+  },
+  {
+    "name": "Exciting Scenic Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 52.16338623403606,
+        "lng": 20.957937004322847
+      }
+    },
+    "cost": 119.2,
+    "city": "Warsaw"
+  },
+  {
+    "name": "Thrilling Meditation Session",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 59.64208691064819,
+        "lng": 17.929074769114976
+      }
+    },
+    "cost": 145.85,
+    "city": "Stockholm"
+  },
+  {
+    "name": "Scenic Sanctuary",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 59.65308700723249,
+        "lng": 17.924455978109016
+      }
+    },
+    "cost": 32.16,
+    "city": "Stockholm"
+  },
+  {
+    "name": "Thrilling Artisan Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": -26.1376395195241,
+        "lng": 28.25233902682338
+      }
+    },
+    "cost": 196.22,
+    "city": "Johannesburg"
+  },
+  {
+    "name": "Scenic Shopping District",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": -26.13070849012559,
+        "lng": 28.241995110915237
+      }
+    },
+    "cost": 172.29,
+    "city": "Johannesburg"
+  },
+  {
+    "name": "Exciting Ancient Ruins",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 27.170216644749505,
+        "lng": 33.799763155826874
+      }
+    },
+    "cost": 172.59,
+    "city": "Hurghada"
+  },
+  {
+    "name": "Historic Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 27.177547691354068,
+        "lng": 33.79276086831826
+      }
+    },
+    "cost": 192.14,
+    "city": "Hurghada"
+  },
+  {
+    "name": "Hidden Art Exhibition",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 36.08180907168045,
+        "lng": -115.14726454123674
+      }
+    },
+    "cost": 169.45,
+    "city": "Las Vegas"
+  },
+  {
+    "name": "Scenic Jet Skiing",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 36.08149184445502,
+        "lng": -115.14935115677358
+      }
+    },
+    "cost": 175.79,
+    "city": "Las Vegas"
+  },
+  {
+    "name": "Scenic Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 33.94336769988959,
+        "lng": -118.41075210371548
+      }
+    },
+    "cost": 63.97,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Hidden Nightclub",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 33.939638490903945,
+        "lng": -118.41287187427879
+      }
+    },
+    "cost": 30.48,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Serene Monument",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 28.425960997384063,
+        "lng": -81.30795050637961
+      }
+    },
+    "cost": 192.63,
+    "city": "Orlando"
+  },
+  {
+    "name": "Peaceful Pilgrimage Site",
+    "category": "Religious & Spiritual Sites",
+    "geometry": {
+      "location": {
+        "lat": 28.43001787180653,
+        "lng": -81.30903783281555
+      }
+    },
+    "cost": 59.75,
+    "city": "Orlando"
+  },
+  {
+    "name": "Vibrant Nightclub",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 25.798692789401976,
+        "lng": -80.29686433426563
+      }
+    },
+    "cost": 21.82,
+    "city": "Miami"
+  },
+  {
+    "name": "Scenic Ski Resort",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 25.78693454789938,
+        "lng": -80.28575422019951
+      }
+    },
+    "cost": 195.19,
+    "city": "Miami"
+  },
+  {
+    "name": "Peaceful Live Music Venue",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 28.772036038971482,
+        "lng": -81.24117632688713
+      }
+    },
+    "cost": 148.42,
+    "city": "Orlando"
+  },
+  {
+    "name": "Thrilling Mountain Pass Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 28.77787031196796,
+        "lng": -81.2441894577045
+      }
+    },
+    "cost": 10.17,
+    "city": "Orlando"
+  },
+  {
+    "name": "Serene Language Class",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 37.620468897063105,
+        "lng": -122.37847271479339
+      }
+    },
+    "cost": 26.02,
+    "city": "San Francisco"
+  },
+  {
+    "name": "Historic Science Center",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 37.61993650854277,
+        "lng": -122.3818532550011
+      }
+    },
+    "cost": 98.74,
+    "city": "San Francisco"
+  },
+  {
+    "name": "Historic Museum",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 41.29839609078805,
+        "lng": 2.084696958404298
+      }
+    },
+    "cost": 116.82,
+    "city": "Barcelona"
+  },
+  {
+    "name": "Historic Coastal Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 41.296407976355646,
+        "lng": 2.074358555028726
+      }
+    },
+    "cost": 159.06,
+    "city": "Barcelona"
+  },
+  {
+    "name": "Hidden Coastal Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 40.47621692949414,
+        "lng": -3.558956141163375
+      }
+    },
+    "cost": 159.78,
+    "city": "Madrid"
+  },
+  {
+    "name": "Peaceful Shopping District",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 40.46835238515491,
+        "lng": -3.5643955073512905
+      }
+    },
+    "cost": 159.63,
+    "city": "Madrid"
+  },
+  {
+    "name": "Peaceful Beach Volleyball",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 39.54663969538094,
+        "lng": 2.7391455494711794
+      }
+    },
+    "cost": 174.43,
+    "city": "Palma de Mallorca"
+  },
+  {
+    "name": "Hidden Landmark",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 39.54546429521843,
+        "lng": 2.742339246149469
+      }
+    },
+    "cost": 21.32,
+    "city": "Palma de Mallorca"
+  },
+  {
+    "name": "Delightful Playground",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 35.340240108819955,
+        "lng": 25.183457692150476
+      }
+    },
+    "cost": 9.19,
+    "city": "Heraklion"
+  },
+  {
+    "name": "Exciting Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 35.33960711428445,
+        "lng": 25.184172206180467
+      }
+    },
+    "cost": 101.98,
+    "city": "Heraklion"
+  },
+  {
+    "name": "Serene Local Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 47.43396069138962,
+        "lng": 19.257075966928305
+      }
+    },
+    "cost": 39.77,
+    "city": "Budapest"
+  },
+  {
+    "name": "Historic Rock Climbing",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 47.43263310383712,
+        "lng": 19.26021162216787
+      }
+    },
+    "cost": 25.17,
+    "city": "Budapest"
+  },
+  {
+    "name": "Serene Road Trip Route",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 41.80585455219103,
+        "lng": 12.250414227990222
+      }
+    },
+    "cost": 141.84,
+    "city": "Rome"
+  },
+  {
+    "name": "Scenic Jazz Lounge",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 41.79840572064666,
+        "lng": 12.243283550917772
+      }
+    },
+    "cost": 101.71,
+    "city": "Rome"
+  },
+  {
+    "name": "Exciting Food Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 50.1066532900827,
+        "lng": 14.262228051550826
+      }
+    },
+    "cost": 20.74,
+    "city": "Prague"
+  },
+  {
+    "name": "Hidden Live Music Venue",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 50.09861645006867,
+        "lng": 14.262379366966888
+      }
+    },
+    "cost": 179.16,
+    "city": "Prague"
+  },
+  {
+    "name": "Majestic Language Class",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 32.00486897254289,
+        "lng": 34.88512556989643
+      }
+    },
+    "cost": 29.54,
+    "city": "Tel Aviv"
+  },
+  {
+    "name": "Delightful Bungee Jump",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 32.01294373776996,
+        "lng": 34.89203818527714
+      }
+    },
+    "cost": 88.84,
+    "city": "Tel Aviv"
+  },
+  {
+    "name": "Vibrant Art Exhibition",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 48.11264106361401,
+        "lng": 16.568513808145347
+      }
+    },
+    "cost": 64.38,
+    "city": "Vienna"
+  },
+  {
+    "name": "Historic Spa Day",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 48.11169330410345,
+        "lng": 16.564310487318558
+      }
+    },
+    "cost": 65.69,
+    "city": "Vienna"
+  },
+  {
+    "name": "Peaceful Jet Skiing",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 41.25013097515892,
+        "lng": -8.681431705342131
+      }
+    },
+    "cost": 162.13,
+    "city": "Porto"
+  },
+  {
+    "name": "Delightful National Park",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 41.247604443096826,
+        "lng": -8.681756360565636
+      }
+    },
+    "cost": 105.0,
+    "city": "Porto"
+  },
+  {
+    "name": "Historic National Park",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 38.785480548920965,
+        "lng": -9.133305691173081
+      }
+    },
+    "cost": 157.01,
+    "city": "Lisbon"
+  },
+  {
+    "name": "Hidden Botanical Garden",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 38.78473775933959,
+        "lng": -9.130268429066016
+      }
+    },
+    "cost": 36.11,
+    "city": "Lisbon"
+  },
+  {
+    "name": "Thrilling Sanctuary",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 36.89657543687426,
+        "lng": 30.80356979111768
+      }
+    },
+    "cost": 190.59,
+    "city": "Antalya"
+  },
+  {
+    "name": "Thrilling Boutique Tour",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 36.905293665992545,
+        "lng": 30.799171254600655
+      }
+    },
+    "cost": 54.85,
+    "city": "Antalya"
+  },
+  {
+    "name": "Delightful Jet Skiing",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": -37.007355716563296,
+        "lng": 174.78172522801822
+      }
+    },
+    "cost": 53.88,
+    "city": "Auckland"
+  },
+  {
+    "name": "Peaceful Scenic Overlook",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": -37.01708678073103,
+        "lng": 174.79099720948304
+      }
+    },
+    "cost": 6.08,
+    "city": "Auckland"
+  },
+  {
+    "name": "Peaceful Amusement Park",
+    "category": "Family & Kids Activities",
+    "geometry": {
+      "location": {
+        "lat": 24.54884939033007,
+        "lng": 39.70096020862569
+      }
+    },
+    "cost": 53.91,
+    "city": "Medina"
+  },
+  {
+    "name": "Scenic Ski Resort",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 24.549913163342673,
+        "lng": 39.70027469120265
+      }
+    },
+    "cost": 184.02,
+    "city": "Medina"
+  },
+  {
+    "name": "Peaceful Safari",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 24.952260083602464,
+        "lng": 46.701118826954605
+      }
+    },
+    "cost": 154.49,
+    "city": "Riyadh"
+  },
+  {
+    "name": "Peaceful Nightclub",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 24.95092980266142,
+        "lng": 46.69924219806069
+      }
+    },
+    "cost": 59.12,
+    "city": "Riyadh"
+  },
+  {
+    "name": "Historic Nature Trail",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 24.440668678517067,
+        "lng": 54.64405709581273
+      }
+    },
+    "cost": 37.91,
+    "city": "Abu Dhabi"
+  },
+  {
+    "name": "Historic Monument",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 24.4503301450702,
+        "lng": 54.6531955868628
+      }
+    },
+    "cost": 71.95,
+    "city": "Abu Dhabi"
+  },
+  {
+    "name": "Hidden Artisan Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": 25.248568408960686,
+        "lng": 55.3633704119876
+      }
+    },
+    "cost": 175.86,
+    "city": "Dubai"
+  },
+  {
+    "name": "Majestic Surfing Lesson",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 25.256388984088684,
+        "lng": 55.361932080903244
+      }
+    },
+    "cost": 60.75,
+    "city": "Dubai"
+  },
+  {
+    "name": "Hidden Eco Lodge",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 34.41936334646571,
+        "lng": 135.24279533015445
+      }
+    },
+    "cost": 73.67,
+    "city": "Osaka"
+  },
+  {
+    "name": "Historic Snowboarding Park",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 34.429334025094505,
+        "lng": 135.25258803275574
+      }
+    },
+    "cost": 154.15,
+    "city": "Osaka"
+  },
+  {
+    "name": "Hidden Snowshoeing Tour",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 33.58252915065158,
+        "lng": 130.45618303418826
+      }
+    },
+    "cost": 46.94,
+    "city": "Fukuoka"
+  },
+  {
+    "name": "Peaceful Surfing Lesson",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 33.58327256673545,
+        "lng": 130.45212049167654
+      }
+    },
+    "cost": 40.93,
+    "city": "Fukuoka"
+  },
+  {
+    "name": "Scenic Eco Lodge",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 34.789100900932155,
+        "lng": 135.44572093420248
+      }
+    },
+    "cost": 165.78,
+    "city": "Osaka"
+  },
+  {
+    "name": "Delightful Helicopter Tour",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 34.790855136201465,
+        "lng": 135.4329504292689
+      }
+    },
+    "cost": 110.55,
+    "city": "Osaka"
+  },
+  {
+    "name": "Serene Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 35.55108981038094,
+        "lng": 139.7779125774481
+      }
+    },
+    "cost": 120.42,
+    "city": "Tokyo"
+  },
+  {
+    "name": "Exciting Rock Climbing",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 35.54819948679321,
+        "lng": 139.7723141354875
+      }
+    },
+    "cost": 56.14,
+    "city": "Tokyo"
+  },
+  {
+    "name": "Vibrant Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 37.464684086005704,
+        "lng": 126.45442491715956
+      }
+    },
+    "cost": 97.87,
+    "city": "Korea"
+  },
+  {
+    "name": "Hidden Helicopter Tour",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 37.46204394604451,
+        "lng": 126.45756167302451
+      }
+    },
+    "cost": 6.24,
+    "city": "Korea"
+  },
+  {
+    "name": "Serene Brewery Visit",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": 37.567854759951516,
+        "lng": 126.79211289605364
+      }
+    },
+    "cost": 165.95,
+    "city": "Korea"
+  },
+  {
+    "name": "Hidden Food Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 37.56181941869611,
+        "lng": 126.79118462710417
+      }
+    },
+    "cost": 182.47,
+    "city": "Korea"
+  },
+  {
+    "name": "Peaceful Wine Tasting",
+    "category": "Wine & Brewery Tours",
+    "geometry": {
+      "location": {
+        "lat": -34.5564471691107,
+        "lng": -58.41898890687011
+      }
+    },
+    "cost": 54.7,
+    "city": "Buenos Aires"
+  },
+  {
+    "name": "Hidden Music Festival",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": -34.55911929972709,
+        "lng": -58.414282722015045
+      }
+    },
+    "cost": 171.79,
+    "city": "Buenos Aires"
+  },
+  {
+    "name": "Delightful Local Market",
+    "category": "Shopping & Markets",
+    "geometry": {
+      "location": {
+        "lat": -12.013410362430665,
+        "lng": -77.11625010296157
+      }
+    },
+    "cost": 156.67,
+    "city": "Lima"
+  },
+  {
+    "name": "Scenic Street Food Crawl",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": -12.017308919867382,
+        "lng": -77.10771974788513
+      }
+    },
+    "cost": 157.08,
+    "city": "Lima"
+  },
+  {
+    "name": "Serene Ice Skating Rink",
+    "category": "Winter Sports & Skiing",
+    "geometry": {
+      "location": {
+        "lat": 10.102466277377038,
+        "lng": -64.68885472953278
+      }
+    },
+    "cost": 125.09,
+    "city": "Venezuela"
+  },
+  {
+    "name": "Majestic Dance Show",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 10.106729969044194,
+        "lng": -64.68682313062001
+      }
+    },
+    "cost": 85.2,
+    "city": "Venezuela"
+  },
+  {
+    "name": "Historic Photography Workshop",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 55.552367817453515,
+        "lng": 38.150333541578746
+      }
+    },
+    "cost": 189.2,
+    "city": "Moscow"
+  },
+  {
+    "name": "Serene Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 55.56220326853761,
+        "lng": 38.1476309529945
+      }
+    },
+    "cost": 194.46,
+    "city": "Moscow"
+  },
+  {
+    "name": "Majestic Botanical Garden",
+    "category": "Outdoor & Nature",
+    "geometry": {
+      "location": {
+        "lat": 55.40760872757331,
+        "lng": 37.906935324948755
+      }
+    },
+    "cost": 116.61,
+    "city": "Moscow"
+  },
+  {
+    "name": "Delightful Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 55.40828285633835,
+        "lng": 37.90607659930123
+      }
+    },
+    "cost": 189.12,
+    "city": "Moscow"
+  },
+  {
+    "name": "Scenic Local Market Tour",
+    "category": "Food & Culinary Experiences",
+    "geometry": {
+      "location": {
+        "lat": 55.98088253834403,
+        "lng": 37.41106259297136
+      }
+    },
+    "cost": 192.32,
+    "city": "Moscow"
+  },
+  {
+    "name": "Scenic Music Festival",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 55.971449973181315,
+        "lng": 37.40941760477984
+      }
+    },
+    "cost": 48.93,
+    "city": "Moscow"
+  },
+  {
+    "name": "Vibrant Artisans Village",
+    "category": "Cultural & Heritage",
+    "geometry": {
+      "location": {
+        "lat": 55.5944094318999,
+        "lng": 37.260087926586216
+      }
+    },
+    "cost": 106.18,
+    "city": "Moscow"
+  },
+  {
+    "name": "Delightful Jet Skiing",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 55.58954681937979,
+        "lng": 37.261323606221964
+      }
+    },
+    "cost": 166.55,
+    "city": "Moscow"
+  },
+  {
+    "name": "Peaceful Train Ride",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 19.093889802558895,
+        "lng": 72.86137842977897
+      }
+    },
+    "cost": 95.83,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Scenic Art Workshop",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 19.09028970495543,
+        "lng": 72.86181447652434
+      }
+    },
+    "cost": 15.0,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Hidden Street Parade",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 22.65808601139255,
+        "lng": 88.45278253691649
+      }
+    },
+    "cost": 93.73,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Serene Ancient Ruins",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 22.657725232194597,
+        "lng": 88.44999984819633
+      }
+    },
+    "cost": 183.29,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Thrilling Safari",
+    "category": "Wildlife & Eco-Tourism",
+    "geometry": {
+      "location": {
+        "lat": 22.30915066767256,
+        "lng": 113.9126222628215
+      }
+    },
+    "cost": 81.06,
+    "city": "Hong Kong"
+  },
+  {
+    "name": "Exciting Photography Workshop",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 22.301451558933113,
+        "lng": 113.91650164912912
+      }
+    },
+    "cost": 41.98,
+    "city": "Hong Kong"
+  },
+  {
+    "name": "Delightful City Panorama",
+    "category": "Sightseeing & Landmarks",
+    "geometry": {
+      "location": {
+        "lat": 12.99867761177784,
+        "lng": 80.17092506020762
+      }
+    },
+    "cost": 159.74,
+    "city": "Chennai"
+  },
+  {
+    "name": "Scenic Karaoke Bar",
+    "category": "Music & Nightlife",
+    "geometry": {
+      "location": {
+        "lat": 12.994231181941604,
+        "lng": 80.16708386941033
+      }
+    },
+    "cost": 14.26,
+    "city": "Chennai"
+  },
+  {
+    "name": "Serene Surfing Lesson",
+    "category": "Beach & Water Sports",
+    "geometry": {
+      "location": {
+        "lat": 13.911122476210897,
+        "lng": 100.61049205124722
+      }
+    },
+    "cost": 152.19,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Peaceful Concert",
+    "category": "Arts & Entertainment",
+    "geometry": {
+      "location": {
+        "lat": 13.91826267114383,
+        "lng": 100.60874185924844
+      }
+    },
+    "cost": 148.55,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Delightful Coastal Drive",
+    "category": "Road Trips & Scenic Drives",
+    "geometry": {
+      "location": {
+        "lat": 13.685717900211774,
+        "lng": 100.7426496812698
+      }
+    },
+    "cost": 128.57,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Vibrant Yoga Retreat",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 13.678395292144245,
+        "lng": 100.74193937536575
+      }
+    },
+    "cost": 171.72,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Exciting Rafting",
+    "category": "Adventure & Extreme Sports",
+    "geometry": {
+      "location": {
+        "lat": 18.765908098348792,
+        "lng": 98.96140074964578
+      }
+    },
+    "cost": 81.66,
+    "city": "Chiang Mai"
+  },
+  {
+    "name": "Majestic Boat Cruise",
+    "category": "Scenic Tours & Cruises",
+    "geometry": {
+      "location": {
+        "lat": 18.761348252221882,
+        "lng": 98.95484684687354
+      }
+    },
+    "cost": 33.15,
+    "city": "Chiang Mai"
+  },
+  {
+    "name": "Historic Historic Fortress",
+    "category": "Historical Sites",
+    "geometry": {
+      "location": {
+        "lat": 8.118138107637453,
+        "lng": 98.31571708329933
+      }
+    },
+    "cost": 111.7,
+    "city": "Phuket"
+  },
+  {
+    "name": "Vibrant Language Class",
+    "category": "Educational & Workshops",
+    "geometry": {
+      "location": {
+        "lat": 8.115890763816598,
+        "lng": 98.31617392559458
+      }
+    },
+    "cost": 165.66,
+    "city": "Phuket"
+  },
+  {
+    "name": "Delightful Street Parade",
+    "category": "Festivals & Events",
+    "geometry": {
+      "location": {
+        "lat": 10.814118497418551,
+        "lng": 106.65227227626993
+      }
+    },
+    "cost": 197.68,
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "name": "Peaceful Meditation Session",
+    "category": "Wellness & Spa Retreats",
+    "geometry": {
+      "location": {
+        "lat": 10.817907882077533,
+        "lng": 106.6470459411962
+      }
+    },
+    "cost": 77.71,
+    "city": "Ho Chi Minh City"
+  }
+]

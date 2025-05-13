@@ -1,0 +1,249 @@
+Afghanistan,Afghan,AF,Asia,AS
+Albania,Albanian,AL,Europe,EU
+Algeria,Algerian,DZ,Africa,AF
+American Samoa,American Samoan,AS,Oceania,OC
+Andorra,Andorran,AD,Europe,EU
+Angola,Angolan,AO,Africa,AF
+Anguilla,Anguillian,AI,North America,NA
+Antarctica,Antarctican,AQ,Antarctica,AN
+Antigua and Barbuda,Antiguan Barbudan,AG,North America,NA
+Argentina,Argentine,AR,South America,SA
+Armenia,Armenian,AM,Asia,AS
+Aruba,Aruban,AW,North America,NA
+Australia,Australian,AU,Oceania,OC
+Austria,Austrian,AT,Europe,EU
+Azerbaijan,Azerbaijani,AZ,Europe,EU
+Bahamas,Bahamian,BS,North America,NA
+Bahrain,Bahraini,BH,Asia,AS
+Bangladesh,Bangladeshi,BD,Asia,AS
+Barbados,Barbadian,BB,North America,NA
+Belarus,Belarusian,BY,Europe,EU
+Belgium,Belgian,BE,Europe,EU
+Belize,Belizean,BZ,North America,NA
+Benin,Beninese,BJ,Africa,AF
+Bermuda,Bermudian,BM,North America,NA
+Bhutan,Bhutanese,BT,Asia,AS
+Bolivia,Bolivian,BO,South America,SA
+Bosnia and Herzegovina,Bosnian Herzegovinian,BA,Europe,EU
+Botswana,Motswana,BW,Africa,AF
+Brazil,Brazilian,BR,South America,SA
+British Indian Ocean Territory,Indian,IO,Asia,AS
+British Virgin Islands,Virgin Islander,VG,North America,NA
+Brunei,Bruneian,BN,Asia,AS
+Bulgaria,Bulgarian,BG,Europe,EU
+Burkina Faso,Burkinabe,BF,Africa,AF
+Burundi,Burundian,BI,Africa,AF
+Cambodia,Cambodian,KH,Asia,AS
+Cameroon,Cameroonian,CM,Africa,AF
+Canada,Canadian,CA,North America,NA
+Cape Verde,Cape Verdian,CV,Africa,AF
+Caribbean Netherlands,Dutch,BQ,North America,NA
+Cayman Islands,Caymanian,KY,North America,NA
+Central African Republic,Central African,CF,Africa,AF
+Chad,Chadian,TD,Africa,AF
+Chile,Chilean,CL,South America,SA
+China,Chinese,CN,Asia,AS
+Christmas Island,Christmas Islander,CX,Asia,AS
+Cocos (Keeling) Islands,Cocos Islander,CC,Asia,AS
+Colombia,Colombian,CO,South America,SA
+Comoros,Comoran,KM,Africa,AF
+Cook Islands,Cook Islander,CK,Oceania,OC
+Costa Rica,Costa Rican,CR,North America,NA
+Croatia,Croatian,HR,Europe,EU
+Cuba,Cuban,CU,North America,NA
+Curaçao,Curaçaoan,CW,North America,NA
+Cyprus,Cypriot,CY,Europe,EU
+Czechia,Czech,CZ,Europe,EU
+DR Congo,Congolese,CD,Africa,AF
+Denmark,Danish,DK,Europe,EU
+Djibouti,Djibouti,DJ,Africa,AF
+Dominica,Dominican,DM,North America,NA
+Dominican Republic,Dominican,DO,North America,NA
+Ecuador,Ecuadorean,EC,South America,SA
+Egypt,Egyptian,EG,Africa,AF
+El Salvador,Salvadoran,SV,North America,NA
+Equatorial Guinea,Equatorial Guinean,GQ,Africa,AF
+Eritrea,Eritrean,ER,Africa,AF
+Estonia,Estonian,EE,Europe,EU
+Eswatini,Swazi,SZ,Africa,AF
+Ethiopia,Ethiopian,ET,Africa,AF
+Falkland Islands,Falkland Islander,FK,South America,SA
+Faroe Islands,Faroese,FO,Europe,EU
+Fiji,Fijian,FJ,Oceania,OC
+Finland,Finnish,FI,Europe,EU
+France,French,FR,Europe,EU
+French Guiana,Guianan,GF,South America,SA
+French Polynesia,French Polynesian,PF,Oceania,OC
+French Southern and Antarctic Lands,French,TF,Antarctica,AN
+Gabon,Gabonese,GA,Africa,AF
+Gambia,Gambian,GM,Africa,AF
+Georgia,Georgian,GE,Asia,AS
+Germany,German,DE,Europe,EU
+Ghana,Ghanaian,GH,Africa,AF
+Gibraltar,Gibraltar,GI,Europe,EU
+Greece,Greek,GR,Europe,EU
+Greenland,Greenlandic,GL,North America,NA
+Grenada,Grenadian,GD,North America,NA
+Guadeloupe,Guadeloupian,GP,North America,NA
+Guam,Guamanian,GU,Oceania,OC
+Guatemala,Guatemalan,GT,North America,NA
+Guernsey,Channel Islander,GG,Europe,EU
+Guinea,Guinean,GN,Africa,AF
+Guinea-Bissau,Guinea-Bissauan,GW,Africa,AF
+Guyana,Guyanese,GY,South America,SA
+Haiti,Haitian,HT,North America,NA
+Heard Island and McDonald Islands,Heard and McDonald Islander,HM,Antarctica,AN
+Honduras,Honduran,HN,North America,NA
+Hong Kong,Hong Konger,HK,Asia,AS
+Hungary,Hungarian,HU,Europe,EU
+Iceland,Icelander,IS,Europe,EU
+India,Indian,IN,Asia,AS
+Indonesia,Indonesian,ID,Asia,AS
+Iran,Iranian,IR,Asia,AS
+Iraq,Iraqi,IQ,Asia,AS
+Ireland,Irish,IE,Europe,EU
+Isle of Man,Manx,IM,Europe,EU
+Israel,Israeli,IL,Asia,AS
+Italy,Italian,IT,Europe,EU
+Ivory Coast,Ivorian,CI,Africa,AF
+Jamaica,Jamaican,JM,North America,NA
+Japan,Japanese,JP,Asia,AS
+Jersey,Channel Islander,JE,Europe,EU
+Jordan,Jordanian,JO,Asia,AS
+Kazakhstan,Kazakhstani,KZ,Asia,AS
+Kenya,Kenyan,KE,Africa,AF
+Kiribati,I-Kiribati,KI,Oceania,OC
+Kosovo,Kosovar,XK,Europe,EU
+Kuwait,Kuwaiti,KW,Asia,AS
+Kyrgyzstan,Kirghiz,KG,Asia,AS
+Laos,Laotian,LA,Asia,AS
+Latvia,Latvian,LV,Europe,EU
+Lebanon,Lebanese,LB,Asia,AS
+Lesotho,Mosotho,LS,Africa,AF
+Liberia,Liberian,LR,Africa,AF
+Libya,Libyan,LY,Africa,AF
+Liechtenstein,Liechtensteiner,LI,Europe,EU
+Lithuania,Lithuanian,LT,Europe,EU
+Luxembourg,Luxembourger,LU,Europe,EU
+Macau,Macanese,MO,Asia,AS
+Madagascar,Malagasy,MG,Africa,AF
+Malawi,Malawian,MW,Africa,AF
+Malaysia,Malaysian,MY,Asia,AS
+Maldives,Maldivan,MV,Asia,AS
+Mali,Malian,ML,Africa,AF
+Malta,Maltese,MT,Europe,EU
+Marshall Islands,Marshallese,MH,Oceania,OC
+Martinique,Martinican,MQ,North America,NA
+Mauritania,Mauritanian,MR,Africa,AF
+Mauritius,Mauritian,MU,Africa,AF
+Mayotte,Mahoran,YT,Africa,AF
+Mexico,Mexican,MX,North America,NA
+Micronesia,Micronesian,FM,Oceania,OC
+Moldova,Moldovan,MD,Europe,EU
+Monaco,Monegasque,MC,Europe,EU
+Mongolia,Mongolian,MN,Asia,AS
+Montenegro,Montenegrin,ME,Europe,EU
+Montserrat,Montserratian,MS,North America,NA
+Morocco,Moroccan,MA,Africa,AF
+Mozambique,Mozambican,MZ,Africa,AF
+Myanmar,Burmese,MM,Asia,AS
+Namibia,Namibian,NA,Africa,AF
+Nauru,Nauruan,NR,Oceania,OC
+Nepal,Nepalese,NP,Asia,AS
+Netherlands,Dutch,NL,Europe,EU
+New Caledonia,New Caledonian,NC,Oceania,OC
+New Zealand,New Zealander,NZ,Oceania,OC
+Nicaragua,Nicaraguan,NI,North America,NA
+Niger,Nigerien,NE,Africa,AF
+Nigeria,Nigerian,NG,Africa,AF
+Niue,Niuean,NU,Oceania,OC
+Norfolk Island,Norfolk Islander,NF,Oceania,OC
+North Korea,North Korean,KP,Asia,AS
+North Macedonia,Macedonian,MK,Europe,EU
+Northern Mariana Islands,American,MP,Oceania,OC
+Norway,Norwegian,NO,Europe,EU
+Oman,Omani,OM,Asia,AS
+Pakistan,Pakistani,PK,Asia,AS
+Palau,Palauan,PW,Oceania,OC
+Palestine,Palestinian,PS,Asia,AS
+Panama,Panamanian,PA,North America,NA
+Papua New Guinea,Papua New Guinean,PG,Oceania,OC
+Paraguay,Paraguayan,PY,South America,SA
+Peru,Peruvian,PE,South America,SA
+Philippines,Filipino,PH,Asia,AS
+Pitcairn Islands,Pitcairn Islander,PN,Oceania,OC
+Poland,Polish,PL,Europe,EU
+Portugal,Portuguese,PT,Europe,EU
+Puerto Rico,Puerto Rican,PR,North America,NA
+Qatar,Qatari,QA,Asia,AS
+Republic of the Congo,Congolese,CG,Africa,AF
+Romania,Romanian,RO,Europe,EU
+Russia,Russian,RU,Europe,EU
+Rwanda,Rwandan,RW,Africa,AF
+Réunion,Réunionese,RE,Africa,AF
+Saint Barthélemy,Saint Barthélemy Islander,BL,North America,NA
+Saint Helena, Ascension and Tristan da Cunha,Saint Helenian,SH,Africa,AF
+Saint Kitts and Nevis,Kittitian or Nevisian,KN,North America,NA
+Saint Lucia,Saint Lucian,LC,North America,NA
+Saint Martin,Saint Martin Islander,MF,North America,NA
+Saint Pierre and Miquelon,Saint-Pierrais Miquelonnais,PM,North America,NA
+Saint Vincent and the Grenadines,Saint Vincentian,VC,North America,NA
+Samoa,Samoan,WS,Oceania,OC
+San Marino,Sammarinese,SM,Europe,EU
+Saudi Arabia,Saudi Arabian,SA,Asia,AS
+Senegal,Senegalese,SN,Africa,AF
+Serbia,Serbian,RS,Europe,EU
+Seychelles,Seychellois,SC,Africa,AF
+Sierra Leone,Sierra Leonean,SL,Africa,AF
+Singapore,Singaporean,SG,Asia,AS
+Sint Maarten,St. Maartener,SX,North America,NA
+Slovakia,Slovak,SK,Europe,EU
+Slovenia,Slovene,SI,Europe,EU
+Solomon Islands,Solomon Islander,SB,Oceania,OC
+Somalia,Somali,SO,Africa,AF
+South Africa,South African,ZA,Africa,AF
+South Georgia,South Georgian South Sandwich Islander,GS,Antarctica,AN
+South Korea,South Korean,KR,Asia,AS
+South Sudan,South Sudanese,SS,Africa,AF
+Spain,Spanish,ES,Europe,EU
+Sri Lanka,Sri Lankan,LK,Asia,AS
+Sudan,Sudanese,SD,Africa,AF
+Suriname,Surinamer,SR,South America,SA
+Svalbard and Jan Mayen,Norwegian,SJ,Europe,EU
+Sweden,Swedish,SE,Europe,EU
+Switzerland,Swiss,CH,Europe,EU
+Syria,Syrian,SY,Asia,AS
+São Tomé and Príncipe,Sao Tomean,ST,Africa,AF
+Taiwan,Taiwanese,TW,Asia,AS
+Tajikistan,Tadzhik,TJ,Asia,AS
+Tanzania,Tanzanian,TZ,Africa,AF
+Thailand,Thai,TH,Asia,AS
+Timor-Leste,East Timorese,TL,Oceania,OC
+Togo,Togolese,TG,Africa,AF
+Tokelau,Tokelauan,TK,Oceania,OC
+Tonga,Tongan,TO,Oceania,OC
+Trinidad and Tobago,Trinidadian,TT,North America,NA
+Tunisia,Tunisian,TN,Africa,AF
+Turkey,Turkish,TR,Europe,EU
+Turkmenistan,Turkmen,TM,Asia,AS
+Turks and Caicos Islands,Turks and Caicos Islander,TC,North America,NA
+Tuvalu,Tuvaluan,TV,Oceania,OC
+Uganda,Ugandan,UG,Africa,AF
+Ukraine,Ukrainian,UA,Europe,EU
+United Arab Emirates,Emirati,AE,Asia,AS
+United Kingdom,British,GB,Europe,EU
+United States,American,US,North America,NA
+United States Minor Outlying Islands,American Islander,UM,Oceania,OC
+United States Virgin Islands,Virgin Islander,VI,North America,NA
+Uruguay,Uruguayan,UY,South America,SA
+Uzbekistan,Uzbekistani,UZ,Asia,AS
+Vanuatu,Ni-Vanuatu,VU,Oceania,OC
+Vatican City,Vatican,VA,Europe,EU
+Venezuela,Venezuelan,VE,South America,SA
+Vietnam,Vietnamese,VN,Asia,AS
+Wallis and Futuna,Wallis and Futuna Islander,WF,Oceania,OC
+Western Sahara,Sahrawi,EH,Africa,AF
+Yemen,Yemeni,YE,Asia,AS
+Zambia,Zambian,ZM,Africa,AF
+Zimbabwe,Zimbabwean,ZW,Africa,AF
+Åland Islands,Ålandish,AX,Europe,EU
