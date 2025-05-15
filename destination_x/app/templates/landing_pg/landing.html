@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block main %}
+<!-- ***** Main Banner Area Start ***** -->
+    <section id="section-1">
+      {% include "landing_pg/banner.html" %}
+    </section>
+    <!-- ***** Main Banner Area End ***** -->
+    
+    <div class="visit-country">
+      {% include "landing_pg/country.html" %}
+    </div>
+
+    <div class="call-to-action">
+      {% include "landing_pg/action.html" %}
+    </div>
+{% endblock %}

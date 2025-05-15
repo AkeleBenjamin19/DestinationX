@@ -1,0 +1,900 @@
+
+<div class="selection-input">
+  
+  <div class="divider"> </div>
+
+  <div id="budget-input" class="pref-input">
+    <div id="budget-text" class="pref-text">BUDGET</div>
+    <div id="budget-input-inner" class="pref-inner">
+      <div class="slider-control">
+        <div class="amount-display">$<span id="amountValue">100</span></div>
+
+        <button id="decreaseBtn">−</button>
+            
+        <input type="range" id="amountSlider" min="0" max="10000" value="100" step="50">
+            
+        <button id="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"> </div>
+
+  <div id="passport-input" class="pref-input">
+    <div id="passport-text" class="pref-text">PASSPORTS</div>
+    <div id="passport-input-inner" class="pref-selects">
+      <div id="pp-tag-selector" class="tag-selector">
+        <select id="pp-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="pp-selectedTags" class="selectedTags"></div>
+      </div>
+      
+    </div>
+  </div>
+
+  <div class="divider"> </div>
+
+  <div id="visa-input" class="pref-input">
+    <div id="visa-text" class="pref-text">VISAS</div>
+    <div id="visa-input-inner" class="pref-selects">
+      <div id="vs-tag-selector" class="tag-selector">
+        <select id="vs-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="vs-selectedTags" class="selectedTags"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="divider"> </div>  
+
+  <div id="climate-input" class="pref-input">
+    <div id="climate-text" class="pref-text">CLIMATE</div>
+    <div id="climate-input-inner" class="pref-selects">
+      <div id="cl-tag-selector" class="tag-selector">
+        <select id="cl-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="cl-selectedTags" class="selectedTags"></div>
+      </div>      
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefClAmt">0</span></div>
+
+        <button id="cl-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefClSlider" min="0" max="10" value="0" >
+            
+        <button id="cl-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"> </div>  
+
+  <div id="land-input" class="pref-input">
+    <div id="land-text" class="pref-text">SIGHTSEEING & LANDMARKS</div>
+    <div id="land-input-inner" class="pref-selects">
+      <div id="ld-tag-selector" class="tag-selector">
+        <select id="ld-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="ld-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefLdAmt">0</span></div>
+
+        <button id="ld-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefLdSlider" min="0" max="10" value="0" >
+            
+        <button id="ld-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+  
+  <div class="divider"> </div>  
+
+  <div id="exp-input" class="pref-input">
+    <div id="exp-text" class="pref-text">CULTURAL EXPERIENCES</div>
+    <div id="exp-input-inner" class="pref-selects">
+      <div id="exp-tag-selector" class="tag-selector">
+        <select id="exp-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="exp-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefExpAmt">0</span></div>
+
+        <button id="ep-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefExpSlider" min="0" max="10" value="0" >
+            
+        <button id="ep-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"> </div>  
+
+  <div id="food-input" class="pref-input">
+    <div id="food-text" class="pref-text">CULINARY & FOOD EXPERIENCES</div>
+    <div id="food-input-inner" class="pref-selects">
+      <div id="fd-tag-selector" class="tag-selector">
+        <select id="fd-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="fd-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefFdAmt">0</span></div>
+
+        <button id="fd-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefFdSlider" min="0" max="10" value="0" >
+            
+        <button id="fd-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"> </div>  
+
+  <div id="ent-input" class="pref-input">
+    <div id="ent-text" class="pref-text">NIGHTLIFE & ENTERTAINMENT</div>
+    <div id="ent-input-inner" class="pref-selects">
+      <div id="ent-tag-selector" class="tag-selector">
+        <select id="ent-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="ent-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefEntAmt">0</span></div>
+
+        <button id="et-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefEntSlider" min="0" max="10" value="0" >
+            
+        <button id="et-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"> </div>  
+
+  <div id="relax-input" class="pref-input">
+    <div id="relax-text" class="pref-text">RELAXATION & WELLNESS</div>
+    <div id="relax-input-inner" class="pref-selects">
+      <div id="rx-tag-selector" class="tag-selector">
+        <select id="rx-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="rx-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefRxAmt">0</span></div>
+
+        <button id="rx-decrease"class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefRxSlider" min="0" max="10" value="0" >
+            
+        <button id="rx-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"> </div>  
+
+  <div id="adv-input" class="pref-input">
+    <div id="adv-text" class="pref-text">OUTDOOR & ADVENTURE ACTIVITIES</div>
+    <div id="adv-input-inner" class="pref-selects">
+      <div id="adv-tag-selector" class="tag-selector">
+        <select id="adv-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="adv-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefAdvAmt">0</span></div>
+
+        <button id="ad-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefAdvSlider" min="0" max="10" value="0" >
+            
+        <button id="ad-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+  
+  <div class="divider"> </div>  
+
+  <div id="adv-input" class="pref-input">
+    <div id="adv-text" class="pref-text">OUTDOOR & ADVENTURE ACTIVITIES</div>
+    <div id="adv-input-inner" class="pref-selects">
+      <div id="adv-tag-selector" class="tag-selector">
+        <select id="adv-tagDropdown">
+          <option value="" disabled selected>Select a tag</option>
+          <button onclick="addTag()">Add</button>
+        </select>
+
+        <div id="adv-selectedTags" class="selectedTags"></div>
+      </div>
+      
+      <div class="slider-control">
+        <div class="amount-display">Priority: <span id="prefAdvAmt">0</span></div>
+
+        <button id="ad-decrease" class="decreaseBtn">−</button>
+            
+        <input type="range" id="prefAdvSlider" min="0" max="10" value="0" >
+            
+        <button id="ad-increase" class="increaseBtn">+</button>
+      </div>
+    </div>
+  </div>
+ 
+  <div class="divider"> </div>  
+
+  <div id="save-input" class="pref-input">
+    <div id="save-input-inner" class="pref-inner">
+      <button class="save">Save Changes</button>    
+    </div>   
+  </div>
+  
+
+</div>
+
+
+
+{% block js %}   
+  <script>
+    /*Budget*/
+    const bgt_slider = document.getElementById("amountSlider");
+    const bgt_amountValue = document.getElementById("amountValue");
+    const bgt_increaseBtn = document.getElementById("increaseBtn");
+    const bgt_decreaseBtn = document.getElementById("decreaseBtn");
+    let bgt_displayValue = parseInt(bgt_slider.value);
+
+    /*Climate*/
+    const cl_slider = document.getElementById("prefClSlider");
+    const cl_amountValue = document.getElementById("prefClAmt");
+    const cl_increaseBtn = document.getElementById("cl-increase");
+    const cl_decreaseBtn = document.getElementById("cl-decrease");
+    let cl_displayValue = parseInt(cl_slider.value);
+    
+    /*Landmarks*/
+    const ld_slider = document.getElementById("prefLdSlider");
+    const ld_amountValue = document.getElementById("prefLdAmt");
+    const ld_increaseBtn = document.getElementById("ld-increase");
+    const ld_decreaseBtn = document.getElementById("ld-decrease");
+    let ld_displayValue = parseInt(ld_slider.value);
+    
+    /*Experiences*/
+    const ep_slider = document.getElementById("prefExpSlider");
+    const ep_amountValue = document.getElementById("prefExpAmt");
+    const ep_increaseBtn = document.getElementById("ep-increase");
+    const ep_decreaseBtn = document.getElementById("ep-decrease");
+    let ep_displayValue = parseInt(ep_slider.value);
+    
+    /*Food*/
+    const fd_slider = document.getElementById("prefFdSlider");
+    const fd_amountValue = document.getElementById("prefFdAmt");
+    const fd_increaseBtn = document.getElementById("fd-increase");
+    const fd_decreaseBtn = document.getElementById("fd-decrease");
+    let fd_displayValue = parseInt(fd_slider.value);
+    
+    /*Entertainment*/
+    const et_slider = document.getElementById("prefEntSlider");
+    const et_amountValue = document.getElementById("prefEntAmt");
+    const et_increaseBtn = document.getElementById("et-increase");
+    const et_decreaseBtn = document.getElementById("et-decrease");
+    let et_displayValue = parseInt(et_slider.value);
+    
+    /*Relaxation*/
+    const rx_slider = document.getElementById("prefRxSlider");
+    const rx_amountValue = document.getElementById("prefRxAmt");
+    const rx_increaseBtn = document.getElementById("rx-increase");
+    const rx_decreaseBtn = document.getElementById("rx-decrease");
+    let rx_displayValue = parseInt(rx_slider.value);
+    
+    /*Adventure*/
+    const ad_slider = document.getElementById("prefAdvSlider");
+    const ad_amountValue = document.getElementById("prefAdvAmt");
+    const ad_increaseBtn = document.getElementById("ad-increase");
+    const ad_decreaseBtn = document.getElementById("ad-decrease");
+    let ad_displayValue = parseInt(ad_slider.value);
+
+
+    // Update value when slider moves (within its range)
+    bgt_slider.addEventListener("input", () => {
+      bgt_displayValue = parseInt(bgt_slider.value);
+      bgt_amountValue.innerText = bgt_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    bgt_increaseBtn.addEventListener("click", () => {
+      bgt_displayValue += 50;
+      bgt_amountValue.innerText = bgt_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    bgt_decreaseBtn.addEventListener("click", () => {
+      if (bgt_displayValue > 0) {
+        bgt_displayValue -= 50;
+      }
+      bgt_amountValue.innerText = bgt_displayValue;
+    });
+
+
+
+    // Update value when slider moves (within its range)
+    cl_slider.addEventListener("input", () => {
+      cl_displayValue = parseInt(cl_slider.value);
+      cl_amountValue.innerText = cl_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    cl_increaseBtn.addEventListener("click", () => {
+      if (cl_displayValue < 10) {
+        cl_displayValue += 1;
+      }
+      cl_amountValue.innerText = cl_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    cl_decreaseBtn.addEventListener("click", () => {
+      if (cl_displayValue > 0) {
+        cl_displayValue -= 1;
+      }
+      cl_amountValue.innerText = cl_displayValue;
+    });
+
+
+
+    
+    // Update value when slider moves (within its range)
+    ld_slider.addEventListener("input", () => {
+      ld_displayValue = parseInt(cl_slider.value);
+      ld_amountValue.innerText = ld_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    ld_increaseBtn.addEventListener("click", () => {
+      if (ld_displayValue < 10) {
+        ld_displayValue += 1;
+      }
+      ld_amountValue.innerText = ld_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    ld_decreaseBtn.addEventListener("click", () => {
+      if (ld_displayValue > 0) {
+        ld_displayValue -= 1;
+      }
+      ld_amountValue.innerText = ld_displayValue;
+    });
+
+
+
+
+    
+    // Update value when slider moves (within its range)
+    ep_slider.addEventListener("input", () => {
+      ep_displayValue = parseInt(ep_slider.value);
+      ep_amountValue.innerText = ep_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    ep_increaseBtn.addEventListener("click", () => {
+      if (ep_displayValue < 10) {
+        ep_displayValue += 1;
+      }
+      ep_amountValue.innerText = ep_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    ep_decreaseBtn.addEventListener("click", () => {
+      if (ep_displayValue > 0) {
+        ep_displayValue -= 1;
+      }
+      ep_amountValue.innerText = ep_displayValue;
+    });
+
+
+
+
+    
+    // Update value when slider moves (within its range)
+    fd_slider.addEventListener("input", () => {
+      fd_displayValue = parseInt(fd_slider.value);
+      fd_amountValue.innerText = fd_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    fd_increaseBtn.addEventListener("click", () => {
+      if (fd_displayValue < 10) {
+        fd_displayValue += 1;
+      }
+      fd_amountValue.innerText = fd_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    fd_decreaseBtn.addEventListener("click", () => {
+      if (fd_displayValue > 0) {
+        fd_displayValue -= 1;
+      }
+      fd_amountValue.innerText = fd_displayValue;
+    });
+
+
+
+
+    // Update value when slider moves (within its range)
+    et_slider.addEventListener("input", () => {
+      et_displayValue = parseInt(et_slider.value);
+      et_amountValue.innerText = et_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    et_increaseBtn.addEventListener("click", () => {
+      if (et_displayValue < 10) {
+        et_displayValue += 1;
+      }
+      et_amountValue.innerText = et_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    et_decreaseBtn.addEventListener("click", () => {
+      if (et_displayValue > 0) {
+        et_displayValue -= 1;
+      }
+      et_amountValue.innerText = et_displayValue;
+    });
+
+
+
+
+    
+    // Update value when slider moves (within its range)
+    rx_slider.addEventListener("input", () => {
+      rx_displayValue = parseInt(rx_slider.value);
+      rx_amountValue.innerText = rx_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    rx_increaseBtn.addEventListener("click", () => {
+      if (rx_displayValue < 10) {
+        rx_displayValue += 1;
+      }
+      rx_amountValue.innerText = rx_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    rx_decreaseBtn.addEventListener("click", () => {
+      if (rx_displayValue > 0) {
+        rx_displayValue -= 1;
+      }
+      rx_amountValue.innerText = rx_displayValue;
+    });
+
+
+
+
+
+    // Update value when slider moves (within its range)
+    ad_slider.addEventListener("input", () => {
+      ad_displayValue = parseInt(ad_slider.value);
+      ad_amountValue.innerText = ad_displayValue;
+    });
+
+    // Increase (can exceed slider max)
+    ad_increaseBtn.addEventListener("click", () => {
+      if (ad_displayValue < 10) {
+        ad_displayValue += 1;
+      }
+      ad_amountValue.innerText = ad_displayValue;
+    });
+
+    // Decrease (can go below slider min)
+    ad_decreaseBtn.addEventListener("click", () => {
+      if (ad_displayValue > 0) {
+        ad_displayValue -= 1;
+      }
+      ad_amountValue.innerText = ad_displayValue;
+    });
+
+
+
+
+
+    const countries = [
+      "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda",
+      "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas",
+      "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize",
+      "Benin", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil",
+      "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "Cabo Verde", "Cambodia",
+      "Cameroon", "Canada", "Central African Republic", "Chad", "Chile", "China",
+      "Colombia", "Comoros", "Congo (Congo-Brazzaville)", "Congo (Congo-Kinshasa)", 
+      "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czechia", "Denmark", "Djibouti",
+      "Dominica", "Dominican Republic", "Ecuador", "Egypt", "El Salvador",
+      "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Fiji",
+      "Finland", "France", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Greece",
+      "Grenada", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
+      "Honduras", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq",
+      "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan",
+      "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Laos", "Latvia", "Lebanon",
+      "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg",
+      "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta",
+      "Marshall Islands", "Mauritania", "Mauritius", "Mexico", "Micronesia",
+      "Moldova", "Monaco", "Mongolia", "Montenegro", "Morocco", "Mozambique",
+      "Myanmar (Burma)", "Namibia", "Nauru", "Nepal", "Netherlands", "New Zealand",
+      "Nicaragua", "Niger", "Nigeria", "North Korea", "North Macedonia", "Norway",
+      "Oman", "Pakistan", "Palau", "Panama", "Papua New Guinea", "Paraguay", "Peru",
+      "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia", "Rwanda",
+      "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines",
+      "Samoa", "San Marino", "Sao Tome and Principe", "Saudi Arabia", "Senegal",
+      "Serbia", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia",
+      "Solomon Islands", "Somalia", "South Africa", "South Korea", "South Sudan",
+      "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland", "Syria",
+      "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Timor-Leste", "Togo", "Tonga",
+      "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Tuvalu", "Uganda",
+      "Ukraine", "United Arab Emirates", "United Kingdom", "United States of America",
+      "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City", "Venezuela", "Vietnam",
+      "Yemen", "Zambia", "Zimbabwe"
+    ];
+
+    const climate = [
+      "tropical", "desert", "dry", "seasonal", "mixed", "temperate", "polar" 
+    ];
+
+    const landmarks = [
+      "monuments", "historic sites", "natural wonders", "city landmarks", "castles", "ancient ruins"
+    ];
+
+    const experiences = [
+      "museums", "art galleries", "local festivals", "traditional performances", "historical tours"
+    ];
+
+    const outdoor = ["hiking", "biking", "skiing", "water sports", "snorkeling", "kayaking","exploring","nature reserves"
+    ];
+
+    const food = [
+      "restaurant dining", "food markets", "street food tours"
+    ];
+
+    const entertainment = [
+      "live music", "theater", "dance shows", "bars", "clubs", "local events", "festivals"
+    ];
+    
+    const relaxation = [
+      "beaches", "spas", "hot springs", "parks", "yoga retreats", "wellness centers"
+    ];
+
+
+    const VSdropdown = document.getElementById('vs-tagDropdown');
+    const VSselectedTagsContainer = document.getElementById('vs-selectedTags');
+    const PPdropdown = document.getElementById('pp-tagDropdown');
+    const PPselectedTagsContainer = document.getElementById('pp-selectedTags');
+
+    
+    const CLdropdown = document.getElementById('cl-tagDropdown');
+    const CLselectedTagsContainer = document.getElementById('cl-selectedTags');
+    const LDdropdown = document.getElementById('ld-tagDropdown');
+    const LDselectedTagsContainer = document.getElementById('ld-selectedTags');
+    const EPdropdown = document.getElementById('exp-tagDropdown');
+    const EPselectedTagsContainer = document.getElementById('exp-selectedTags');
+    const FDdropdown = document.getElementById('fd-tagDropdown');
+    const FDselectedTagsContainer = document.getElementById('fd-selectedTags');
+    const ETdropdown = document.getElementById('ent-tagDropdown');
+    const ETselectedTagsContainer = document.getElementById('ent-selectedTags');
+    const RXdropdown = document.getElementById('rx-tagDropdown');
+    const RXselectedTagsContainer = document.getElementById('rx-selectedTags');
+    const AVdropdown = document.getElementById('adv-tagDropdown');
+    const AVselectedTagsContainer = document.getElementById('adv-selectedTags');
+
+
+    // Populate the dropdowns
+    countries.forEach(country => {
+      const option1 = document.createElement("option");
+      option1.value = country;
+      option1.text = country;
+      const option2 = document.createElement("option");
+      option2.value = country;
+      option2.text = country;
+      VSdropdown.appendChild(option1);
+      PPdropdown.appendChild(option2);
+    });
+    
+    VSdropdown.addEventListener('change', () => {
+      const value = VSdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(VSselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      VSselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    VSselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+    VSdropdown.addEventListener('change', () => {
+      const value = PPdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(VSselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      PPselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    VSselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+    climate.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      CLdropdown.appendChild(option);
+    });
+
+    CLdropdown.addEventListener('change', () => {
+      const value = CLdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(CLselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      CLselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    CLselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+
+    landmarks.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      LDdropdown.appendChild(option);
+    });
+
+    LDdropdown.addEventListener('change', () => {
+      const value = LDdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(LDselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      LDselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    LDselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+    experiences.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      EPdropdown.appendChild(option);
+    });
+
+    EPdropdown.addEventListener('change', () => {
+      const value = EPdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(EPselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      EPselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    EPselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+    food.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      FDdropdown.appendChild(option);
+    });
+
+    FDdropdown.addEventListener('change', () => {
+      const value = FDdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(FDselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      FDselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    FDselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+    entertainment.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      ETdropdown.appendChild(option);
+    });
+
+    ETdropdown.addEventListener('change', () => {
+      const value = ETdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(ETselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      ETselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    ETselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+    relaxation.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      RXdropdown.appendChild(option);
+    });
+
+    RXdropdown.addEventListener('change', () => {
+      const value = RXdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(RXselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      RXselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    RXselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+
+
+    outdoor.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.text = country;
+      AVdropdown.appendChild(option);
+    });
+
+    AVdropdown.addEventListener('change', () => {
+      const value = AVdropdown.value;
+      if (!value) return;
+
+      // Check for duplicates
+      if (Array.from(AVselectedTagsContainer.children).some(tag => tag.dataset.value === value)) return;
+
+      const tag = document.createElement('div');
+      tag.classList.add('tag');
+      tag.dataset.value = value;
+      tag.innerHTML = `${value} <span class="remove-tag">&times;</span>`;
+
+      AVselectedTagsContainer.appendChild(tag);
+    });
+
+    // Remove tags on click
+    AVselectedTagsContainer.addEventListener('click', (e) => {
+      if (e.target.classList.contains('remove-tag')) {
+        e.target.parentElement.remove();
+      }
+    });
+
+  </script>
+
+{% endblock%}

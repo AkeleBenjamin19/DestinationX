@@ -1,3 +1,6 @@
+""" VisaPolicy model """
+
+__author__ = "Akele Benjamin(620130803)"
 from .. import db
 class VisaPolicy(db.Model):
     __tablename__ = 'visa_policies'

@@ -1,11 +1,11 @@
+""" Config file for the application 
+This file contains the configuration for the application."""
+
+__author__ = "Akele Benjamin(620130803)"
 import os
-from dotenv import load_dotenv
 
-load_dotenv()  # load environment variables from .env if it exists.
-
-class Config(object):
-    """Base Config Object"""
-    DEBUG = False
-    SQLALCHEMY_DATABASE_URI = os.environ.get('CONNECTION_STR', '').replace('postgres://', 'postgresql://')
-
-    SQLALCHEMY_TRACK_MODIFICATIONS = False # This is just here to suppress a warning from SQLAlchemy as it will soon be removed
+class Config:
+    SQLALCHEMY_DATABASE_URI = os.getenv(
+        'DATABASE_URL')
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+ 

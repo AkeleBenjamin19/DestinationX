@@ -1,4 +1,5 @@
-# Author: Akele Benjamin
+""" Activity model """
+__author__ = "Akele Benjamin(620130803)"
 from .. import db
 class Activity(db.Model):
     __tablename__ = 'activities'
@@ -13,9 +14,9 @@ class Activity(db.Model):
     city            = db.relationship('City', back_populates='activities')
     destinations    = db.relationship('Destination', back_populates='activity')
     recommendations = db.relationship('Recommendation', back_populates='activity')
-    user_activities = db.relationship('UserActivityPreference', back_populates='activity')
+    
 
-    def __init__(self, name:str, category:str, city_id:int,  latitude, longitude, price:float):
+    def __init__(self, name, category, city_id, latitude, longitude, price):
         self.name = name
         self.category = category
         self.city_id = city_id

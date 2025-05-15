@@ -1,0 +1,100 @@
+Hong Kong, Hong Kong, 22.2793278, 114.1628131
+Bangkok, Thailand, 13.7524938, 100.4935089
+London, United Kingdom, 51.4893335, -0.1440551
+Macau, Macau, 22.1899448, 113.5380454
+Singapore, Singapore, 1.357107, 103.8194992
+Paris, France, 48.8588897, 2.320041
+Dubai, United Arab Emirates, 25.0742823, 55.1885387
+New York City, United States, 40.7127281, -74.0060152
+Kuala Lumpur, Malaysia, 3.1526589, 101.7022205
+Istanbul, Turkey, 41.006381, 28.9758715
+Delhi, India, 28.6273928, 77.1716954
+Antalya, Turkey, 36.8865728, 30.7030242
+Shenzhen, China, 22.5445741, 114.0545429
+Mumbai, India, 19.054999, 72.8692035
+Palma de Mallorca, Spain, 39.5695818, 2.6500745
+Phuket, Thailand, 7.9366015, 98.3529292
+Rome, Italy, 41.8933203, 12.4829321
+Tokyo, Japan, 35.6768601, 139.7638947
+Pattaya, Thailand, 12.9366924, 100.8865002
+Taipei, Taiwan, 25.0375198, 121.5636796
+Mecca, Saudi Arabia, 21.420847, 39.826869
+Guangzhou, China, 23.1301964, 113.2592945
+Prague, Czech Republic, 50.0596288, 14.4464593
+Medina, Saudi Arabia, 24.471153, 39.6111216
+Seoul, South Korea, 37.5666791, 126.9782914
+Amsterdam, Netherlands, 52.3730796, 4.8924534
+Agra, India, 27.1752554, 78.0098161
+Miami, United States, 25.7741728, -80.19362
+Osaka, Japan, 34.6937569, 135.5014539
+Las Vegas, United States, 36.171697, -115.1463536
+Shanghai, China, None, None
+Ho Chi Minh City, Vietnam, 10.7763897, 106.7011391
+Denpasar, Indonesia, -8.6524973, 115.2191175
+Barcelona, Spain, 41.3825802, 2.177073
+Los Angeles, United States, 34.0536909, -118.242766
+Milan, Italy, 45.4641943, 9.1896346
+Chennai, India, 13.0836939, 80.270186
+Vienna, Austria, 48.2083537, 16.3725042
+Johor Bahru, Malaysia, 1.4581986, 103.7649059
+Jaipur, India, 26.9154576, 75.8189817
+Cancún, Mexico, 21.1527467, -86.8425761
+Berlin, Germany, 52.510885, 13.3989367
+Athens, Greece, 37.9755648, 23.7348324
+Orlando, United States, 28.5421109, -81.3790304
+Moscow, Russia, 55.625578, 37.6063916
+Venice, Italy, 45.4371908, 12.3345898
+Madrid, Spain, 40.4167047, -3.7035825
+Ha Long, Vietnam, 20.9528365, 107.0800003
+Riyadh, Saudi Arabia, 23.333333, 45.333333
+Dublin, Ireland, 53.3493795, -6.2605593
+Florence, Italy, 43.7697955, 11.2556404
+Jerusalem, Israel, 31.7788242, 35.2257626
+Hanoi, Vietnam, 21.0283334, 105.854041
+Toronto, Canada, 43.6534817, -79.3839347
+Johannesburg, South Africa, -26.205, 28.049722
+Sydney, Australia, -33.8698439, 151.2082848
+Munich, Germany, 48.1371079, 11.5753822
+Jakarta, Indonesia, -6.1754049, 106.827168
+Beijing, China, 39.9042, 116.4074
+Saint Petersburg, Russia, 59.9606739, 30.1586551
+Brussels, Belgium, 50.8465573, 4.351697
+Budapest, Hungary, 47.4978789, 19.0402383
+Naples, Italy, 40.8358846, 14.2487679
+Lisbon, Portugal, 38.7077507, -9.1365919
+Dammam, Saudi Arabia, 26.4367824, 50.1039991
+Penang Island, Malaysia, 5.4065013, 100.2559077
+Heraklion, Greece, 35.33908, 25.1332843
+Kyoto, Japan, 35.0115754, 135.7681441
+Zhuhai, China, 22.0704553, 113.7209194
+Vancouver, Canada, 49.2608724, -123.113952
+Chiang Mai, Thailand, 18.7882778, 98.9858802
+Copenhagen, Denmark, 55.6867243, 12.5700724
+San Francisco, United States, 37.7792588, -122.4193286
+Melbourne, Australia, -37.8142454, 144.9631732
+Warsaw, Poland, 52.2337172, 21.0714322
+Marrakesh, Morocco, 31.6258257, -7.9891608
+Kolkata, India, 22.5726459, 88.3638953
+Cebu City, Philippines, 10.2935639, 123.9019209
+Auckland, New Zealand, -36.852095, 174.7631803
+Tel Aviv, Israel, 32.0852997, 34.7818064
+Guilin, China, 25.2779894, 110.2910622
+Honolulu, United States, 21.304547, -157.855676
+Hurghada, Egypt, 27.222556, 33.8307062
+Kraków, Poland, 50.0619474, 19.9368564
+Muğla, Turkey, 37.1642053, 28.2624288
+Buenos Aires, Argentina, -34.6083696, -58.4440583
+Chiba, Japan, 35.549399, 140.2647303
+Frankfurt am Main, Germany, 50.1106444, 8.6820917
+Stockholm, Sweden, 59.3251172, 18.0710935
+Lima, Peru, -12.0621065, -77.0365256
+Da Nang, Vietnam, 16.068, 108.212
+Batam, Indonesia, 1.1030815, 104.0383696
+Nice, France, 43.7009358, 7.2683912
+Fukuoka, Japan, 33.6251241, 130.6180016
+Abu Dhabi, United Arab Emirates, 24.4538352, 54.3774014
+Jeju, South Korea, 33.4887737, 126.4987083
+Porto, Portugal, 41.1494512, -8.6107884
+Rhodes, Greece, 36.1725297, 27.9194016
+Rio de Janeiro, Brazil, -22.9110137, -43.2093727
+Krabi, Thailand, 8.0634637, 98.9162345

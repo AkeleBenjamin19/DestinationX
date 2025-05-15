@@ -1,3 +1,5 @@
+""" Hotel Model """
+__author__ = "Akele Benjamin(620130803)"
 from .. import db
 from .hotel_amentity import hotel_amenities
 class Hotel(db.Model):

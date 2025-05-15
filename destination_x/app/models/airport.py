@@ -1,4 +1,6 @@
-# Author: Akele Benjamin
+""" Activity model """
+
+__author__ = "Akele Benjamin(620130803)"
 from .. import db
 class Airport(db.Model):
     __tablename__ = 'airports'

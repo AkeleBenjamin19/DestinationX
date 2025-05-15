@@ -1,0 +1,41 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <nav class="main-nav">
+                <!-- ***** Logo Start ***** -->
+                <a href="index.html" class="logo">
+                    <img src="{{ url_for('static', filename='assets/images/logo-1.png') }}" alt="">
+                </a>
+                <!-- ***** Logo End ***** -->
+                <!-- ***** Menu Start ***** -->
+                <ul class="nav">
+                    <li><a href="{{ url_for('landing') }}">Home</a></li>
+                    <li><a href="{{ url_for('destinations') }}">Destinations</a></li>   
+                    <li><a href="{{ url_for('selection') }}">Trips</a></li>         
+                    <!--
+                        <li><a href="deals.html">Deals</a></li>
+                    -->
+                </ul> 
+                <!-- ***** Menu End ***** -->
+                
+                <ul class="nav">
+                    <li><a id="profile-name" href="{{ url_for('landing') }}">
+                            <img id="profile-pic" src="{{ url_for('static', filename='assets/images/profile-icon.png') }}" alt="">
+                            Hi, Jane Doe
+                        </a>
+                    </li>                    
+                    <li>
+                        <a id="settings-pic" href="{{ url_for('landing') }}">
+                            <img src="{{ url_for('static', filename='assets/images/settings-icon.png') }}" alt="">
+                        </a>
+                    </li>                                         
+                    <li><a id="login-link" href="{{ url_for('landing') }}">Logout</a></li>      
+                </ul> 
+                <a class='menu-trigger'>
+                    <span>Menu</span>
+                </a>  
+                                
+            </nav>            
+        </div>
+    </div>
+</div>

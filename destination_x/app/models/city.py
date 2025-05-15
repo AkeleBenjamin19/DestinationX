@@ -1,3 +1,6 @@
+""" City model """
+
+__author__ = "Akele Benjamin(620130803)"
 from .. import db
 class City(db.Model):
     __tablename__ = 'cities'

@@ -1,0 +1,2472 @@
+[
+  {
+    "name": "Grand Gardens",
+    "formatted_address": "95 Sunset Boulevard, Vancouver, Canada",
+    "geometry": {
+      "location": {
+        "lat": 49.191349980538035,
+        "lng": -123.18760272871475
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "bar",
+      "airport shuttle",
+      "parking"
+    ],
+    "rating": 4.1,
+    "cost": 394.25,
+    "city": "Vancouver"
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "28 Pine Lane, Vancouver, Canada",
+    "geometry": {
+      "location": {
+        "lat": 49.19395461488104,
+        "lng": -123.18873274830315
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "bar",
+      "pool",
+      "breakfast included"
+    ],
+    "rating": 4.2,
+    "cost": 485.97,
+    "city": "Vancouver"
+  },
+  {
+    "name": "Tranquil Gardens",
+    "formatted_address": "98 Maple Road, Toronto, Canada",
+    "geometry": {
+      "location": {
+        "lat": 43.67918139394988,
+        "lng": -79.63219749483483
+      }
+    },
+    "amenities": [
+      "spa",
+      "free wifi",
+      "gym",
+      "pet friendly"
+    ],
+    "rating": 3.6,
+    "cost": 262.79,
+    "city": "Toronto"
+  },
+  {
+    "name": "Grand Hotel",
+    "formatted_address": "45 Garden Avenue, Toronto, Canada",
+    "geometry": {
+      "location": {
+        "lat": 43.67484520867222,
+        "lng": -79.63516549557077
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "bar",
+      "breakfast included",
+      "free wifi"
+    ],
+    "rating": 3.6,
+    "cost": 413.61,
+    "city": "Toronto"
+  },
+  {
+    "name": "Tranquil Lodge",
+    "formatted_address": "80 Park Drive, Berlin, Germany",
+    "geometry": {
+      "location": {
+        "lat": 52.36302052145257,
+        "lng": 13.502717718362149
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "free wifi",
+      "parking",
+      "airport shuttle"
+    ],
+    "rating": 4.8,
+    "cost": 352.22,
+    "city": "Berlin"
+  },
+  {
+    "name": "Grand Residences",
+    "formatted_address": "36 Hilltop Road, Berlin, Germany",
+    "geometry": {
+      "location": {
+        "lat": 52.36360384444265,
+        "lng": 13.4993203217897
+      }
+    },
+    "amenities": [
+      "gym",
+      "airport shuttle",
+      "free wifi",
+      "bar"
+    ],
+    "rating": 3.9,
+    "cost": 339.31,
+    "city": "Berlin"
+  },
+  {
+    "name": "Grand Suites",
+    "formatted_address": "82 Maple Road, Frankfurt am Main, Germany",
+    "geometry": {
+      "location": {
+        "lat": 50.03058239877029,
+        "lng": 8.558544109251514
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "pool",
+      "parking",
+      "gym"
+    ],
+    "rating": 4.5,
+    "cost": 425.35,
+    "city": "Frankfurt am Main"
+  },
+  {
+    "name": "Royal Lodge",
+    "formatted_address": "42 Main Street, Frankfurt am Main, Germany",
+    "geometry": {
+      "location": {
+        "lat": 50.02753148071964,
+        "lng": 8.556417002439039
+      }
+    },
+    "amenities": [
+      "gym",
+      "pool",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 3.8,
+    "cost": 411.62,
+    "city": "Frankfurt am Main"
+  },
+  {
+    "name": "Harbor Lodge",
+    "formatted_address": "41 Pine Lane, Munich, Germany",
+    "geometry": {
+      "location": {
+        "lat": 48.35535638665295,
+        "lng": 11.785056319010605
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "spa",
+      "parking",
+      "breakfast included"
+    ],
+    "rating": 3.9,
+    "cost": 452.32,
+    "city": "Munich"
+  },
+  {
+    "name": "Vista Suites",
+    "formatted_address": "34 Garden Avenue, Munich, Germany",
+    "geometry": {
+      "location": {
+        "lat": 48.353086338272945,
+        "lng": 11.786935329249456
+      }
+    },
+    "amenities": [
+      "gym",
+      "free wifi",
+      "spa",
+      "parking"
+    ],
+    "rating": 4.2,
+    "cost": 217.11,
+    "city": "Munich"
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "20 Maple Road, London, United Kingdom",
+    "geometry": {
+      "location": {
+        "lat": 51.151691793643636,
+        "lng": -0.19286740033200317
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pool",
+      "bar",
+      "parking"
+    ],
+    "rating": 5.0,
+    "cost": 494.37,
+    "city": "London"
+  },
+  {
+    "name": "Vista Hotel",
+    "formatted_address": "71 Main Street, London, United Kingdom",
+    "geometry": {
+      "location": {
+        "lat": 51.150573834102566,
+        "lng": -0.19594348257016314
+      }
+    },
+    "amenities": [
+      "bar",
+      "parking",
+      "gym",
+      "pet friendly"
+    ],
+    "rating": 3.9,
+    "cost": 128.27,
+    "city": "London"
+  },
+  {
+    "name": "Skyview Residences",
+    "formatted_address": "1 Sunset Boulevard, London, United Kingdom",
+    "geometry": {
+      "location": {
+        "lat": 51.4753188809887,
+        "lng": -0.45932137800947936
+      }
+    },
+    "amenities": [
+      "bar",
+      "breakfast included",
+      "parking",
+      "pool"
+    ],
+    "rating": 4.5,
+    "cost": 281.01,
+    "city": "London"
+  },
+  {
+    "name": "Harbor Inn",
+    "formatted_address": "20 Park Drive, London, United Kingdom",
+    "geometry": {
+      "location": {
+        "lat": 51.47322510800075,
+        "lng": -0.46154720969880375
+      }
+    },
+    "amenities": [
+      "bar",
+      "pet friendly",
+      "gym",
+      "free wifi"
+    ],
+    "rating": 3.5,
+    "cost": 276.33,
+    "city": "London"
+  },
+  {
+    "name": "Urban Hotel",
+    "formatted_address": "31 Main Street, London, United Kingdom",
+    "geometry": {
+      "location": {
+        "lat": 51.882406715924475,
+        "lng": 0.23567356943688908
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "airport shuttle",
+      "restaurant",
+      "pool"
+    ],
+    "rating": 3.6,
+    "cost": 190.51,
+    "city": "London"
+  },
+  {
+    "name": "Vista Inn",
+    "formatted_address": "17 Hilltop Road, London, United Kingdom",
+    "geometry": {
+      "location": {
+        "lat": 51.889466486797055,
+        "lng": 0.23165126958974128
+      }
+    },
+    "amenities": [
+      "bar",
+      "pool",
+      "free wifi",
+      "parking"
+    ],
+    "rating": 4.6,
+    "cost": 133.17,
+    "city": "London"
+  },
+  {
+    "name": "Royal Lodge",
+    "formatted_address": "40 Lakeview Street, Amsterdam, Netherlands",
+    "geometry": {
+      "location": {
+        "lat": 52.31355249356661,
+        "lng": 4.765388780576394
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "bar",
+      "airport shuttle",
+      "pet friendly"
+    ],
+    "rating": 3.9,
+    "cost": 157.73,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Grand Hotel",
+    "formatted_address": "3 Garden Avenue, Amsterdam, Netherlands",
+    "geometry": {
+      "location": {
+        "lat": 52.30914021522425,
+        "lng": 4.764774401144104
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "breakfast included",
+      "airport shuttle",
+      "bar"
+    ],
+    "rating": 3.6,
+    "cost": 243.99,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Serene Hotel",
+    "formatted_address": "10 River Street, Dublin, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.426093046343695,
+        "lng": -6.260431222217036
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "bar",
+      "spa",
+      "gym"
+    ],
+    "rating": 4.9,
+    "cost": 298.79,
+    "city": "Dublin"
+  },
+  {
+    "name": "Harbor Suites",
+    "formatted_address": "61 Pine Lane, Dublin, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.43155919424291,
+        "lng": -6.259046030022333
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "breakfast included",
+      "bar",
+      "gym"
+    ],
+    "rating": 4.1,
+    "cost": 409.95,
+    "city": "Dublin"
+  },
+  {
+    "name": "Cozy Residences",
+    "formatted_address": "60 Main Street, Copenhagen, Denmark",
+    "geometry": {
+      "location": {
+        "lat": 55.61963449386193,
+        "lng": 12.66084178944266
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pet friendly",
+      "pool",
+      "gym"
+    ],
+    "rating": 4.0,
+    "cost": 378.48,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Grand Inn",
+    "formatted_address": "25 Pine Lane, Copenhagen, Denmark",
+    "geometry": {
+      "location": {
+        "lat": 55.6182637059281,
+        "lng": 12.652401960299947
+      }
+    },
+    "amenities": [
+      "spa",
+      "parking",
+      "restaurant",
+      "breakfast included"
+    ],
+    "rating": 4.8,
+    "cost": 473.0,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Grand Residences",
+    "formatted_address": "71 Oak Avenue, Warsaw, Poland",
+    "geometry": {
+      "location": {
+        "lat": 52.16120488329525,
+        "lng": 20.972092824684125
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "breakfast included",
+      "free wifi",
+      "bar"
+    ],
+    "rating": 4.1,
+    "cost": 323.52,
+    "city": "Warsaw"
+  },
+  {
+    "name": "Prestige Inn",
+    "formatted_address": "52 Main Street, Warsaw, Poland",
+    "geometry": {
+      "location": {
+        "lat": 52.16234537121401,
+        "lng": 20.96212155378351
+      }
+    },
+    "amenities": [
+      "pool",
+      "parking",
+      "restaurant",
+      "spa"
+    ],
+    "rating": 4.1,
+    "cost": 373.3,
+    "city": "Warsaw"
+  },
+  {
+    "name": "Vista Lodge",
+    "formatted_address": "92 Hilltop Road, Stockholm, Sweden",
+    "geometry": {
+      "location": {
+        "lat": 59.645037968252744,
+        "lng": 17.926796078254945
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "bar",
+      "airport shuttle",
+      "gym"
+    ],
+    "rating": 4.0,
+    "cost": 482.61,
+    "city": "Stockholm"
+  },
+  {
+    "name": "Serene Suites",
+    "formatted_address": "62 River Street, Stockholm, Sweden",
+    "geometry": {
+      "location": {
+        "lat": 59.65268387130833,
+        "lng": 17.929140261352707
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "bar",
+      "breakfast included",
+      "pool"
+    ],
+    "rating": 3.8,
+    "cost": 421.47,
+    "city": "Stockholm"
+  },
+  {
+    "name": "Harbor Gardens",
+    "formatted_address": "87 Pine Lane, Johannesburg, South Africa",
+    "geometry": {
+      "location": {
+        "lat": -26.140162244486817,
+        "lng": 28.25041596127229
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "free wifi",
+      "pet friendly",
+      "parking"
+    ],
+    "rating": 3.6,
+    "cost": 111.1,
+    "city": "Johannesburg"
+  },
+  {
+    "name": "Harbor Suites",
+    "formatted_address": "67 Park Drive, Johannesburg, South Africa",
+    "geometry": {
+      "location": {
+        "lat": -26.134852937422636,
+        "lng": 28.243042591994232
+      }
+    },
+    "amenities": [
+      "gym",
+      "free wifi",
+      "parking",
+      "bar"
+    ],
+    "rating": 3.7,
+    "cost": 303.92,
+    "city": "Johannesburg"
+  },
+  {
+    "name": "Tranquil Residences",
+    "formatted_address": "41 Oak Avenue, Hurghada, Egypt",
+    "geometry": {
+      "location": {
+        "lat": 27.171869154568842,
+        "lng": 33.79790359255493
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "breakfast included",
+      "bar",
+      "parking"
+    ],
+    "rating": 3.8,
+    "cost": 232.43,
+    "city": "Hurghada"
+  },
+  {
+    "name": "Tranquil Inn",
+    "formatted_address": "45 Oak Avenue, Hurghada, Egypt",
+    "geometry": {
+      "location": {
+        "lat": 27.180568702424846,
+        "lng": 33.79538727088739
+      }
+    },
+    "amenities": [
+      "spa",
+      "restaurant",
+      "parking",
+      "bar"
+    ],
+    "rating": 5.0,
+    "cost": 494.1,
+    "city": "Hurghada"
+  },
+  {
+    "name": "Vista Gardens",
+    "formatted_address": "86 River Street, Las Vegas, United States",
+    "geometry": {
+      "location": {
+        "lat": 36.081354787521995,
+        "lng": -115.15018311285033
+      }
+    },
+    "amenities": [
+      "spa",
+      "parking",
+      "breakfast included",
+      "pet friendly"
+    ],
+    "rating": 4.6,
+    "cost": 384.39,
+    "city": "Las Vegas"
+  },
+  {
+    "name": "Skyview Hotel",
+    "formatted_address": "37 Garden Avenue, Las Vegas, United States",
+    "geometry": {
+      "location": {
+        "lat": 36.080467296548065,
+        "lng": -115.15338819712206
+      }
+    },
+    "amenities": [
+      "parking",
+      "bar",
+      "restaurant",
+      "spa"
+    ],
+    "rating": 4.9,
+    "cost": 351.59,
+    "city": "Las Vegas"
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "82 Lakeview Street, Los Angeles, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.945794480893724,
+        "lng": -118.41255613238201
+      }
+    },
+    "amenities": [
+      "gym",
+      "spa",
+      "parking",
+      "breakfast included"
+    ],
+    "rating": 4.6,
+    "cost": 445.98,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Vista Lodge",
+    "formatted_address": "55 River Street, Los Angeles, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.937597696996086,
+        "lng": -118.41224456139926
+      }
+    },
+    "amenities": [
+      "spa",
+      "bar",
+      "pet friendly",
+      "pool"
+    ],
+    "rating": 4.1,
+    "cost": 164.2,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Vista Inn",
+    "formatted_address": "56 Maple Road, Orlando, United States",
+    "geometry": {
+      "location": {
+        "lat": 28.424817778938138,
+        "lng": -81.31035159275683
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "gym",
+      "free wifi",
+      "bar"
+    ],
+    "rating": 3.9,
+    "cost": 415.11,
+    "city": "Orlando"
+  },
+  {
+    "name": "Grand Hotel",
+    "formatted_address": "100 River Street, Orlando, United States",
+    "geometry": {
+      "location": {
+        "lat": 28.43324083737096,
+        "lng": -81.30993433401177
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "spa",
+      "free wifi",
+      "pool"
+    ],
+    "rating": 3.7,
+    "cost": 134.2,
+    "city": "Orlando"
+  },
+  {
+    "name": "Skyview Residences",
+    "formatted_address": "4 Maple Road, Miami, United States",
+    "geometry": {
+      "location": {
+        "lat": 25.79556518390212,
+        "lng": -80.29228178301584
+      }
+    },
+    "amenities": [
+      "pool",
+      "free wifi",
+      "parking",
+      "breakfast included"
+    ],
+    "rating": 4.7,
+    "cost": 267.52,
+    "city": "Miami"
+  },
+  {
+    "name": "Grand Residences",
+    "formatted_address": "5 Hilltop Road, Miami, United States",
+    "geometry": {
+      "location": {
+        "lat": 25.790423876360027,
+        "lng": -80.28743777163933
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "rating": 4.7,
+    "cost": 367.06,
+    "city": "Miami"
+  },
+  {
+    "name": "Royal Inn",
+    "formatted_address": "4 Pine Lane, Orlando, United States",
+    "geometry": {
+      "location": {
+        "lat": 28.77658399450245,
+        "lng": -81.23971702114757
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "parking",
+      "gym",
+      "restaurant"
+    ],
+    "rating": 4.3,
+    "cost": 235.67,
+    "city": "Orlando"
+  },
+  {
+    "name": "Vista Hotel",
+    "formatted_address": "4 Oak Avenue, Orlando, United States",
+    "geometry": {
+      "location": {
+        "lat": 28.781369718832558,
+        "lng": -81.23989089979389
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "parking",
+      "pet friendly",
+      "restaurant"
+    ],
+    "rating": 4.4,
+    "cost": 443.37,
+    "city": "Orlando"
+  },
+  {
+    "name": "Urban Lodge",
+    "formatted_address": "41 Lakeview Street, San Francisco, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.62086808853306,
+        "lng": -122.3747067694033
+      }
+    },
+    "amenities": [
+      "pool",
+      "free wifi",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 4.6,
+    "cost": 211.73,
+    "city": "San Francisco"
+  },
+  {
+    "name": "Serene Suites",
+    "formatted_address": "69 Pine Lane, San Francisco, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.61844821471781,
+        "lng": -122.37912126188873
+      }
+    },
+    "amenities": [
+      "gym",
+      "airport shuttle",
+      "breakfast included",
+      "bar"
+    ],
+    "rating": 4.9,
+    "cost": 489.35,
+    "city": "San Francisco"
+  },
+  {
+    "name": "Vista Hotel",
+    "formatted_address": "86 Lakeview Street, Barcelona, Spain",
+    "geometry": {
+      "location": {
+        "lat": 41.295361829048574,
+        "lng": 2.080432084141944
+      }
+    },
+    "amenities": [
+      "bar",
+      "spa",
+      "free wifi",
+      "restaurant"
+    ],
+    "rating": 4.5,
+    "cost": 423.78,
+    "city": "Barcelona"
+  },
+  {
+    "name": "Cozy Lodge",
+    "formatted_address": "96 Maple Road, Barcelona, Spain",
+    "geometry": {
+      "location": {
+        "lat": 41.298255149159516,
+        "lng": 2.076469498745656
+      }
+    },
+    "amenities": [
+      "bar",
+      "pet friendly",
+      "parking",
+      "spa"
+    ],
+    "rating": 3.8,
+    "cost": 374.54,
+    "city": "Barcelona"
+  },
+  {
+    "name": "Harbor Suites",
+    "formatted_address": "84 Park Drive, Madrid, Spain",
+    "geometry": {
+      "location": {
+        "lat": 40.471575881902474,
+        "lng": -3.563218402006952
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "bar",
+      "restaurant",
+      "pool"
+    ],
+    "rating": 4.9,
+    "cost": 368.85,
+    "city": "Madrid"
+  },
+  {
+    "name": "Skyview Lodge",
+    "formatted_address": "11 Sunset Boulevard, Madrid, Spain",
+    "geometry": {
+      "location": {
+        "lat": 40.472080520099155,
+        "lng": -3.561310591442342
+      }
+    },
+    "amenities": [
+      "gym",
+      "breakfast included",
+      "free wifi",
+      "airport shuttle"
+    ],
+    "rating": 4.0,
+    "cost": 409.47,
+    "city": "Madrid"
+  },
+  {
+    "name": "Royal Inn",
+    "formatted_address": "4 Main Street, Palma de Mallorca, Spain",
+    "geometry": {
+      "location": {
+        "lat": 39.54914942544079,
+        "lng": 2.738561363442188
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "restaurant",
+      "pool",
+      "gym"
+    ],
+    "rating": 4.4,
+    "cost": 246.24,
+    "city": "Palma de Mallorca"
+  },
+  {
+    "name": "Cozy Residences",
+    "formatted_address": "52 Pine Lane, Palma de Mallorca, Spain",
+    "geometry": {
+      "location": {
+        "lat": 39.548176713450914,
+        "lng": 2.740686224130805
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pool",
+      "free wifi",
+      "airport shuttle"
+    ],
+    "rating": 4.7,
+    "cost": 382.7,
+    "city": "Palma de Mallorca"
+  },
+  {
+    "name": "Vista Residences",
+    "formatted_address": "7 River Street, Heraklion, Greece",
+    "geometry": {
+      "location": {
+        "lat": 35.3371909827966,
+        "lng": 25.183783363473516
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "spa",
+      "airport shuttle",
+      "gym"
+    ],
+    "rating": 4.3,
+    "cost": 328.41,
+    "city": "Heraklion"
+  },
+  {
+    "name": "Vista Suites",
+    "formatted_address": "41 Hilltop Road, Heraklion, Greece",
+    "geometry": {
+      "location": {
+        "lat": 35.34082552322762,
+        "lng": 25.18249273961276
+      }
+    },
+    "amenities": [
+      "bar",
+      "pool",
+      "restaurant",
+      "breakfast included"
+    ],
+    "rating": 4.6,
+    "cost": 453.81,
+    "city": "Heraklion"
+  },
+  {
+    "name": "Prestige Residences",
+    "formatted_address": "34 Pine Lane, Budapest, Hungary",
+    "geometry": {
+      "location": {
+        "lat": 47.43357862887842,
+        "lng": 19.260166113531305
+      }
+    },
+    "amenities": [
+      "bar",
+      "restaurant",
+      "free wifi",
+      "spa"
+    ],
+    "rating": 4.2,
+    "cost": 274.19,
+    "city": "Budapest"
+  },
+  {
+    "name": "Tranquil Inn",
+    "formatted_address": "35 Park Drive, Budapest, Hungary",
+    "geometry": {
+      "location": {
+        "lat": 47.42837709568419,
+        "lng": 19.262794522225185
+      }
+    },
+    "amenities": [
+      "spa",
+      "airport shuttle",
+      "free wifi",
+      "restaurant"
+    ],
+    "rating": 4.5,
+    "cost": 95.08,
+    "city": "Budapest"
+  },
+  {
+    "name": "Royal Gardens",
+    "formatted_address": "54 Lakeview Street, Rome, Italy",
+    "geometry": {
+      "location": {
+        "lat": 41.802840813910386,
+        "lng": 12.251657243033511
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "free wifi",
+      "pool",
+      "bar"
+    ],
+    "rating": 4.9,
+    "cost": 181.56,
+    "city": "Rome"
+  },
+  {
+    "name": "Harbor Lodge",
+    "formatted_address": "3 Garden Avenue, Rome, Italy",
+    "geometry": {
+      "location": {
+        "lat": 41.803335810289276,
+        "lng": 12.24705696083584
+      }
+    },
+    "amenities": [
+      "gym",
+      "parking",
+      "pool",
+      "restaurant"
+    ],
+    "rating": 4.8,
+    "cost": 309.19,
+    "city": "Rome"
+  },
+  {
+    "name": "Cozy Suites",
+    "formatted_address": "96 River Street, Prague, Czechia",
+    "geometry": {
+      "location": {
+        "lat": 50.10387268170941,
+        "lng": 14.263889113473992
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "free wifi",
+      "parking",
+      "bar"
+    ],
+    "rating": 4.2,
+    "cost": 138.39,
+    "city": "Prague"
+  },
+  {
+    "name": "Cozy Hotel",
+    "formatted_address": "86 Lakeview Street, Prague, Czechia",
+    "geometry": {
+      "location": {
+        "lat": 50.10311581377627,
+        "lng": 14.263316056630627
+      }
+    },
+    "amenities": [
+      "spa",
+      "bar",
+      "pet friendly",
+      "free wifi"
+    ],
+    "rating": 4.4,
+    "cost": 409.94,
+    "city": "Prague"
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "83 Lakeview Street, Tel Aviv, Israel",
+    "geometry": {
+      "location": {
+        "lat": 32.00775499487231,
+        "lng": 34.88631698444051
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "parking",
+      "pool",
+      "spa"
+    ],
+    "rating": 3.8,
+    "cost": 477.71,
+    "city": "Tel Aviv"
+  },
+  {
+    "name": "Urban Hotel",
+    "formatted_address": "98 Lakeview Street, Tel Aviv, Israel",
+    "geometry": {
+      "location": {
+        "lat": 32.00918056615639,
+        "lng": 34.89121204119861
+      }
+    },
+    "amenities": [
+      "pool",
+      "parking",
+      "breakfast included",
+      "free wifi"
+    ],
+    "rating": 3.5,
+    "cost": 170.52,
+    "city": "Tel Aviv"
+  },
+  {
+    "name": "Vista Gardens",
+    "formatted_address": "45 Pine Lane, Vienna, Austria",
+    "geometry": {
+      "location": {
+        "lat": 48.1117994409325,
+        "lng": 16.57251233049611
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "airport shuttle",
+      "free wifi",
+      "breakfast included"
+    ],
+    "rating": 4.8,
+    "cost": 340.26,
+    "city": "Vienna"
+  },
+  {
+    "name": "Harbor Inn",
+    "formatted_address": "31 Maple Road, Vienna, Austria",
+    "geometry": {
+      "location": {
+        "lat": 48.11003361060946,
+        "lng": 16.565843894461093
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "restaurant",
+      "parking",
+      "pool"
+    ],
+    "rating": 4.1,
+    "cost": 430.39,
+    "city": "Vienna"
+  },
+  {
+    "name": "Harbor Suites",
+    "formatted_address": "96 Oak Avenue, Porto, Portugal",
+    "geometry": {
+      "location": {
+        "lat": 41.250878199661756,
+        "lng": -8.684752150548327
+      }
+    },
+    "amenities": [
+      "parking",
+      "breakfast included",
+      "pet friendly",
+      "spa"
+    ],
+    "rating": 4.4,
+    "cost": 455.43,
+    "city": "Porto"
+  },
+  {
+    "name": "Cozy Residences",
+    "formatted_address": "92 Pine Lane, Porto, Portugal",
+    "geometry": {
+      "location": {
+        "lat": 41.24386024557843,
+        "lng": -8.67948366449067
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "breakfast included",
+      "parking",
+      "pool"
+    ],
+    "rating": 4.5,
+    "cost": 406.99,
+    "city": "Porto"
+  },
+  {
+    "name": "Grand Suites",
+    "formatted_address": "6 Park Drive, Lisbon, Portugal",
+    "geometry": {
+      "location": {
+        "lat": 38.78162745245311,
+        "lng": -9.134304786593127
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "bar",
+      "gym",
+      "pet friendly"
+    ],
+    "rating": 4.8,
+    "cost": 306.75,
+    "city": "Lisbon"
+  },
+  {
+    "name": "Prestige Gardens",
+    "formatted_address": "56 Park Drive, Lisbon, Portugal",
+    "geometry": {
+      "location": {
+        "lat": 38.782655851061016,
+        "lng": -9.132632926889976
+      }
+    },
+    "amenities": [
+      "spa",
+      "pool",
+      "airport shuttle",
+      "gym"
+    ],
+    "rating": 4.3,
+    "cost": 214.6,
+    "city": "Lisbon"
+  },
+  {
+    "name": "Tranquil Suites",
+    "formatted_address": "69 Hilltop Road, Antalya, Turkey",
+    "geometry": {
+      "location": {
+        "lat": 36.898349737716345,
+        "lng": 30.803758345984207
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "parking",
+      "gym",
+      "pool"
+    ],
+    "rating": 3.9,
+    "cost": 408.31,
+    "city": "Antalya"
+  },
+  {
+    "name": "Grand Hotel",
+    "formatted_address": "58 Pine Lane, Antalya, Turkey",
+    "geometry": {
+      "location": {
+        "lat": 36.90120576281827,
+        "lng": 30.801199496446785
+      }
+    },
+    "amenities": [
+      "pool",
+      "gym",
+      "pet friendly",
+      "free wifi"
+    ],
+    "rating": 4.8,
+    "cost": 139.07,
+    "city": "Antalya"
+  },
+  {
+    "name": "Skyview Residences",
+    "formatted_address": "28 Park Drive, Auckland, New Zealand",
+    "geometry": {
+      "location": {
+        "lat": -37.00901167643172,
+        "lng": 174.78473438843164
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "parking",
+      "pet friendly",
+      "bar"
+    ],
+    "rating": 4.9,
+    "cost": 155.25,
+    "city": "Auckland"
+  },
+  {
+    "name": "Grand Inn",
+    "formatted_address": "93 Lakeview Street, Auckland, New Zealand",
+    "geometry": {
+      "location": {
+        "lat": -37.01210422153151,
+        "lng": 174.7889126465348
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "airport shuttle",
+      "bar",
+      "pool"
+    ],
+    "rating": 3.5,
+    "cost": 152.26,
+    "city": "Auckland"
+  },
+  {
+    "name": "Tranquil Inn",
+    "formatted_address": "52 Pine Lane, Medina, Saudi Arabia",
+    "geometry": {
+      "location": {
+        "lat": 24.5514620603013,
+        "lng": 39.70591655585332
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "bar",
+      "gym",
+      "free wifi"
+    ],
+    "rating": 5.0,
+    "cost": 442.7,
+    "city": "Medina"
+  },
+  {
+    "name": "Vista Hotel",
+    "formatted_address": "46 Hilltop Road, Medina, Saudi Arabia",
+    "geometry": {
+      "location": {
+        "lat": 24.55110916426976,
+        "lng": 39.70261503676201
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "free wifi",
+      "gym",
+      "pet friendly"
+    ],
+    "rating": 4.6,
+    "cost": 206.08,
+    "city": "Medina"
+  },
+  {
+    "name": "Skyview Inn",
+    "formatted_address": "28 Hilltop Road, Riyadh, Saudi Arabia",
+    "geometry": {
+      "location": {
+        "lat": 24.955364996269687,
+        "lng": 46.699694869059606
+      }
+    },
+    "amenities": [
+      "bar",
+      "parking",
+      "breakfast included",
+      "pool"
+    ],
+    "rating": 3.8,
+    "cost": 301.35,
+    "city": "Riyadh"
+  },
+  {
+    "name": "Royal Hotel",
+    "formatted_address": "23 Sunset Boulevard, Riyadh, Saudi Arabia",
+    "geometry": {
+      "location": {
+        "lat": 24.95274148367256,
+        "lng": 46.69914035089268
+      }
+    },
+    "amenities": [
+      "parking",
+      "pet friendly",
+      "bar",
+      "airport shuttle"
+    ],
+    "rating": 3.9,
+    "cost": 420.3,
+    "city": "Riyadh"
+  },
+  {
+    "name": "Skyview Lodge",
+    "formatted_address": "97 Hilltop Road, Abu Dhabi, United Arab Emirates",
+    "geometry": {
+      "location": {
+        "lat": 24.43978987646788,
+        "lng": 54.64684065403376
+      }
+    },
+    "amenities": [
+      "parking",
+      "restaurant",
+      "bar",
+      "free wifi"
+    ],
+    "rating": 4.0,
+    "cost": 83.96,
+    "city": "Abu Dhabi"
+  },
+  {
+    "name": "Serene Hotel",
+    "formatted_address": "62 Oak Avenue, Abu Dhabi, United Arab Emirates",
+    "geometry": {
+      "location": {
+        "lat": 24.446985156452996,
+        "lng": 54.650725074422525
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pet friendly",
+      "spa",
+      "airport shuttle"
+    ],
+    "rating": 4.7,
+    "cost": 382.32,
+    "city": "Abu Dhabi"
+  },
+  {
+    "name": "Tranquil Gardens",
+    "formatted_address": "32 Oak Avenue, Dubai, United Arab Emirates",
+    "geometry": {
+      "location": {
+        "lat": 25.253380718146175,
+        "lng": 55.36356069651411
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "free wifi",
+      "pool",
+      "bar"
+    ],
+    "rating": 4.9,
+    "cost": 80.54,
+    "city": "Dubai"
+  },
+  {
+    "name": "Tranquil Suites",
+    "formatted_address": "55 Sunset Boulevard, Dubai, United Arab Emirates",
+    "geometry": {
+      "location": {
+        "lat": 25.25348628250624,
+        "lng": 55.360001259343726
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "free wifi",
+      "bar",
+      "spa"
+    ],
+    "rating": 4.5,
+    "cost": 200.88,
+    "city": "Dubai"
+  },
+  {
+    "name": "Skyview Inn",
+    "formatted_address": "23 River Street, Osaka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.42304964868901,
+        "lng": 135.23902975722604
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "airport shuttle",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 3.8,
+    "cost": 151.43,
+    "city": "Osaka"
+  },
+  {
+    "name": "Tranquil Lodge",
+    "formatted_address": "59 Oak Avenue, Osaka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.42917284920071,
+        "lng": 135.2482421104448
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "free wifi",
+      "pool",
+      "pet friendly"
+    ],
+    "rating": 4.3,
+    "cost": 476.39,
+    "city": "Osaka"
+  },
+  {
+    "name": "Skyview Hotel",
+    "formatted_address": "19 Oak Avenue, Fukuoka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 33.58149573342248,
+        "lng": 130.45393031398262
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "parking",
+      "restaurant",
+      "pet friendly"
+    ],
+    "rating": 4.2,
+    "cost": 181.87,
+    "city": "Fukuoka"
+  },
+  {
+    "name": "Tranquil Lodge",
+    "formatted_address": "52 Sunset Boulevard, Fukuoka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 33.58590407479851,
+        "lng": 130.45094198051376
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "pet friendly",
+      "pool",
+      "gym"
+    ],
+    "rating": 4.0,
+    "cost": 225.75,
+    "city": "Fukuoka"
+  },
+  {
+    "name": "Tranquil Gardens",
+    "formatted_address": "12 Pine Lane, Osaka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.79011911102193,
+        "lng": 135.44136358613906
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "parking",
+      "restaurant"
+    ],
+    "rating": 3.6,
+    "cost": 350.69,
+    "city": "Osaka"
+  },
+  {
+    "name": "Skyview Residences",
+    "formatted_address": "67 Hilltop Road, Osaka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.789660727879266,
+        "lng": 135.43481889147225
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pool",
+      "restaurant",
+      "pet friendly"
+    ],
+    "rating": 4.2,
+    "cost": 472.0,
+    "city": "Osaka"
+  },
+  {
+    "name": "Cozy Hotel",
+    "formatted_address": "42 Oak Avenue, Tokyo, Japan",
+    "geometry": {
+      "location": {
+        "lat": 35.555876330944,
+        "lng": 139.7782970366358
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "parking",
+      "pool",
+      "airport shuttle"
+    ],
+    "rating": 4.6,
+    "cost": 242.09,
+    "city": "Tokyo"
+  },
+  {
+    "name": "Serene Residences",
+    "formatted_address": "12 Park Drive, Tokyo, Japan",
+    "geometry": {
+      "location": {
+        "lat": 35.54982298850942,
+        "lng": 139.77615821601432
+      }
+    },
+    "amenities": [
+      "pool",
+      "bar",
+      "pet friendly",
+      "gym"
+    ],
+    "rating": 4.8,
+    "cost": 194.13,
+    "city": "Tokyo"
+  },
+  {
+    "name": "Prestige Residences",
+    "formatted_address": "7 Pine Lane, Seoul, Korea, Republic of",
+    "geometry": {
+      "location": {
+        "lat": 37.46928539392461,
+        "lng": 126.45222233872602
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "airport shuttle",
+      "pet friendly",
+      "breakfast included"
+    ],
+    "rating": 3.9,
+    "cost": 208.37,
+    "city": "Korea"
+  },
+  {
+    "name": "Skyview Hotel",
+    "formatted_address": "57 Hilltop Road, Seoul, Korea, Republic of",
+    "geometry": {
+      "location": {
+        "lat": 37.46531526083363,
+        "lng": 126.45572746815822
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "free wifi",
+      "spa",
+      "restaurant"
+    ],
+    "rating": 4.3,
+    "cost": 99.79,
+    "city": "Korea"
+  },
+  {
+    "name": "Vista Residences",
+    "formatted_address": "12 Pine Lane, Seoul, Korea, Republic of",
+    "geometry": {
+      "location": {
+        "lat": 37.56322257139396,
+        "lng": 126.79512929878484
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "breakfast included",
+      "spa",
+      "free wifi"
+    ],
+    "rating": 4.9,
+    "cost": 112.27,
+    "city": "Korea"
+  },
+  {
+    "name": "Tranquil Suites",
+    "formatted_address": "91 Sunset Boulevard, Seoul, Korea, Republic of",
+    "geometry": {
+      "location": {
+        "lat": 37.55745490342936,
+        "lng": 126.79082499576957
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "free wifi",
+      "airport shuttle",
+      "parking"
+    ],
+    "rating": 3.7,
+    "cost": 262.8,
+    "city": "Korea"
+  },
+  {
+    "name": "Royal Suites",
+    "formatted_address": "66 Maple Road, Buenos Aires, Argentina",
+    "geometry": {
+      "location": {
+        "lat": -34.55555973065571,
+        "lng": -58.41783752597178
+      }
+    },
+    "amenities": [
+      "pool",
+      "gym",
+      "parking",
+      "airport shuttle"
+    ],
+    "rating": 3.5,
+    "cost": 249.61,
+    "city": "Buenos Aires"
+  },
+  {
+    "name": "Tranquil Suites",
+    "formatted_address": "75 Hilltop Road, Buenos Aires, Argentina",
+    "geometry": {
+      "location": {
+        "lat": -34.555547394052994,
+        "lng": -58.41613452606956
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "gym",
+      "bar",
+      "parking"
+    ],
+    "rating": 4.6,
+    "cost": 392.16,
+    "city": "Buenos Aires"
+  },
+  {
+    "name": "Cozy Residences",
+    "formatted_address": "42 Pine Lane, Lima, Peru",
+    "geometry": {
+      "location": {
+        "lat": -12.017092253686675,
+        "lng": -77.11691694455834
+      }
+    },
+    "amenities": [
+      "pool",
+      "free wifi",
+      "airport shuttle",
+      "pet friendly"
+    ],
+    "rating": 4.0,
+    "cost": 85.38,
+    "city": "Lima"
+  },
+  {
+    "name": "Prestige Lodge",
+    "formatted_address": "49 Lakeview Street, Lima, Peru",
+    "geometry": {
+      "location": {
+        "lat": -12.017015859980607,
+        "lng": -77.111381063393
+      }
+    },
+    "amenities": [
+      "spa",
+      "restaurant",
+      "pet friendly",
+      "breakfast included"
+    ],
+    "rating": 4.3,
+    "cost": 311.87,
+    "city": "Lima"
+  },
+  {
+    "name": "Harbor Hotel",
+    "formatted_address": "13 Hilltop Road, Barcelona, Venezuela, Bolivarian Republic of",
+    "geometry": {
+      "location": {
+        "lat": 10.10710811697742,
+        "lng": -64.68811758322303
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "spa",
+      "pool",
+      "restaurant"
+    ],
+    "rating": 4.5,
+    "cost": 80.09,
+    "city": "Venezuela"
+  },
+  {
+    "name": "Skyview Gardens",
+    "formatted_address": "61 Sunset Boulevard, Barcelona, Venezuela, Bolivarian Republic of",
+    "geometry": {
+      "location": {
+        "lat": 10.109496612340514,
+        "lng": -64.69029495401413
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "gym",
+      "pool",
+      "spa"
+    ],
+    "rating": 4.4,
+    "cost": 235.23,
+    "city": "Venezuela"
+  },
+  {
+    "name": "Prestige Suites",
+    "formatted_address": "5 Garden Avenue, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.54898320747182,
+        "lng": 38.15131361016855
+      }
+    },
+    "amenities": [
+      "parking",
+      "free wifi",
+      "breakfast included",
+      "bar"
+    ],
+    "rating": 5.0,
+    "cost": 489.81,
+    "city": "Moscow"
+  },
+  {
+    "name": "Grand Residences",
+    "formatted_address": "22 Sunset Boulevard, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.55733324062051,
+        "lng": 38.14546190968677
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "parking",
+      "gym",
+      "spa"
+    ],
+    "rating": 4.1,
+    "cost": 383.0,
+    "city": "Moscow"
+  },
+  {
+    "name": "Royal Suites",
+    "formatted_address": "53 Garden Avenue, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.41061600371352,
+        "lng": 37.90310056886152
+      }
+    },
+    "amenities": [
+      "spa",
+      "breakfast included",
+      "pool",
+      "parking"
+    ],
+    "rating": 4.5,
+    "cost": 89.1,
+    "city": "Moscow"
+  },
+  {
+    "name": "Prestige Suites",
+    "formatted_address": "19 Pine Lane, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.40840949913355,
+        "lng": 37.90383977339414
+      }
+    },
+    "amenities": [
+      "parking",
+      "pet friendly",
+      "restaurant",
+      "spa"
+    ],
+    "rating": 4.5,
+    "cost": 447.32,
+    "city": "Moscow"
+  },
+  {
+    "name": "Skyview Gardens",
+    "formatted_address": "57 Park Drive, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.97747551695219,
+        "lng": 37.412591542491235
+      }
+    },
+    "amenities": [
+      "pool",
+      "parking",
+      "restaurant",
+      "airport shuttle"
+    ],
+    "rating": 4.0,
+    "cost": 479.46,
+    "city": "Moscow"
+  },
+  {
+    "name": "Cozy Residences",
+    "formatted_address": "14 Pine Lane, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.97141264297658,
+        "lng": 37.41318959157577
+      }
+    },
+    "amenities": [
+      "parking",
+      "airport shuttle",
+      "pet friendly",
+      "pool"
+    ],
+    "rating": 4.5,
+    "cost": 187.04,
+    "city": "Moscow"
+  },
+  {
+    "name": "Tranquil Gardens",
+    "formatted_address": "73 Main Street, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.59560516953719,
+        "lng": 37.263952721541344
+      }
+    },
+    "amenities": [
+      "parking",
+      "free wifi",
+      "gym",
+      "breakfast included"
+    ],
+    "rating": 4.5,
+    "cost": 209.81,
+    "city": "Moscow"
+  },
+  {
+    "name": "Harbor Hotel",
+    "formatted_address": "87 Maple Road, Moscow, Russian Federation",
+    "geometry": {
+      "location": {
+        "lat": 55.592781481036866,
+        "lng": 37.265535037040735
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "parking",
+      "restaurant",
+      "airport shuttle"
+    ],
+    "rating": 4.4,
+    "cost": 116.36,
+    "city": "Moscow"
+  },
+  {
+    "name": "Skyview Gardens",
+    "formatted_address": "38 Park Drive, Mumbai, India",
+    "geometry": {
+      "location": {
+        "lat": 19.091174149449387,
+        "lng": 72.86465343440445
+      }
+    },
+    "amenities": [
+      "spa",
+      "bar",
+      "gym",
+      "parking"
+    ],
+    "rating": 4.3,
+    "cost": 382.37,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Tranquil Inn",
+    "formatted_address": "33 Hilltop Road, Mumbai, India",
+    "geometry": {
+      "location": {
+        "lat": 19.09337318156167,
+        "lng": 72.86584844819173
+      }
+    },
+    "amenities": [
+      "gym",
+      "breakfast included",
+      "restaurant",
+      "pet friendly"
+    ],
+    "rating": 3.7,
+    "cost": 448.97,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Royal Lodge",
+    "formatted_address": "93 Lakeview Street, Kolkata, India",
+    "geometry": {
+      "location": {
+        "lat": 22.659371697473002,
+        "lng": 88.44974687644022
+      }
+    },
+    "amenities": [
+      "gym",
+      "breakfast included",
+      "pool",
+      "pet friendly"
+    ],
+    "rating": 3.9,
+    "cost": 438.23,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Grand Residences",
+    "formatted_address": "48 Sunset Boulevard, Kolkata, India",
+    "geometry": {
+      "location": {
+        "lat": 22.65554460091652,
+        "lng": 88.44992517301228
+      }
+    },
+    "amenities": [
+      "gym",
+      "breakfast included",
+      "free wifi",
+      "restaurant"
+    ],
+    "rating": 3.5,
+    "cost": 339.06,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Vista Hotel",
+    "formatted_address": "79 Pine Lane, Hong Kong, Hong Kong",
+    "geometry": {
+      "location": {
+        "lat": 22.310377523806395,
+        "lng": 113.91635503922379
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "parking",
+      "pool",
+      "pet friendly"
+    ],
+    "rating": 3.7,
+    "cost": 305.68,
+    "city": "Hong Kong"
+  },
+  {
+    "name": "Serene Hotel",
+    "formatted_address": "64 Oak Avenue, Hong Kong, Hong Kong",
+    "geometry": {
+      "location": {
+        "lat": 22.304872919986217,
+        "lng": 113.9188735930853
+      }
+    },
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "airport shuttle"
+    ],
+    "rating": 4.5,
+    "cost": 378.43,
+    "city": "Hong Kong"
+  },
+  {
+    "name": "Vista Residences",
+    "formatted_address": "76 Maple Road, Chennai, India",
+    "geometry": {
+      "location": {
+        "lat": 12.993859137838996,
+        "lng": 80.17084521897493
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "pool",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 4.5,
+    "cost": 89.52,
+    "city": "Chennai"
+  },
+  {
+    "name": "Royal Residences",
+    "formatted_address": "57 Pine Lane, Chennai, India",
+    "geometry": {
+      "location": {
+        "lat": 12.99355950193306,
+        "lng": 80.16528954624606
+      }
+    },
+    "amenities": [
+      "gym",
+      "bar",
+      "airport shuttle",
+      "pet friendly"
+    ],
+    "rating": 4.1,
+    "cost": 409.83,
+    "city": "Chennai"
+  },
+  {
+    "name": "Royal Gardens",
+    "formatted_address": "59 Oak Avenue, Bangkok, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 13.91422725098062,
+        "lng": 100.60841930267233
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "bar",
+      "pool"
+    ],
+    "rating": 4.0,
+    "cost": 352.53,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Skyview Suites",
+    "formatted_address": "27 Oak Avenue, Bangkok, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 13.915897741972172,
+        "lng": 100.60754433588461
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "free wifi",
+      "bar",
+      "spa"
+    ],
+    "rating": 4.7,
+    "cost": 284.56,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Harbor Gardens",
+    "formatted_address": "36 Maple Road, Bangkok, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 13.685975164706262,
+        "lng": 100.74740380251784
+      }
+    },
+    "amenities": [
+      "spa",
+      "breakfast included",
+      "pet friendly",
+      "bar"
+    ],
+    "rating": 3.5,
+    "cost": 129.8,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Royal Suites",
+    "formatted_address": "42 Main Street, Bangkok, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 13.677842353676661,
+        "lng": 100.74252563812782
+      }
+    },
+    "amenities": [
+      "pool",
+      "bar",
+      "breakfast included",
+      "gym"
+    ],
+    "rating": 3.6,
+    "cost": 334.87,
+    "city": "Bangkok"
+  },
+  {
+    "name": "Prestige Hotel",
+    "formatted_address": "66 Garden Avenue, Chiang Mai, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 18.76289046690004,
+        "lng": 98.96263909489785
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "pet friendly",
+      "parking",
+      "free wifi"
+    ],
+    "rating": 4.5,
+    "cost": 111.32,
+    "city": "Chiang Mai"
+  },
+  {
+    "name": "Serene Gardens",
+    "formatted_address": "62 Lakeview Street, Chiang Mai, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 18.766062662992802,
+        "lng": 98.95868032629679
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "breakfast included",
+      "bar",
+      "spa"
+    ],
+    "rating": 4.4,
+    "cost": 241.66,
+    "city": "Chiang Mai"
+  },
+  {
+    "name": "Grand Inn",
+    "formatted_address": "36 Garden Avenue, Phuket, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 8.11453076724301,
+        "lng": 98.31738556434048
+      }
+    },
+    "amenities": [
+      "gym",
+      "pool",
+      "parking",
+      "free wifi"
+    ],
+    "rating": 4.3,
+    "cost": 390.18,
+    "city": "Phuket"
+  },
+  {
+    "name": "Cozy Gardens",
+    "formatted_address": "90 Oak Avenue, Phuket, Thailand",
+    "geometry": {
+      "location": {
+        "lat": 8.116727927372956,
+        "lng": 98.31841116664881
+      }
+    },
+    "amenities": [
+      "bar",
+      "free wifi",
+      "pool",
+      "airport shuttle"
+    ],
+    "rating": 4.8,
+    "cost": 423.55,
+    "city": "Phuket"
+  },
+  {
+    "name": "Cozy Hotel",
+    "formatted_address": "59 Lakeview Street, Ho Chi Minh City, Viet Nam",
+    "geometry": {
+      "location": {
+        "lat": 10.817959896502614,
+        "lng": 106.64795085839276
+      }
+    },
+    "amenities": [
+      "pool",
+      "gym",
+      "parking",
+      "spa"
+    ],
+    "rating": 4.9,
+    "cost": 156.95,
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "name": "Prestige Gardens",
+    "formatted_address": "12 Oak Avenue, Ho Chi Minh City, Viet Nam",
+    "geometry": {
+      "location": {
+        "lat": 10.814732301017036,
+        "lng": 106.64796564432567
+      }
+    },
+    "amenities": [
+      "gym",
+      "spa",
+      "pet friendly",
+      "parking"
+    ],
+    "rating": 4.9,
+    "cost": 193.39,
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "name": "Vista Hotel",
+    "formatted_address": "86 Oak Avenue, Jakarta, Indonesia",
+    "geometry": {
+      "location": {
+        "lat": -6.126461734070778,
+        "lng": 106.65973430372233
+      }
+    },
+    "amenities": [
+      "pool",
+      "pet friendly",
+      "parking",
+      "restaurant"
+    ],
+    "rating": 4.0,
+    "cost": 282.78,
+    "city": "Jakarta"
+  },
+  {
+    "name": "Grand Suites",
+    "formatted_address": "65 Pine Lane, Jakarta, Indonesia",
+    "geometry": {
+      "location": {
+        "lat": -6.129022518641418,
+        "lng": 106.65582012396204
+      }
+    },
+    "amenities": [
+      "breakfast included",
+      "gym",
+      "bar",
+      "pet friendly"
+    ],
+    "rating": 4.6,
+    "cost": 282.87,
+    "city": "Jakarta"
+  },
+  {
+    "name": "Harbor Inn",
+    "formatted_address": "55 River Street, Singapore, Singapore",
+    "geometry": {
+      "location": {
+        "lat": 1.3549354660212571,
+        "lng": 103.99718726859541
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "bar",
+      "pet friendly",
+      "parking"
+    ],
+    "rating": 4.9,
+    "cost": 177.97,
+    "city": "Singapore"
+  },
+  {
+    "name": "Tranquil Gardens",
+    "formatted_address": "24 Sunset Boulevard, Singapore, Singapore",
+    "geometry": {
+      "location": {
+        "lat": 1.352216987728656,
+        "lng": 103.99209284688831
+      }
+    },
+    "amenities": [
+      "gym",
+      "airport shuttle",
+      "pet friendly",
+      "breakfast included"
+    ],
+    "rating": 4.8,
+    "cost": 141.1,
+    "city": "Singapore"
+  },
+  {
+    "name": "Harbor Lodge",
+    "formatted_address": "52 Oak Avenue, Melbourne, Australia",
+    "geometry": {
+      "location": {
+        "lat": -37.66512925345849,
+        "lng": 144.83776372012656
+      }
+    },
+    "amenities": [
+      "pet friendly",
+      "breakfast included",
+      "free wifi",
+      "restaurant"
+    ],
+    "rating": 4.1,
+    "cost": 438.13,
+    "city": "Melbourne"
+  },
+  {
+    "name": "Urban Inn",
+    "formatted_address": "48 Sunset Boulevard, Melbourne, Australia",
+    "geometry": {
+      "location": {
+        "lat": -37.659332040322575,
+        "lng": 144.83920035619968
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "breakfast included",
+      "pet friendly",
+      "bar"
+    ],
+    "rating": 3.7,
+    "cost": 236.68,
+    "city": "Melbourne"
+  },
+  {
+    "name": "Harbor Gardens",
+    "formatted_address": "87 Oak Avenue, Beijing, China",
+    "geometry": {
+      "location": {
+        "lat": 40.077822041619065,
+        "lng": 116.58661847140078
+      }
+    },
+    "amenities": [
+      "restaurant",
+      "airport shuttle",
+      "pool",
+      "spa"
+    ],
+    "rating": 3.8,
+    "cost": 114.25,
+    "city": "Beijing"
+  },
+  {
+    "name": "Vista Gardens",
+    "formatted_address": "45 Lakeview Street, Beijing, China",
+    "geometry": {
+      "location": {
+        "lat": 40.07620991090561,
+        "lng": 116.58678126340203
+      }
+    },
+    "amenities": [
+      "airport shuttle",
+      "restaurant",
+      "parking",
+      "pet friendly"
+    ],
+    "rating": 3.8,
+    "cost": 283.6,
+    "city": "Beijing"
+  },
+  {
+    "name": "Harbor Gardens",
+    "formatted_address": "1 Pine Lane, Beijing, China",
+    "geometry": {
+      "location": {
+        "lat": 39.50795919362019,
+        "lng": 116.40803233979221
+      }
+    },
+    "amenities": [
+      "spa",
+      "parking",
+      "bar",
+      "airport shuttle"
+    ],
+    "rating": 3.7,
+    "cost": 192.97,
+    "city": "Beijing"
+  },
+  {
+    "name": "Prestige Lodge",
+    "formatted_address": "56 Maple Road, Beijing, China",
+    "geometry": {
+      "location": {
+        "lat": 39.50623685701759,
+        "lng": 116.41124582347868
+      }
+    },
+    "amenities": [
+      "free wifi",
+      "bar",
+      "gym",
+      "pet friendly"
+    ],
+    "rating": 4.1,
+    "cost": 107.83,
+    "city": "Beijing"
+  }
+]

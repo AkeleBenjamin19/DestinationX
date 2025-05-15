@@ -1,3 +1,6 @@
+""" FlightPrice model """
+
+__author__ = "Akele Benjamin(620130803)"
 from datetime import datetime
 from .. import db
 from datetime import date

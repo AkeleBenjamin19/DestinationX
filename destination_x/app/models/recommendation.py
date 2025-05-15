@@ -1,3 +1,6 @@
+""" Recommendation model """
+
+__author__ = "Akele Benjamin(620130803)"
 from datetime import datetime
 from .. import db
 class Recommendation(db.Model):

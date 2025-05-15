@@ -1,6 +1,8 @@
+""" Hotel Amenity association table """
+
+__author__ = "Akele Benjamin(620130803)"
 from .. import db
 
-# Many-to-many for hotels ⟷ amenities
 hotel_amenities = db.Table(
     'hotel_amenities',
     db.Column('hotel_id', db.Integer, db.ForeignKey('hotels.id'), primary_key=True),
