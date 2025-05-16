@@ -1,6 +1,8 @@
-""" Hotel API Service
-This module contains the HotelAPIService class which is responsible for
-loading hotel data from a JSON file, parsing it, and saving it to the database."""
+"""HotelAPIService
+Service for loading hotel data from a JSON file,
+finding the best match by amenities and dynamic pricing,
+and saving hotels to the database.
+"""
 
 __author__ = "Akele Benjamin(620130803)"
 import json
@@ -19,7 +21,7 @@ class HotelAPIService:
     and saving hotels to the database.
     """
     def __init__(self, json_path: Path = None):
-
+        # Default to app/data/hotels.json
         data_dir = Path(__file__).parents[1] / 'data'
         self.json_path = json_path or (data_dir / 'hotels.json')
 

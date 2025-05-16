@@ -12,6 +12,10 @@ preferences.
 - Category-based activity recommendations
 
 ## Quickstart
+Create the database called destination_x in POSTGRESQL.
+
+Modify link in .env to update user and password.
+
 
 ```bash
 # Clone & install
@@ -27,15 +31,18 @@ export SECRET_KEY='your-secret-key'
 export DATABASE_URL=postgresql://user:pass@localhost/destx
 
 # Initialize DB
+flask intial db init
+flask migrate "name migration"
 flask db upgrade
 python app/scripts/import_countries.py
 python app/scripts/import_all_visas.py
 python app/scripts/import_cities.py
 python app/scripts/import_categories.py
-python app/scripts/import_cities.py
+python app/scripts/add_iata_code.py
 python app/scripts/import_airports.py
 python app/scripts/import_activities.py
 python app/scripts/import_hotels.py
+python app/scripts/add_categories.py
 
-# Run the server
-flask run
+# Run 
+pyhton run,py

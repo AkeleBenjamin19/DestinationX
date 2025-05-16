@@ -1,12 +1,9 @@
-""" This script:
-Fetches country data from the Rest Countries API and updates the database.
-This script reads the country data from the API, parses it into a list of dictionaries,
-and saves the records to the database using the Country model.
-The script is designed to be run as a standalone script."""
+#Author: Akele Benjamin
+# This script fetches country data from the Rest Countries API and updates the database.
 
 #Command to run this script: 
 #python  app\scripts\import_countries.py
-__author__ = "Akele Benjamin(620130803)"
+
 import os, sys
 from pathlib import Path
 from dotenv import load_dotenv
@@ -15,6 +12,7 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).parents[2]   
 sys.path.insert(0, str(PROJECT_ROOT))
 
+#load the .env in your project root
 load_dotenv(str(PROJECT_ROOT / ".env"))
 
 from app import create_app, db

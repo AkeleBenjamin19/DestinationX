@@ -22,8 +22,18 @@ def create_app():
     db.init_app(app)
     migrate.init_app(app, db)
 
-    # Make sure all models are loaded:
-    from app.models import Activity, City, Country, User, Visa_policies
+    # Register blueprints
+    from .controllers.home_controller import home_bp
+    app.register_blueprint(home_bp)
+
+    from .controllers.preferences_controller import pref_bp
+    app.register_blueprint(pref_bp)
+    
+    from .controllers.auth_controller import auth_bp
+    app.register_blueprint(auth_bp)
+
+    from .controllers.destination_controller import dest_bp
+    app.register_blueprint(dest_bp)
 
     return app
 app = create_app()

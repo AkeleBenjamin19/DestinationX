@@ -1,5 +1,4 @@
-""" Hotel Model """
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 from .hotel_amentity import hotel_amenities
 class Hotel(db.Model):
@@ -21,14 +20,3 @@ class Hotel(db.Model):
     )
     recommendations = db.relationship('Recommendation', back_populates='hotel')
     destinations    = db.relationship('Destination',    back_populates='hotel')
-
-    def __init__(self, external_hotel_id, name, address, city_id, latitude, longitude, distance_to_airport, rating, price):
-        self.external_hotel_id = external_hotel_id
-        self.name = name
-        self.address = address
-        self.city_id  = city_id
-        self.latitude = latitude
-        self.longitude = longitude
-        self.distance_to_airport = distance_to_airport
-        self.rating = rating
-        self.price = price

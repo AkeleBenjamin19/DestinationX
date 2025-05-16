@@ -1,6 +1,4 @@
-""" User Activity Preference Model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class UserActivityPreference(db.Model):
     __tablename__ = 'user_activity_preferences'
@@ -9,9 +7,3 @@ class UserActivityPreference(db.Model):
     priority    = db.Column(db.Integer, default=1)
 
     user     = db.relationship('User',     back_populates='activity_preferences')
-
-    def __init__(self, user_id, category_id, priority):
-        self.user_id = user_id
-        self.category_id = category_id
-        self.priority = priority
-        

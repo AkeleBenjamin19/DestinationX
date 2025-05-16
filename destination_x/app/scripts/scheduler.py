@@ -1,30 +1,25 @@
-""" Scheduler for import jobs
-This script sets up a scheduler to run various import jobs at specified intervals.
-The jobs include:
-- Importing country data from an external API
-- Importing city data from a Wikipedia page
-- Importing visa policies from an external API
-- Importing airport data from a CSV file"""
+#Author: Akele Benjamin
+# This script sets up a scheduler to run various import jobs at specified intervals.
 
-
-__author__ = "Akele Benjamin(620130803)"
 import os
 import sys
 from pathlib import Path
 from dotenv import load_dotenv
 
+
 PROJECT_ROOT = Path(__file__).parent[2]
 sys.path.insert(0, str(PROJECT_ROOT))
 
+
 load_dotenv(PROJECT_ROOT / ".env")
 
-#Import job entrypoints
+
 from app.scripts.import_countries import main as import_countries_main
 from app.scripts.import_cities import main as import_cities_main
 from app.scripts.import_all_visas import main as import_all_visas_main
 from app.scripts.import_airports import main as import_airports_main
 
-# 4) Scheduler setup
+
 from apscheduler.schedulers.blocking import BlockingScheduler
 
 def schedule_jobs():

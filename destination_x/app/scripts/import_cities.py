@@ -1,11 +1,6 @@
-"""This script:
-imports city data from a txt file from 
-https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors and saves it to the database"""
+# Author : Akele Benjamin
+# This script imports city data from a txt file from https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors and saves it to the database. 
 
-
-#Command to run this script:
-# python  app\scripts\import_cities.py
-__author__ = "Akele Benjamin(620130803)"
 import os
 import sys
 from pathlib import Path

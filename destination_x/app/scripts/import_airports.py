@@ -1,23 +1,19 @@
-""" This script:
- imports airport data from a subset of the excel file that is updated daily on https://davidmegginson.github.io/ourairports-data/airports.csv. The entire file was not used because this is a test project.
-This script reads the excel file, parses it into a list of dictionaries, and saves the records to the database using the AirportService class."""
-
-#Command to run this script:
-# python  app\scripts\import_aiports.py
-__author__ = "Akele Benjamin(620130803)"
-
+# Author: Akele Benjamin
+# This script imports airport data from a subset of the excel file that is updated daily on https://davidmegginson.github.io/ourairports-data/airports.csv. The entire file was not used because this is a test project.
+# python app/scripts/import_airports.py
 import os
 import sys
 from pathlib import Path
 from dotenv import load_dotenv
 
-
+# 1) Make project root importable
 PROJECT_ROOT = Path(__file__).parents[2]
 sys.path.insert(0, str(PROJECT_ROOT))
 
 
 load_dotenv(PROJECT_ROOT / ".env")
 
+# 3) Import application factory and service
 from app import create_app
 from app.services.airports_service import AirportService
 

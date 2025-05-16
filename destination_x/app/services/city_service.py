@@ -1,12 +1,9 @@
-"""City service module 
-This is used for handling city and country data.
-It includes functions to parse city-country pairs from a file,
-geocode cities to get their latitude and longitude,
-and save city data to the database.
-"""
-
+""" City service module
+This module provides functionality to load city data from a text file,
+parse it, and save it to the database."""
 
 __author__ = "Akele Benjamin(620130803)"
+
 import os
 import requests
 from pathlib import Path
@@ -15,7 +12,9 @@ from .. import db
 from app.models.country import Country
 from app.models.city import City
 
+# Directory containing data files
 DATA_DIR = Path(__file__).parents[1] / 'data'
+
 
 def parse_city_country(filename: str = 'top_100_cities.txt') -> List[Dict[str, str]]:
     """
@@ -59,8 +58,9 @@ def geocode_city(city: str, country: str) -> Tuple[float, float]:
 
 def save_cities(city_country_list: List[Dict[str, str]]) -> None:
     """
-    Given a list of {'city','country'} dicts, geocode and enters them into the cities table.
+    Given a list of {'city','country'} dicts, geocode and upsert into the cities table.
     """
+    # Build country name -> id map
     all_countries = Country.query.all()
     country_map = {c.name: c.id for c in all_countries}
 
@@ -80,7 +80,7 @@ def save_cities(city_country_list: List[Dict[str, str]]) -> None:
             print(f"[ERROR] Geocode failed for {name}, {country_name}: {e}")
             continue
 
-        # Enter city in db
+        # Upsert city
         city = City.query.filter_by(name=name, country_id=country_id).first()
         if city:
             city.latitude = lat

@@ -1,8 +1,6 @@
 """ Visa Service Module
-This module contains functions to fetch, process, and store visa information
-for various countries. It includes functions to fetch HTML content from
-visaguide.world, extract visa information, and save it to a database."""
-
+This module provides functionality to fetch, parse, and store visa information
+for different countries."""
 
 __author__ = "Akele Benjamin(620130803)"
 import os

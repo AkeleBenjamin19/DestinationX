@@ -1,6 +1,4 @@
-""" User Model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from datetime import datetime
 from .. import db
 from .amenity import Amenity
@@ -16,10 +14,12 @@ class User(db.Model):
     port_of_origin = db.Column(db.String(64))
     country_residence = db.Column(db.String(64))
 
+    # One-to-one user preference
     preferences = db.relationship(
         'UserPreference', back_populates='user', uselist=False
     )
 
+    # Association-object relationships
     activity_preferences = db.relationship(
         'UserActivityPreference', back_populates='user', cascade='all, delete-orphan'
     )
@@ -32,16 +32,9 @@ class User(db.Model):
         'Amenity', secondary='user_amenity_preferences', back_populates='users'
     )
 
+    
     recommendations = db.relationship('Recommendation', back_populates='user')
     destinations    = db.relationship('Destination',    back_populates='user')
-
-    def __init__(self, email:str, name:str, password_hash:str, date_of_birth:str, port_of_origin:str, country_residence:str):
-        self.email = email
-        self.name = name
-        self.password_hash = password_hash
-        self.date_of_birth = date_of_birth
-        self.port_of_origin = port_of_origin
-        self.country_residence = country_residence
 
     def __repr__(self):
         return f'<User {self.email}>'

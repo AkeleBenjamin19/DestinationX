@@ -1,6 +1,4 @@
-""" Categories model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class Category(db.Model):
     __tablename__ = 'categories'

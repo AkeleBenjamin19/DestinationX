@@ -1,6 +1,4 @@
-""" User Preference Model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class UserPreference(db.Model):
     __tablename__ = 'user_preferences'
@@ -31,32 +29,6 @@ class UserPreference(db.Model):
     weight_festival = db.Column(db.Numeric)
     weight_landmarks      = db.Column(db.Numeric)
 
-    user = db.relationship('User', back_populates='preferences')
 
-    def __init__(self, user_id, budget, climate_pref, check_in_date, check_out_date, number_of_travelers, currency_code, visa_required_filter, weight_winter_sports, weight_advennture, weight_outdoor, weight_shopping, weight_arts, weight_road, weight_wildlife, weight_historical, weight_beach, weight_food, weight_wine, weight_education, weight_culture, weight_wellness, weight_family, weight_music, weight_festival):
-        self.user_id = user_id
-        self.budget = budget
-        self.climate_pref = climate_pref
-        self.check_in_date = check_in_date
-        self.check_out_date = check_out_date
-        self.number_of_travelers = number_of_travelers
-        self.currency_code = currency_code
-        self.visa_required_filter = visa_required_filter
-        self.weight_winter_sports = weight_winter_sports
-        self.weight_advennture = weight_advennture
-        self.weight_outdoor = weight_outdoor
-        self.weight_shopping = weight_shopping
-        self.weight_arts = weight_arts
-        self.weight_road = weight_road
-        self.weight_wildlife = weight_wildlife
-        self.weight_historical = weight_historical
-        self.weight_beach = weight_beach
-        self.weight_food = weight_food
-        self.weight_wine = weight_wine
-        self.weight_education = weight_education
-        self.weight_culture = weight_culture
-        self.weight_wellness = weight_wellness
-        self.weight_family = weight_family
-        self.weight_music = weight_music
-        self.weight_festival = weight_festival
-        
+    user = db.relationship('User', back_populates='preferences')
+    

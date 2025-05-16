@@ -1,7 +1,7 @@
-""" Hotel Amenity association table """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
+# THis Table is used to create a many-to-many relationship between hotels and amenities.
 from .. import db
+
 
 hotel_amenities = db.Table(
     'hotel_amenities',

@@ -19,3 +19,4 @@ apscheduler
 mysql-connector-python
 amadeus
 Flask[async]
+functools

@@ -1,6 +1,4 @@
-""" Activity model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class Airport(db.Model):
     __tablename__ = 'airports'
@@ -16,14 +14,3 @@ class Airport(db.Model):
     iso_region  = db.Column(db.String(50))
 
     city = db.relationship('City', back_populates='airports')
-
-    def __init__(self, indent, air_type, name, iata_code, city_id, latitutde, longitude, iso_country, iso_region):
-        self.ident = indent
-        self.type = air_type
-        self.name = name
-        self.iata_code = iata_code
-        self.city_id = city_id
-        self.latitude = latitutde
-        self.longitude = longitude
-        self.iso_country = iso_country
-        self.iso_region = iso_region

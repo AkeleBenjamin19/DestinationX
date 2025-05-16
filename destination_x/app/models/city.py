@@ -1,6 +1,4 @@
-""" City model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class City(db.Model):
     __tablename__ = 'cities'
@@ -9,6 +7,7 @@ class City(db.Model):
     country_id = db.Column(db.Integer, db.ForeignKey('countries.id'), nullable=False)
     latitude  = db.Column(db.Numeric(9,6))
     longitude = db.Column(db.Numeric(9,6))
+    iata_code  = db.Column(db.String(3))
     img= db.Column(db.String(255))
 
     country = db.relationship('Country', back_populates='cities')
@@ -23,12 +22,3 @@ class City(db.Model):
     hotels = db.relationship('Hotel', back_populates='city')
     recommendations = db.relationship('Recommendation', back_populates='city')
     destinations    = db.relationship('Destination',    back_populates='city')
-
-    def __init__(self, name, country_id, latitude, longitude, img):
-        self.name = name
-        self.country_id = country_id
-        self.latitude = latitude
-        self.longitude = longitude
-        self.img = img
-
-        

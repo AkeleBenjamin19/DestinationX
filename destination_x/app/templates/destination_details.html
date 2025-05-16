@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% block title %}{{ city.name }} Details{% endblock %}
+
+{% block content %}
+<div class="position-relative mb-5">
+  <img src="{{ city.image_url or url_for('static', filename='img/placeholder.jpg') }}"
+       class="w-100 rounded" style="height:300px; object-fit:cover;">
+  <div class="position-absolute top-0 start-0 p-4 text-white">
+    <h1>{{ city.name }}</h1>
+    <small>{{ country.name }}</small>
+    <div class="mt-2">
+      {% for act in activities[:3] %}
+        <span class="badge bg-light text-dark me-1">{{ act.name }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="position-absolute top-0 end-0 p-4 bg-white rounded-start text-center">
+    <h2 class="text-success mb-0">{{ score }}%</h2>
+    <small class="text-muted">Match</small>
+  </div>
+</div>
+
+<div class="mb-4">
+  <h4>Flight Cost</h4>
+  <p class="fs-5">${{ flight_cost }}</p>
+</div>
+
+<div>
+  <h4>Activities in {{ city.name }}</h4>
+  <ul class="list-group">
+    {% for act in activities %}
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <div>
+          <strong>{{ act.name }}</strong>
+          <small class="text-muted"> - {{ act.category }}</small>
+        </div>
+        <span>${{ act.price }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
+
+<a href="{{ url_for('destinations.list_destinations') }}" class="btn btn-outline-secondary mb-3">
+    ← Back to All Destinations
+</a>

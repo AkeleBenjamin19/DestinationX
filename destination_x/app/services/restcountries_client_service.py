@@ -1,7 +1,6 @@
-""" RestCountriesClient Service
-This module contains the RestCountriesClient class which is responsible for
-fetching country data from the RestCountries API."""
-
+""" RestCountriesClientService
+    This module provides a client for the RestCountries API.
+    It fetches country data and provides methods to retrieve"""
 __author__ = "Akele Benjamin(620130803)"
 import requests
 from requests.exceptions import RequestException

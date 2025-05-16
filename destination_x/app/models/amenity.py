@@ -1,6 +1,4 @@
-""" Amenity model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class Amenity(db.Model):
     __tablename__ = 'amenities'
@@ -11,11 +9,8 @@ class Amenity(db.Model):
         'Hotel', secondary='hotel_amenities', back_populates='amenities'
     )
     user_preferences = db.relationship(
-        'UserAmenityPreference', back_populates='amenity', overlaps='users,amenities'
+        'UserAmenityPreference', back_populates='amenity'
     )
     users = db.relationship(
-        'User', secondary='user_amenity_preferences', back_populates='amenities', overlaps='amenity_preferences,user_preferences'
+        'User', secondary='user_amenity_preferences', back_populates='amenities'
     )
-
-    def __init__(self, name):
-        self.name = name    

@@ -1,12 +1,13 @@
-"""Airport Service Module
-This module contains the AirportService class which is responsible for loading
-airport data from an Excel file, parsing it, and saving it to the database.
-"""
+""" Airport Service Module
+This module provides functionality to load airport data from an Excel file,
+parse it, and save it to the database."""
 
 __author__ = "Akele Benjamin(620130803)"
+
 import pandas as pd
 from pathlib import Path
 from typing import List, Dict, Any
+
 from .. import db
 from app.models.airport import Airport
 from app.models.city import City
@@ -16,6 +17,7 @@ class AirportService:
     Service for loading airport data from an Excel file and saving it to the DB.
     """
     def __init__(self, excel_path: Path = None):
+        # Default path to data directory: app/data/airports.xlsx
         data_dir = Path(__file__).parents[1] / 'data'
         self.excel_path = excel_path or (data_dir / 'airports.xlsx')
 
@@ -47,9 +49,10 @@ class AirportService:
 
     def save_to_db(self, records: List[Dict[str, Any]]) -> None:
         """
-        Enters airport records into the database.
-        Associates airports with existing cities by municipality/city name.
+        Upsert airport records into the database.
+        Associates airports with existing cities by municipality name.
         """
+        # Build mapping: city name -> city ID
         cities = City.query.all()
         city_map = {c.name: c.id for c in cities}
 

@@ -36,6 +36,8 @@ Edited by:
         Akele Benjamin
 """
 
+import asyncio
+from functools import partial
 import os
 from datetime import datetime
 from amadeus import Client, ResponseError
@@ -54,7 +56,7 @@ class FlightAPIService:
             client_secret=os.environ.get('AMADEUS_CLIENT_SECRET')
         )
 
-    def search_flight_offers(self,
+    async def search_flight_offers(self,
                              origin_iata: str,
                              destination_iata: str,
                              departure_date: str,
@@ -77,13 +79,15 @@ class FlightAPIService:
             params['returnDate'] = return_date
 
         try:
-            response = self.client.shopping.flight_offers_search.get(**params)
+            response = await asyncio.to_thread(
+        partial(self.client.shopping.flight_offers_search.get, **params)
+    )
             return response.data
         except ResponseError as error:
             print(f"[Amadeus Error] {error}")
             return []
 
-    def get_price_entries(self,
+    async def get_price_entries(self,
                           origin_iata: str,
                           destination_iata: str,
                           departure_date: str,
@@ -95,7 +99,7 @@ class FlightAPIService:
         2) If no direct, flights with max 1 stop, cheapest price.
         3) Otherwise, option with fewest stops and cheapest price among those.
         """
-        offers = self.search_flight_offers(
+        offers = await self.search_flight_offers(
             origin_iata, destination_iata, departure_date, return_date, adults
         )
         if not offers:

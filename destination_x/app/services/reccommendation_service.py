@@ -1,15 +1,18 @@
-"""Recommendation Service Module
-This module contains the RecommendationService class which is responsible for
-providing travel recommendations based on user preferences and available
-destinations.
-It includes methods for fetching available destinations, local options,
-flight recommendations, hotel pricing, and calculating scores based on user
-preferences."""
+""" Recommendation Service
+Service for providing travel recommendations:
+  - available destination countries
+  - detailed destinations with local hotels and activities
+  - flight options
+  - hotel pricing
+  - user preference analysis
+"""
 
 __author__ = "Akele Benjamin(620130803)"
 from datetime import date, datetime
 from typing import Optional, Union, List, Dict
+
 from sqlalchemy import or_
+
 from .. import db
 from app.models.user import User
 from app.models.user_preference import UserPreference
@@ -103,7 +106,7 @@ class RecommendationService:
         activities = Activity.query.filter_by(city_id=city.id).all()
         return {'hotels': hotels, 'activities': activities}
 
-    def recommend_flight(
+    async def recommend_flight(
         self,
         origin_iata: str,
         destination_iata: str,
@@ -115,7 +118,7 @@ class RecommendationService:
         Use FlightAPIService to find the best flight offer, save it to DB,
         and return the FlightPrice model instance.
         """
-        entries = self.flight_service.get_price_entries(
+        entries = await self.flight_service.get_price_entries(
             origin_iata,
             destination_iata,
             str(departure_date),
@@ -123,6 +126,7 @@ class RecommendationService:
             adults
         )
         if not entries:
+            print(f"[SKIP] No flight offers found for {origin_iata} to {destination_iata}")
             return None
 
         data = entries[0]
@@ -215,5 +219,7 @@ class RecommendationService:
         budget_ratio = budget / total_cost
         # Assuming total_weight is sum_of_weights (max possible)
         total_weight = sum_of_weights
+        if budget_ratio > 1:
+            budget_ratio = 1.0
         percentage_score = (sum_of_weights / total_weight) * budget_ratio * 100
         return percentage_score

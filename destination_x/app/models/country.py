@@ -1,5 +1,4 @@
-""" Country model """
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class Country(db.Model):
     __tablename__ = 'countries'
@@ -19,10 +18,3 @@ class Country(db.Model):
     )
     destinations    = db.relationship('Destination', back_populates='country')
     recommendations = db.relationship('Recommendation', back_populates='country')
-
-    def __init__(self, name:str, demonym:str, iso_code:str, continent:str, continent_code:str):
-        self.name = name
-        self.demonym = demonym
-        self.iso_code = iso_code
-        self.continent = continent
-        self.continent_code = continent_code

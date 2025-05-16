@@ -1,11 +1,10 @@
-""" Activity Service Module
-This module contains the ActivityService class which is responsible for loading
-activity data from a JSON file, parsing it, and saving it to the database.
-It includes methods for reading the JSON file, parsing the data, and saving
-the data to the database.
-"""
+""" Activity Service
+This module provides a service for loading activity data from a JSON file,
+parsing it, and saving it to the database.
+It includes methods for reading the JSON file, parsing the data into a format suitable for the database,"""
 
 __author__ = "Akele Benjamin(620130803)"
+
 import json
 from pathlib import Path
 from typing import List, Dict, Any
@@ -19,6 +18,7 @@ class ActivityService:
     Service for loading activity data from a JSON file, parsing it, and saving to the database.
     """
     def __init__(self, json_path: Path = None):
+        # Default path: app/data/activities.json
         data_dir = Path(__file__).parents[1] / 'data'
         self.json_path = json_path or (data_dir / 'activities.json')
 
@@ -49,8 +49,9 @@ class ActivityService:
 
     def save_activities(self, records: List[Dict[str, Any]]) -> None:
         """
-        Enters activity records into the activities table, matching by name and city.
+        Upsert activity records into the activities table, matching by name+city.
         """
+        # Build city name -> id map
         cities = City.query.all()
         city_map = {c.name: c.id for c in cities}
 

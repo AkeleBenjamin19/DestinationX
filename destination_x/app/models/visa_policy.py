@@ -1,6 +1,4 @@
-""" VisaPolicy model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from .. import db
 class VisaPolicy(db.Model):
     __tablename__ = 'visa_policies'
@@ -18,12 +16,3 @@ class VisaPolicy(db.Model):
     destination_country = db.relationship(
         'Country', foreign_keys=[destination_id], back_populates='visa_destinations'
     )
-
-    def __init__(self, origin_id, destination_id, visa_free, without_passport, e_visa, visa_on_arrival, visa_required):
-        self.origin_id = origin_id
-        self.destination_id = destination_id
-        self.visa_free = visa_free
-        self.without_passport = without_passport
-        self.e_visa = e_visa
-        self.visa_on_arrival = visa_on_arrival
-        self.visa_required = visa_required

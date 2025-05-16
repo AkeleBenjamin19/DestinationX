@@ -1,11 +1,9 @@
-""" This script:
- imports airport data from a subset of the excel file that is updated daily on https://davidmegginson.github.io/ourairports-data/airports.csv. The entire file was not used because this is a test project.
-This script reads the excel file, parses it into a list of dictionaries, and saves the records to the database using the AirportService class."""
-
+#Author: Akele Benjamin
+# This script fetches all visa information from the website https://www.visaindex.com/visa-requirements/ and saves it to the database.
 
 #Command to run this script:
 # python  app\scripts\import_all_visas.py
-__author__ = "Akele Benjamin(620130803)"
+
 import os
 import sys
 import asyncio

@@ -1,12 +1,6 @@
-""" This script:
-Parses hotel data from a JSON file and saves it to the database.
-This script reads the hotel data from the JSON file, parses it into a list of dictionaries,
-and saves the records to the database using the HotelAPIService class.
-The script is designed to be run as a standalone script.
-"""
+# Author: Akele Benjamin
+# This script adds hotels to the database from a JSON file.
 
-
-__author__ = "Akele Benjamin(620130803)"
 import os
 import sys
 from pathlib import Path
@@ -29,15 +23,15 @@ def main():
     with app.app_context():
         service = HotelAPIService()
 
-        # Read raw JSON data
+        # Step 1: Read raw JSON data
         raw = service.read_json()
         print(f"Loaded {len(raw)} hotel records from {service.json_path}")
 
-        # Parse into standardized records
+        # Step 2: Parse into standardized records
         parsed = service.parse_hotels(raw)
         print(f"Parsed {len(parsed)} hotel entries for processing.")
 
-        #  Save into the database
+        # Step 3: Save into the database
         service.save_hotels(parsed)
         print(f"Saved {len(parsed)} hotels to the database.")
 

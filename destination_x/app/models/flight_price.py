@@ -1,9 +1,6 @@
-""" FlightPrice model """
-
-__author__ = "Akele Benjamin(620130803)"
+# Author: Akele Benjamin
 from datetime import datetime
 from .. import db
-from datetime import date
 class FlightPrice(db.Model):
     __tablename__ = 'flight_prices'
     id                 = db.Column(db.Integer, primary_key=True)
@@ -24,15 +21,3 @@ class FlightPrice(db.Model):
     destination_city = db.relationship(
         'City', foreign_keys=[destination_city_id], back_populates='flight_destinations'
     )
-
-    def __init__(self, orgin_city_id: int, destination_city_id: int, departure_date:date, return_date:date, adults:int, max_price_filter,currency_code, best_price, stops_allowed:int):
-        self.origin_city_id = orgin_city_id
-        self.destination_city_id = destination_city_id
-        self.departure_date = departure_date
-        self.return_date = return_date
-        self.adults = adults
-        self.max_price_filter = max_price_filter
-        self.currency_code = currency_code
-        self.best_price = best_price
-        self.stops_allowed = stops_allowed
-     
