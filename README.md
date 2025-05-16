@@ -12,8 +12,10 @@ preferences.
 - Category-based activity recommendations
 
 ## Quickstart
-
+***Note: Functional code is located in "working_branch"***
 ```bash
+#Create a PostgreSQL db called destination_x
+
 # Clone & install
 git clone https://github.com/AkeleBenjamin19/DestinationX.git
 cd destinationx
@@ -36,6 +38,8 @@ python app/scripts/import_cities.py
 python app/scripts/import_airports.py
 python app/scripts/import_activities.py
 python app/scripts/import_hotels.py
+python app/scripts/add_iata_code.py
+python app/scripts/add_categories.py
 
 # Run the server
 flask run
