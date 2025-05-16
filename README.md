@@ -20,7 +20,7 @@ Modify link in .env to update user and password.
 ```bash
 # Clone & install
 git clone https://github.com/AkeleBenjamin19/DestinationX.git
-cd destinationx
+cd DestinationX
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
@@ -45,4 +45,4 @@ python app/scripts/import_hotels.py
 python app/scripts/add_categories.py
 
 # Run 
-pyhton run,py
+python run.py
